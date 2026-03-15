@@ -1,0 +1,1001 @@
+First Name,Last Name,Email,Gender,Age,Department,Attendance (%),Midterm Score,Final Score,Assignment Average,Quiz Average,Participation Score,Project Score,Total Score,Grade,Study Hours Per Week,Extracurricular Activity,Internet Access,Parent's Education,Family Income,Stress Level
+Atharv,Joshi,atharv.joshi333@example.com,Female,22,Mechanical,84.97,67.93,81.72,90.23,71.19,75.66,94.95,79.51,B,19,Yes,Yes,PhD,Middle,Low
+Krishna,Malhotra,krishna.malhotra179@example.com,Male,23,Civil,87.67,62.96,80.14,70.37,68.41,80.42,53.04,70.51,B,15,No,Yes,Diploma,High,Low
+Reyansh,Chatterjee,reyansh.chatterjee161@example.com,Female,19,Electrical,62.75,61.57,56.81,78.14,63.1,63.88,93.59,65.86,C,22,Yes,No,High School,Low,Low
+Riya,Verma,riya.verma403@example.com,Other,22,Civil,77.74,71.01,50.63,69.56,75.33,66.49,80.51,64.82,C,13,No,No,PhD,Low,High
+Vivaan,Kumar,vivaan.kumar689@example.com,Female,21,Information Technology,73.99,65.62,62.97,93.52,73.84,67.42,85.87,71.82,B,10,Yes,No,Diploma,Middle,Medium
+Aarav,Chatterjee,aarav.chatterjee109@example.com,Male,21,Information Technology,67.79,73.13,42.6,61.72,76.36,85.38,78.06,62.16,C,5,Yes,Yes,Bachelor,Low,Medium
+Pari,Kapoor,pari.kapoor38@example.com,Female,18,Civil,78.84,65.48,49.82,67.8,68.47,88.57,80.12,63.27,C,33,Yes,Yes,High School,Middle,High
+Pari,Reddy,pari.reddy409@example.com,Male,21,Information Technology,62.37,74.86,66.22,68.23,81.34,88.31,87.18,73.4,B,29,Yes,No,Bachelor,Middle,High
+Pari,Das,pari.das766@example.com,Other,17,Mechanical,71.61,65.36,76.97,84.76,68.25,76.14,62.72,72.9,B,20,Yes,Yes,High School,Middle,High
+Reyansh,Tiwari,reyansh.tiwari792@example.com,Male,25,Data Science,68.04,82.19,92.34,74.28,86.04,81.62,68.26,83.52,B,28,No,No,High School,High,Medium
+Aadhya,Chatterjee,aadhya.chatterjee856@example.com,Other,17,Electrical,83.61,93.07,71.46,90.65,42.56,86.22,77.04,78.15,B,35,No,No,Diploma,Middle,Medium
+Aarav,Tiwari,aarav.tiwari783@example.com,Other,19,Electronics,77.01,71.38,42.19,72.8,78.29,92.78,69.78,62.98,C,16,No,No,Bachelor,Low,Medium
+Krishna,Verma,krishna.verma59@example.com,Female,20,Data Science,71.92,62.47,85.73,78.29,67.64,83.13,77.16,76.0,B,8,Yes,Yes,PhD,High,High
+Ishaan,Singh,ishaan.singh332@example.com,Male,23,Civil,89.69,59.47,67.09,71.08,56.44,80.96,79.13,66.61,C,9,Yes,Yes,PhD,High,Low
+Navya,Patel,navya.patel13@example.com,Other,23,Mechanical,80.05,66.48,50.77,70.79,69.89,69.98,74.06,62.9,C,14,Yes,Yes,Bachelor,High,High
+Sai,Yadav,sai.yadav487@example.com,Male,24,Information Technology,84.04,98.29,74.62,77.58,73.11,58.81,75.68,80.15,B,32,Yes,No,Diploma,Low,Medium
+Krishna,Verma,krishna.verma274@example.com,Other,23,Electrical,80.6,100.0,69.11,78.02,73.58,66.31,89.71,80.54,B,19,Yes,Yes,Master,High,Low
+Sai,Banerjee,sai.banerjee613@example.com,Other,17,Information Technology,87.52,81.87,58.36,89.03,57.18,83.87,100.0,74.16,B,22,No,Yes,High School,Low,High
+Aadhya,Singh,aadhya.singh573@example.com,Other,18,Data Science,70.09,61.51,73.49,69.97,55.39,78.69,63.25,67.39,C,12,No,No,Bachelor,Low,Low
+Anaya,Iyer,anaya.iyer464@example.com,Other,20,Computer Science,84.74,56.21,95.25,67.17,70.14,86.14,61.23,74.91,B,31,Yes,No,Bachelor,Low,Medium
+Krishna,Yadav,krishna.yadav847@example.com,Female,25,Mechanical,82.27,89.61,47.89,76.85,77.12,85.82,61.16,68.81,C,22,No,Yes,PhD,Low,Low
+Diya,Malhotra,diya.malhotra245@example.com,Other,18,Electrical,66.8,77.83,76.45,77.5,78.16,71.2,78.79,77.1,B,15,No,No,Bachelor,Middle,High
+Aditya,Patel,aditya.patel51@example.com,Male,17,Electronics,82.93,59.28,99.99,79.74,59.7,84.57,64.3,78.41,B,10,Yes,No,Master,Middle,Medium
+Aarav,Yadav,aarav.yadav76@example.com,Other,24,Electronics,87.87,87.38,59.69,84.63,78.95,86.22,98.76,77.51,B,25,No,Yes,Diploma,Low,Low
+Krishna,Kumar,krishna.kumar753@example.com,Male,24,Civil,77.55,58.69,58.66,66.84,73.07,81.41,79.32,64.54,C,20,Yes,Yes,Bachelor,High,High
+Navya,Das,navya.das412@example.com,Male,25,Information Technology,88.27,70.2,93.8,72.35,100.0,84.26,65.71,82.02,B,6,No,Yes,Diploma,Middle,Low
+Navya,Mehta,navya.mehta866@example.com,Female,21,Data Science,69.29,77.24,68.65,82.14,79.68,77.27,65.84,74.07,B,28,No,No,Master,Middle,Medium
+Shaurya,Nair,shaurya.nair434@example.com,Other,22,Computer Science,64.85,63.3,84.85,77.14,59.05,79.73,80.62,75.05,B,11,Yes,Yes,PhD,High,Low
+Sai,Saxena,sai.saxena610@example.com,Other,24,Mechanical,71.16,72.31,72.87,63.57,78.29,83.61,89.0,74.03,B,24,No,No,High School,High,Low
+Vivaan,Sharma,vivaan.sharma277@example.com,Male,17,Computer Science,90.54,49.33,57.93,80.15,80.17,83.15,100.0,66.81,C,9,Yes,Yes,Master,Low,Low
+Riya,Sharma,riya.sharma690@example.com,Female,17,Electrical,85.71,87.03,86.31,81.51,70.22,85.59,66.73,82.17,B,12,Yes,No,Diploma,Low,Medium
+Aditya,Saxena,aditya.saxena927@example.com,Other,20,Mechanical,77.63,62.72,73.23,98.15,51.59,84.86,56.65,71.1,B,14,No,No,Bachelor,High,High
+Anika,Das,anika.das600@example.com,Male,19,Computer Science,75.28,86.33,72.96,64.22,65.42,84.8,67.24,74.26,B,26,Yes,Yes,PhD,Middle,Low
+Arjun,Gupta,arjun.gupta528@example.com,Other,22,Mechanical,82.16,70.68,62.23,96.44,81.61,57.75,78.24,72.79,B,17,No,No,Master,Middle,Medium
+Navya,Tiwari,navya.tiwari11@example.com,Male,25,Computer Science,73.38,82.79,60.11,73.85,80.06,86.66,61.6,71.31,B,24,Yes,No,Bachelor,High,Low
+Aditya,Sharma,aditya.sharma884@example.com,Male,18,Mechanical,76.65,62.88,62.2,92.65,78.86,65.39,87.01,71.24,B,30,No,Yes,Bachelor,Low,High
+Atharv,Joshi,atharv.joshi297@example.com,Male,23,Information Technology,100.0,85.49,49.21,70.16,89.2,70.92,81.33,69.72,C,22,No,Yes,Diploma,Low,Low
+Ishaan,Singh,ishaan.singh141@example.com,Female,19,Civil,87.75,56.1,71.11,42.59,61.71,75.47,61.03,61.35,C,25,Yes,Yes,High School,Low,Low
+Aarav,Joshi,aarav.joshi761@example.com,Female,24,Data Science,96.32,48.55,65.4,76.31,91.3,63.64,89.96,67.78,C,18,No,Yes,Diploma,Middle,Medium
+Pari,Saxena,pari.saxena862@example.com,Other,25,Electrical,80.1,55.28,78.93,76.99,66.8,78.7,71.38,70.75,B,24,No,Yes,Bachelor,Middle,Medium
+Arjun,Singh,arjun.singh49@example.com,Male,19,Civil,81.14,79.93,95.79,62.62,99.6,58.48,74.18,83.2,B,5,No,No,Bachelor,Middle,Medium
+Vivaan,Verma,vivaan.verma929@example.com,Male,19,Information Technology,85.88,74.21,62.66,72.92,68.08,72.11,86.2,70.46,B,22,No,No,Diploma,Middle,High
+Pari,Sharma,pari.sharma971@example.com,Male,18,Electrical,83.57,59.61,85.49,78.07,83.75,84.3,66.05,75.73,B,20,Yes,Yes,Diploma,Middle,High
+Siya,Tiwari,siya.tiwari788@example.com,Male,24,Computer Science,74.4,81.21,81.16,74.79,75.41,90.78,68.9,78.9,B,5,Yes,Yes,Diploma,High,Low
+Shaurya,Sharma,shaurya.sharma480@example.com,Other,18,Information Technology,85.47,66.97,68.73,85.99,83.9,86.14,91.67,75.56,B,20,No,Yes,Bachelor,High,High
+Anika,Banerjee,anika.banerjee101@example.com,Male,23,Electrical,80.21,80.23,67.35,78.24,72.44,78.97,83.14,74.87,B,20,No,Yes,Master,Middle,Low
+Shaurya,Saxena,shaurya.saxena55@example.com,Female,24,Data Science,71.82,100.0,56.91,62.86,87.9,85.92,83.49,75.78,B,16,No,No,Diploma,Low,Low
+Pari,Malhotra,pari.malhotra256@example.com,Other,22,Computer Science,86.28,69.82,58.54,75.76,65.87,87.75,74.24,67.71,C,34,Yes,No,Master,Low,Low
+Anika,Patel,anika.patel631@example.com,Other,17,Mechanical,71.75,65.18,78.19,69.36,64.13,80.44,78.94,72.4,B,28,Yes,No,Diploma,High,Medium
+Anaya,Chatterjee,anaya.chatterjee390@example.com,Female,18,Mechanical,74.93,62.93,75.48,60.52,57.11,70.82,73.44,67.83,C,29,Yes,Yes,High School,Low,Medium
+Anika,Nair,anika.nair236@example.com,Female,23,Computer Science,83.11,92.13,84.86,73.4,73.77,67.97,75.78,82.1,B,14,Yes,Yes,PhD,Low,Medium
+Reyansh,Chatterjee,reyansh.chatterjee168@example.com,Male,21,Electrical,77.11,74.84,59.59,80.19,92.39,76.91,80.82,72.76,B,31,No,Yes,PhD,High,Medium
+Diya,Singh,diya.singh543@example.com,Other,20,Civil,86.9,63.98,75.36,75.13,75.17,70.27,76.29,72.3,B,5,Yes,No,Diploma,High,Low
+Aadhya,Tiwari,aadhya.tiwari541@example.com,Male,17,Civil,84.98,91.77,86.39,96.53,64.79,86.72,78.2,86.29,A,22,No,Yes,High School,Low,High
+Aarav,Kapoor,aarav.kapoor997@example.com,Other,19,Civil,100.0,57.88,59.4,69.01,48.51,72.74,66.89,60.79,C,22,No,Yes,Diploma,Middle,Medium
+Shaurya,Pandey,shaurya.pandey901@example.com,Other,18,Computer Science,81.5,75.13,100.0,84.5,67.08,69.02,81.9,84.81,B,12,No,No,High School,Middle,High
+Pari,Verma,pari.verma582@example.com,Male,22,Mechanical,66.8,97.47,89.69,70.31,53.44,91.54,74.63,83.69,B,5,No,No,Diploma,High,Medium
+Navya,Mehta,navya.mehta367@example.com,Other,25,Information Technology,92.38,46.08,63.01,75.05,74.56,73.5,83.47,64.31,C,21,No,No,Diploma,Middle,Medium
+Shaurya,Iyer,shaurya.iyer201@example.com,Female,25,Civil,69.32,67.86,73.8,80.14,82.54,66.75,57.59,72.17,B,25,No,Yes,High School,High,Low
+Aditya,Das,aditya.das533@example.com,Male,21,Mechanical,92.78,74.98,60.77,90.51,75.39,89.79,76.81,73.3,B,7,No,No,Bachelor,Low,High
+Aarav,Nair,aarav.nair644@example.com,Other,21,Civil,100.0,96.33,68.27,84.72,81.74,91.69,64.42,79.88,B,19,No,Yes,PhD,Low,Low
+Pari,Tiwari,pari.tiwari862@example.com,Male,25,Electronics,86.86,85.88,45.62,63.17,49.53,75.31,84.61,64.09,C,24,Yes,No,Diploma,Middle,High
+Siya,Yadav,siya.yadav186@example.com,Female,17,Information Technology,95.02,71.11,96.43,61.2,53.56,77.44,80.61,78.0,B,14,Yes,Yes,PhD,High,High
+Myra,Saxena,myra.saxena240@example.com,Female,17,Data Science,79.67,38.99,70.66,61.96,82.04,81.67,64.72,62.53,C,6,No,No,Diploma,Low,Medium
+Arjun,Tiwari,arjun.tiwari235@example.com,Female,25,Civil,74.86,54.11,71.06,84.55,62.17,83.04,69.64,68.41,C,25,Yes,Yes,PhD,Low,Low
+Navya,Iyer,navya.iyer571@example.com,Other,23,Data Science,72.07,68.39,56.47,69.46,59.63,97.65,76.42,65.77,C,26,No,No,Master,High,High
+Atharv,Pandey,atharv.pandey378@example.com,Other,23,Electronics,73.0,73.21,70.32,72.79,81.37,85.58,69.63,73.21,B,21,Yes,Yes,Diploma,Middle,High
+Diya,Gupta,diya.gupta182@example.com,Female,24,Computer Science,74.24,65.87,37.47,59.85,90.4,94.45,73.01,59.62,C,10,Yes,Yes,Master,Low,Medium
+Ishaan,Patel,ishaan.patel995@example.com,Male,23,Electrical,85.77,74.67,100.0,86.2,72.46,68.44,56.72,82.94,B,11,No,No,Diploma,Middle,High
+Krishna,Joshi,krishna.joshi759@example.com,Other,25,Information Technology,82.03,58.65,50.67,68.53,61.02,94.87,86.58,62.18,C,33,No,Yes,PhD,High,High
+Vivaan,Mehta,vivaan.mehta937@example.com,Male,20,Electrical,79.92,92.2,73.16,66.39,92.28,83.39,63.55,78.37,B,13,No,Yes,High School,Low,Medium
+Shaurya,Saxena,shaurya.saxena445@example.com,Other,17,Civil,78.1,56.87,51.26,84.26,96.91,64.01,82.76,65.96,C,13,Yes,Yes,Bachelor,High,High
+Saanvi,Mehta,saanvi.mehta571@example.com,Female,24,Information Technology,73.49,62.69,63.11,66.36,74.58,69.69,79.25,66.58,C,28,Yes,Yes,Bachelor,Middle,Medium
+Atharv,Banerjee,atharv.banerjee5@example.com,Female,17,Electronics,79.5,66.42,58.39,69.23,83.06,83.01,64.27,66.31,C,21,Yes,Yes,Bachelor,Middle,Medium
+Saanvi,Kumar,saanvi.kumar162@example.com,Female,18,Computer Science,80.99,81.27,46.96,80.43,66.05,83.71,66.84,66.29,C,31,No,Yes,PhD,Low,High
+Arjun,Patel,arjun.patel952@example.com,Male,19,Information Technology,61.95,45.59,72.72,77.6,63.15,84.39,56.06,64.63,C,35,Yes,Yes,Bachelor,High,Low
+Sai,Sharma,sai.sharma714@example.com,Male,18,Mechanical,79.34,51.83,62.22,75.47,63.68,74.15,88.08,64.94,C,6,No,Yes,PhD,High,Medium
+Arjun,Chatterjee,arjun.chatterjee449@example.com,Male,22,Computer Science,74.23,82.54,55.05,80.3,91.3,53.28,66.44,70.39,B,26,Yes,No,PhD,High,Medium
+Sai,Kapoor,sai.kapoor501@example.com,Female,18,Computer Science,85.77,66.95,77.57,68.96,75.04,76.44,90.01,74.56,B,15,Yes,No,PhD,Low,High
+Navya,Gupta,navya.gupta671@example.com,Male,23,Electrical,82.54,75.06,65.82,70.12,68.81,81.94,70.95,70.4,B,11,Yes,No,PhD,Low,Medium
+Sai,Singh,sai.singh876@example.com,Female,24,Civil,82.9,100.0,85.07,71.74,88.41,73.92,51.54,83.23,B,32,No,No,Diploma,High,Low
+Arjun,Kumar,arjun.kumar845@example.com,Male,25,Information Technology,69.92,41.94,66.73,75.18,94.12,81.27,73.37,65.93,C,30,Yes,Yes,Diploma,High,Low
+Aadhya,Kumar,aadhya.kumar557@example.com,Female,25,Data Science,88.29,36.83,75.53,82.71,56.26,89.44,80.06,66.16,C,13,Yes,No,Master,Low,Medium
+Diya,Chatterjee,diya.chatterjee521@example.com,Male,21,Data Science,75.85,79.49,100.0,76.82,76.98,73.41,65.8,84.34,B,34,No,Yes,High School,Middle,Low
+Atharv,Sharma,atharv.sharma830@example.com,Male,17,Data Science,88.3,57.16,73.07,70.22,79.75,81.34,88.45,71.29,B,5,No,Yes,Master,Low,High
+Aadhya,Yadav,aadhya.yadav290@example.com,Male,21,Data Science,74.9,65.95,57.32,70.56,78.53,85.57,64.93,65.76,C,8,No,Yes,PhD,High,Medium
+Reyansh,Banerjee,reyansh.banerjee354@example.com,Female,18,Electrical,88.7,90.33,78.2,93.77,64.71,65.55,54.66,79.23,B,10,Yes,Yes,High School,Middle,Low
+Sai,Reddy,sai.reddy937@example.com,Female,17,Data Science,94.96,79.82,71.17,77.8,60.49,100.0,77.55,75.34,B,34,Yes,No,PhD,Middle,Low
+Aadhya,Patel,aadhya.patel938@example.com,Female,25,Information Technology,81.09,80.89,79.22,77.24,64.51,82.71,98.58,79.98,B,12,Yes,No,Master,High,Low
+Siya,Tiwari,siya.tiwari879@example.com,Male,20,Mechanical,93.45,93.9,64.33,65.1,72.49,78.56,89.13,75.85,B,11,No,Yes,Diploma,High,Low
+Riya,Reddy,riya.reddy718@example.com,Female,25,Information Technology,63.08,92.94,69.63,70.73,61.85,61.45,85.88,76.06,B,14,Yes,No,High School,Low,Medium
+Arjun,Tiwari,arjun.tiwari998@example.com,Female,24,Civil,80.73,50.65,52.57,71.64,94.03,75.4,57.96,60.78,C,16,Yes,Yes,Master,Middle,Low
+Riya,Mehta,riya.mehta479@example.com,Male,18,Electrical,77.54,65.91,31.55,74.46,71.23,84.96,98.19,59.88,C,25,No,Yes,Diploma,Low,Medium
+Aarav,Malhotra,aarav.malhotra95@example.com,Other,17,Mechanical,91.27,65.97,55.4,100.0,74.71,78.14,75.71,69.83,C,25,Yes,Yes,PhD,High,Medium
+Atharv,Iyer,atharv.iyer624@example.com,Female,25,Information Technology,81.98,67.83,63.4,69.53,73.61,72.57,67.45,67.31,C,32,Yes,No,Diploma,Low,Medium
+Aarav,Gupta,aarav.gupta992@example.com,Male,24,Computer Science,81.06,66.18,94.56,48.49,87.1,90.46,51.12,75.26,B,18,Yes,No,High School,Low,Low
+Ishaan,Verma,ishaan.verma739@example.com,Male,20,Civil,76.57,64.43,50.89,67.22,60.67,95.52,87.23,63.57,C,28,No,Yes,Diploma,High,Low
+Pari,Tiwari,pari.tiwari831@example.com,Male,21,Mechanical,92.72,80.83,55.06,69.75,79.87,65.78,84.56,69.67,C,25,Yes,Yes,Bachelor,Low,Medium
+Navya,Sharma,navya.sharma95@example.com,Male,23,Civil,77.6,64.38,82.66,79.44,69.67,89.59,63.03,74.69,B,5,No,Yes,Master,High,Low
+Krishna,Yadav,krishna.yadav775@example.com,Male,19,Mechanical,86.16,78.9,67.36,78.26,58.99,87.24,73.78,72.68,B,17,Yes,Yes,Diploma,Middle,Low
+Sai,Saxena,sai.saxena698@example.com,Other,22,Data Science,74.77,85.74,61.43,60.92,55.32,84.06,60.63,67.87,C,15,Yes,Yes,PhD,Middle,High
+Sai,Patel,sai.patel540@example.com,Female,18,Electrical,97.55,38.77,97.45,77.11,72.84,72.55,80.79,74.36,B,28,Yes,Yes,High School,Middle,Low
+Aarav,Tiwari,aarav.tiwari304@example.com,Female,23,Information Technology,79.62,86.55,73.71,76.5,69.64,77.43,79.69,77.72,B,11,No,No,Bachelor,High,Low
+Pari,Joshi,pari.joshi287@example.com,Other,18,Electrical,62.9,49.78,83.15,76.71,71.79,78.18,80.17,72.16,B,19,Yes,No,High School,Low,High
+Siya,Mehta,siya.mehta969@example.com,Male,24,Data Science,74.6,58.33,74.94,65.22,78.9,60.97,88.35,70.37,B,31,Yes,Yes,Master,Low,Low
+Arjun,Sharma,arjun.sharma909@example.com,Male,24,Data Science,84.73,73.84,86.74,91.65,86.17,59.59,60.65,80.23,B,19,Yes,Yes,High School,Middle,Low
+Diya,Patel,diya.patel835@example.com,Male,19,Electronics,73.75,70.39,79.76,67.74,76.24,70.45,68.66,73.69,B,12,Yes,Yes,High School,High,High
+Diya,Gupta,diya.gupta702@example.com,Female,22,Data Science,65.93,56.15,51.72,65.24,86.64,68.51,100.0,64.02,C,21,Yes,No,Bachelor,Middle,High
+Navya,Das,navya.das190@example.com,Female,18,Mechanical,84.93,72.77,59.12,82.0,67.09,79.22,100.0,71.86,B,11,No,No,Master,Low,Low
+Ishaan,Mehta,ishaan.mehta242@example.com,Female,23,Civil,79.04,87.24,61.45,74.65,95.25,71.73,97.75,77.4,B,30,Yes,No,High School,Low,High
+Arjun,Iyer,arjun.iyer417@example.com,Male,17,Mechanical,87.08,61.56,81.49,84.73,81.46,62.3,67.27,74.61,B,34,Yes,Yes,Bachelor,Low,Low
+Ishaan,Mehta,ishaan.mehta393@example.com,Female,25,Civil,77.52,68.88,81.31,76.78,57.98,81.8,83.33,75.42,B,24,Yes,Yes,Master,Low,Low
+Ishaan,Gupta,ishaan.gupta340@example.com,Female,18,Electrical,85.6,86.21,84.51,79.59,73.16,61.39,81.16,81.57,B,24,Yes,Yes,Master,Low,Medium
+Anika,Singh,anika.singh576@example.com,Female,19,Computer Science,82.08,74.07,52.85,64.19,86.64,77.6,84.18,67.61,C,26,Yes,Yes,High School,High,High
+Krishna,Verma,krishna.verma710@example.com,Male,23,Mechanical,80.28,70.45,86.07,69.84,75.15,73.38,70.79,76.48,B,16,Yes,Yes,Bachelor,High,High
+Atharv,Kumar,atharv.kumar122@example.com,Other,25,Mechanical,76.91,73.33,64.82,87.56,63.26,76.13,70.72,71.36,B,22,Yes,No,High School,Low,Medium
+Diya,Malhotra,diya.malhotra506@example.com,Female,21,Electronics,94.47,72.95,87.48,60.14,77.2,86.9,76.99,77.64,B,22,No,Yes,Bachelor,Middle,Medium
+Krishna,Iyer,krishna.iyer426@example.com,Female,23,Data Science,90.65,62.24,93.14,97.99,69.65,73.54,93.44,82.84,B,8,No,Yes,Bachelor,Middle,Low
+Shaurya,Patel,shaurya.patel847@example.com,Male,23,Information Technology,95.8,62.16,65.7,72.18,57.87,68.81,63.95,64.98,C,22,Yes,Yes,Bachelor,High,Medium
+Myra,Verma,myra.verma611@example.com,Other,25,Mechanical,72.32,69.48,75.51,90.51,62.02,87.84,73.43,75.31,B,7,No,No,High School,Middle,High
+Reyansh,Pandey,reyansh.pandey321@example.com,Other,23,Civil,79.51,80.12,55.16,78.82,76.0,82.92,79.47,70.85,B,21,Yes,No,High School,High,High
+Ishaan,Sharma,ishaan.sharma530@example.com,Other,25,Information Technology,100.0,60.43,64.04,68.77,67.33,71.63,90.27,67.18,C,13,No,No,PhD,Middle,High
+Anaya,Kumar,anaya.kumar768@example.com,Female,22,Computer Science,94.21,61.44,59.51,79.71,67.37,84.33,78.44,66.94,C,22,No,Yes,Master,Low,Medium
+Aadhya,Joshi,aadhya.joshi960@example.com,Male,22,Data Science,64.84,93.21,98.94,68.87,69.35,80.86,80.01,87.24,A,16,Yes,Yes,Diploma,Middle,Low
+Aarav,Sharma,aarav.sharma848@example.com,Male,25,Data Science,86.59,100.0,69.35,67.02,57.45,70.69,75.6,76.16,B,23,Yes,No,Bachelor,Middle,Low
+Aarav,Kumar,aarav.kumar873@example.com,Other,23,Civil,97.95,62.24,75.36,74.84,88.26,100.0,69.63,73.95,B,17,No,Yes,High School,Middle,High
+Atharv,Singh,atharv.singh476@example.com,Female,22,Computer Science,75.11,85.66,82.23,93.47,81.01,74.41,83.09,84.35,B,17,Yes,No,Diploma,High,High
+Aarav,Joshi,aarav.joshi144@example.com,Female,24,Data Science,91.09,82.31,79.61,85.67,88.03,91.82,83.78,83.06,B,11,Yes,No,Master,Low,Medium
+Riya,Kapoor,riya.kapoor546@example.com,Other,17,Electrical,78.33,72.2,90.1,66.83,78.42,74.07,76.34,78.79,B,22,Yes,Yes,Diploma,Middle,High
+Siya,Sharma,siya.sharma411@example.com,Female,21,Civil,92.78,72.87,72.7,61.4,82.96,84.45,100.0,75.39,B,9,Yes,Yes,PhD,Middle,Medium
+Anika,Reddy,anika.reddy931@example.com,Male,24,Mechanical,76.92,73.29,75.74,90.77,72.86,80.79,83.29,78.1,B,22,Yes,Yes,Diploma,High,Medium
+Myra,Sharma,myra.sharma254@example.com,Female,25,Electrical,81.87,63.3,74.91,85.74,61.68,79.33,67.6,71.8,B,22,Yes,No,Bachelor,Low,Low
+Atharv,Patel,atharv.patel3@example.com,Female,21,Electrical,91.95,47.15,63.62,78.77,92.79,77.34,69.34,65.95,C,26,No,No,High School,Low,Low
+Vivaan,Singh,vivaan.singh393@example.com,Other,18,Electronics,98.81,48.28,39.02,79.4,67.98,67.79,84.5,56.27,C,10,Yes,No,High School,High,Medium
+Riya,Joshi,riya.joshi346@example.com,Male,19,Computer Science,82.44,61.54,52.8,83.72,81.8,77.01,98.16,68.27,C,6,Yes,No,Bachelor,Low,Medium
+Atharv,Verma,atharv.verma342@example.com,Female,18,Electronics,69.3,47.12,61.62,74.54,76.92,75.59,80.22,64.02,C,12,No,No,Master,High,Low
+Sai,Iyer,sai.iyer616@example.com,Other,22,Electronics,67.48,91.66,70.77,86.17,78.11,82.57,82.84,80.83,B,14,No,Yes,Master,High,High
+Reyansh,Nair,reyansh.nair60@example.com,Male,25,Computer Science,84.48,79.64,91.94,76.97,82.51,77.1,93.28,85.07,A,12,No,No,High School,Low,High
+Siya,Nair,siya.nair740@example.com,Other,20,Computer Science,73.24,97.01,71.4,60.69,75.54,71.19,86.09,78.07,B,26,No,No,Bachelor,Low,Low
+Aditya,Patel,aditya.patel318@example.com,Other,23,Computer Science,73.47,63.31,43.66,70.48,44.91,62.16,85.12,57.79,C,9,No,Yes,PhD,Low,High
+Anaya,Das,anaya.das332@example.com,Other,22,Mechanical,87.86,76.38,57.5,74.52,73.96,66.42,94.04,70.52,B,22,Yes,No,Master,Middle,Low
+Arjun,Joshi,arjun.joshi21@example.com,Female,20,Mechanical,88.77,66.69,72.4,77.08,49.5,75.53,67.82,69.08,C,17,Yes,Yes,PhD,High,Medium
+Siya,Iyer,siya.iyer655@example.com,Male,22,Data Science,69.98,65.78,98.97,81.41,67.15,83.73,92.79,83.48,B,34,No,No,Diploma,Middle,Medium
+Riya,Verma,riya.verma151@example.com,Other,17,Mechanical,89.25,70.89,62.3,81.98,78.72,86.95,83.62,72.41,B,22,No,Yes,Master,Low,Low
+Shaurya,Joshi,shaurya.joshi610@example.com,Other,20,Data Science,90.5,61.97,91.76,76.98,98.9,71.11,96.83,82.28,B,31,No,No,PhD,Middle,Medium
+Ishaan,Joshi,ishaan.joshi615@example.com,Male,20,Civil,81.98,60.23,64.74,71.8,79.09,83.23,69.12,67.47,C,15,Yes,No,High School,Low,Low
+Shaurya,Kapoor,shaurya.kapoor6@example.com,Other,23,Electronics,79.76,100.0,97.91,79.36,74.46,79.2,83.36,90.92,A,19,Yes,No,High School,High,Low
+Aadhya,Chatterjee,aadhya.chatterjee486@example.com,Female,20,Information Technology,69.77,66.14,46.97,78.99,81.77,73.17,94.89,66.15,C,30,No,No,Master,High,Low
+Diya,Pandey,diya.pandey221@example.com,Male,19,Civil,67.74,48.03,75.37,85.47,94.21,73.41,88.94,73.19,B,33,Yes,No,Master,Middle,Low
+Atharv,Patel,atharv.patel514@example.com,Female,25,Information Technology,79.61,67.41,85.25,81.52,55.08,92.77,92.56,78.32,B,35,Yes,No,Master,High,High
+Navya,Joshi,navya.joshi704@example.com,Other,24,Electronics,73.74,75.94,79.41,77.61,67.4,71.28,75.69,76.29,B,7,Yes,Yes,Diploma,High,High
+Shaurya,Nair,shaurya.nair919@example.com,Male,19,Civil,91.73,78.15,66.44,82.72,39.82,89.49,55.12,69.17,C,29,No,Yes,Bachelor,Middle,Low
+Aarav,Gupta,aarav.gupta164@example.com,Male,21,Mechanical,76.38,53.2,52.58,86.61,68.39,81.47,75.44,63.15,C,5,No,No,Bachelor,Low,High
+Sai,Kumar,sai.kumar931@example.com,Female,24,Information Technology,84.77,71.15,52.76,84.96,68.07,62.43,70.86,66.01,C,17,No,No,Master,High,Medium
+Reyansh,Patel,reyansh.patel833@example.com,Other,20,Data Science,95.01,82.75,66.77,71.51,70.14,98.77,80.58,74.79,B,5,No,No,Diploma,Low,Medium
+Navya,Saxena,navya.saxena445@example.com,Male,19,Computer Science,84.3,85.45,75.58,72.41,71.64,77.28,75.55,77.26,B,23,Yes,Yes,PhD,Middle,High
+Anaya,Gupta,anaya.gupta18@example.com,Female,23,Computer Science,87.28,70.78,82.99,74.19,74.94,58.02,87.0,76.96,B,26,No,No,Bachelor,Middle,Low
+Atharv,Kapoor,atharv.kapoor595@example.com,Other,18,Data Science,83.46,84.97,28.56,95.88,72.32,89.08,63.52,63.66,C,25,No,No,High School,High,Medium
+Pari,Chatterjee,pari.chatterjee972@example.com,Other,25,Data Science,86.13,54.2,62.64,94.14,71.71,80.17,86.44,69.42,C,28,No,Yes,Diploma,High,Low
+Saanvi,Reddy,saanvi.reddy436@example.com,Other,19,Mechanical,84.96,72.26,77.47,99.03,73.31,80.01,88.61,80.23,B,35,No,Yes,PhD,Middle,Medium
+Reyansh,Banerjee,reyansh.banerjee881@example.com,Female,23,Computer Science,91.06,87.81,81.58,63.57,93.6,66.54,79.63,80.69,B,24,No,Yes,Master,Low,Low
+Krishna,Gupta,krishna.gupta23@example.com,Female,25,Data Science,72.46,69.04,76.93,78.21,79.06,94.14,81.44,76.67,B,31,No,Yes,High School,Low,Low
+Reyansh,Chatterjee,reyansh.chatterjee493@example.com,Other,25,Mechanical,77.56,84.46,89.84,62.72,81.17,85.01,72.43,81.58,B,30,Yes,No,Diploma,High,High
+Myra,Patel,myra.patel251@example.com,Female,22,Mechanical,93.76,67.75,73.88,73.27,74.19,67.04,58.72,70.43,B,18,No,No,Master,Low,High
+Reyansh,Yadav,reyansh.yadav749@example.com,Female,17,Information Technology,95.95,57.3,57.13,53.47,66.33,64.77,95.7,61.78,C,17,No,No,Bachelor,Low,Medium
+Sai,Pandey,sai.pandey437@example.com,Male,18,Electrical,90.1,59.68,100.0,84.82,70.1,53.01,100.0,82.3,B,9,Yes,Yes,PhD,Low,High
+Riya,Nair,riya.nair815@example.com,Female,24,Civil,66.1,45.32,87.34,99.4,90.61,83.64,83.14,78.36,B,27,Yes,No,Bachelor,Middle,High
+Myra,Chatterjee,myra.chatterjee465@example.com,Female,22,Information Technology,88.53,81.38,76.22,76.04,73.25,70.46,72.63,76.54,B,34,Yes,No,Master,Middle,Medium
+Siya,Patel,siya.patel871@example.com,Other,20,Civil,63.07,68.52,57.17,63.96,76.16,91.92,87.02,67.65,C,21,Yes,Yes,Diploma,Low,High
+Reyansh,Das,reyansh.das86@example.com,Female,17,Information Technology,64.29,55.16,86.11,65.18,71.3,83.5,64.38,71.45,B,31,Yes,Yes,High School,High,High
+Vivaan,Das,vivaan.das761@example.com,Other,17,Mechanical,81.05,49.99,62.98,78.2,54.88,82.4,75.76,63.45,C,16,No,Yes,Diploma,Middle,Medium
+Siya,Pandey,siya.pandey553@example.com,Other,20,Civil,85.52,73.36,92.46,76.25,68.85,79.22,82.52,81.24,B,24,No,Yes,Master,Low,High
+Siya,Singh,siya.singh961@example.com,Male,20,Electrical,80.49,70.61,61.47,68.37,57.17,95.5,61.07,66.02,C,23,No,Yes,Master,Middle,Low
+Aarav,Chatterjee,aarav.chatterjee269@example.com,Female,21,Computer Science,73.07,59.22,85.42,72.05,88.97,71.27,79.35,75.91,B,35,Yes,No,Diploma,High,Medium
+Diya,Verma,diya.verma577@example.com,Female,17,Data Science,71.65,100.0,54.19,78.1,81.61,82.14,73.78,75.32,B,27,Yes,Yes,PhD,Middle,Low
+Aadhya,Sharma,aadhya.sharma483@example.com,Other,17,Information Technology,78.7,70.66,69.79,84.64,100.0,72.43,59.56,74.37,B,13,No,Yes,PhD,Low,Low
+Sai,Sharma,sai.sharma954@example.com,Other,21,Information Technology,79.12,100.0,59.94,91.39,94.13,72.46,82.83,81.01,B,33,No,No,Bachelor,Middle,High
+Anika,Kapoor,anika.kapoor876@example.com,Male,19,Electrical,96.28,64.31,68.95,69.18,61.82,71.51,61.31,66.48,C,32,No,No,Master,Middle,High
+Anaya,Joshi,anaya.joshi589@example.com,Male,23,Electronics,80.34,58.45,75.51,59.44,77.97,86.34,52.08,67.28,C,34,No,Yes,Diploma,High,High
+Aditya,Kumar,aditya.kumar967@example.com,Female,21,Information Technology,83.74,88.42,53.86,91.73,79.03,70.95,75.33,73.7,B,12,Yes,Yes,Master,High,High
+Krishna,Kumar,krishna.kumar39@example.com,Female,17,Computer Science,85.58,71.14,80.08,65.79,76.03,63.86,74.67,73.95,B,22,Yes,Yes,High School,High,Medium
+Saanvi,Kapoor,saanvi.kapoor177@example.com,Other,18,Electrical,70.96,58.97,90.54,85.91,81.31,67.08,72.2,78.02,B,12,No,No,Master,High,Medium
+Anaya,Nair,anaya.nair801@example.com,Male,21,Data Science,92.13,72.13,100.0,78.93,76.3,74.91,77.6,84.01,B,10,Yes,No,High School,High,Medium
+Navya,Banerjee,navya.banerjee35@example.com,Other,23,Data Science,78.48,80.62,86.35,67.14,58.03,59.64,82.1,77.44,B,9,Yes,No,Master,Middle,Low
+Myra,Banerjee,myra.banerjee478@example.com,Female,23,Electrical,68.97,37.71,77.83,99.93,73.93,86.38,76.98,71.07,B,25,No,No,PhD,Middle,Low
+Aadhya,Malhotra,aadhya.malhotra643@example.com,Female,20,Electronics,79.01,83.79,67.65,77.67,77.86,71.32,87.9,76.42,B,33,Yes,No,High School,Middle,Low
+Myra,Tiwari,myra.tiwari104@example.com,Male,17,Computer Science,78.25,58.66,80.05,66.02,74.34,77.91,89.03,72.82,B,28,Yes,No,High School,Middle,Medium
+Atharv,Mehta,atharv.mehta523@example.com,Female,19,Electronics,84.75,69.62,84.27,88.9,80.69,78.1,60.26,78.24,B,11,Yes,Yes,High School,Low,High
+Myra,Verma,myra.verma244@example.com,Male,20,Data Science,69.35,65.42,62.86,73.13,74.68,83.3,75.15,68.47,C,25,Yes,Yes,PhD,Middle,Low
+Pari,Nair,pari.nair948@example.com,Other,17,Civil,84.87,70.97,42.37,65.61,72.27,65.9,83.2,61.25,C,5,Yes,No,High School,High,Low
+Arjun,Saxena,arjun.saxena243@example.com,Female,19,Computer Science,95.31,88.28,68.8,89.91,75.78,74.63,68.64,77.81,B,34,No,No,High School,Low,Low
+Reyansh,Patel,reyansh.patel591@example.com,Other,22,Information Technology,76.98,64.18,74.56,76.61,74.04,82.37,90.29,74.18,B,14,No,No,Diploma,Middle,High
+Sai,Tiwari,sai.tiwari977@example.com,Male,22,Mechanical,89.5,47.73,33.69,84.34,57.6,75.75,61.96,52.12,D,22,No,Yes,High School,High,Medium
+Myra,Iyer,myra.iyer716@example.com,Other,20,Data Science,61.98,78.12,83.39,69.23,42.91,72.54,80.7,75.09,B,22,Yes,No,Diploma,Middle,Low
+Sai,Banerjee,sai.banerjee336@example.com,Other,18,Civil,65.21,72.75,71.77,80.79,75.43,68.27,90.36,75.42,B,22,No,No,Bachelor,High,Medium
+Arjun,Tiwari,arjun.tiwari244@example.com,Other,17,Information Technology,78.41,69.59,58.0,70.57,63.38,76.27,96.54,68.09,C,6,No,No,PhD,Low,Low
+Aditya,Kapoor,aditya.kapoor5@example.com,Female,23,Electrical,66.28,45.8,94.07,72.91,65.97,88.4,68.73,73.2,B,17,No,Yes,PhD,High,Medium
+Aditya,Pandey,aditya.pandey668@example.com,Other,19,Civil,98.26,80.17,64.68,96.57,66.73,85.42,79.59,76.07,B,31,No,Yes,Diploma,High,Medium
+Sai,Chatterjee,sai.chatterjee80@example.com,Other,23,Mechanical,93.02,93.42,72.48,67.47,79.52,71.22,100.0,80.36,B,34,No,Yes,High School,Middle,High
+Atharv,Kapoor,atharv.kapoor975@example.com,Male,25,Electronics,81.37,64.52,74.77,61.53,62.34,90.0,68.12,69.07,C,20,Yes,Yes,Diploma,Middle,Low
+Ishaan,Sharma,ishaan.sharma163@example.com,Other,18,Mechanical,69.53,78.05,89.79,82.19,85.95,70.43,58.94,81.28,B,24,No,No,High School,Low,High
+Aadhya,Iyer,aadhya.iyer595@example.com,Other,17,Electrical,95.01,65.16,68.24,88.28,80.67,82.56,100.0,75.61,B,11,No,Yes,Master,Low,Medium
+Aadhya,Das,aadhya.das955@example.com,Male,21,Computer Science,73.56,83.92,72.86,77.69,92.34,83.08,82.46,79.77,B,8,Yes,Yes,Bachelor,Low,Medium
+Riya,Gupta,riya.gupta448@example.com,Female,22,Electrical,90.73,64.53,59.41,64.55,50.4,98.56,62.76,62.85,C,20,Yes,Yes,Diploma,High,High
+Navya,Malhotra,navya.malhotra786@example.com,Other,18,Information Technology,77.79,65.85,76.61,83.16,84.33,72.17,73.99,75.19,B,21,No,No,Bachelor,Middle,Medium
+Aditya,Yadav,aditya.yadav225@example.com,Other,22,Electrical,82.83,66.27,96.11,79.91,82.82,84.63,90.08,83.71,B,8,No,Yes,PhD,High,Low
+Aadhya,Mehta,aadhya.mehta123@example.com,Male,22,Electrical,81.81,50.55,78.0,68.49,67.66,83.86,90.86,70.25,B,28,Yes,No,High School,High,High
+Aditya,Yadav,aditya.yadav331@example.com,Male,22,Electrical,80.21,74.63,97.53,77.41,100.0,83.66,54.87,84.08,B,24,No,No,High School,Low,Medium
+Navya,Pandey,navya.pandey359@example.com,Male,21,Information Technology,87.53,75.72,91.35,81.73,72.34,65.76,73.49,81.03,B,18,Yes,No,Diploma,High,Low
+Pari,Chatterjee,pari.chatterjee631@example.com,Male,20,Electronics,71.49,61.29,80.83,91.7,78.74,66.04,81.34,76.68,B,8,No,Yes,Diploma,Middle,Low
+Vivaan,Malhotra,vivaan.malhotra685@example.com,Other,18,Data Science,91.97,60.85,69.99,75.15,64.58,84.48,74.55,69.12,C,24,Yes,No,Diploma,Middle,Low
+Arjun,Reddy,arjun.reddy184@example.com,Female,18,Civil,84.2,56.69,65.44,82.22,69.53,95.27,71.2,68.25,C,8,No,Yes,Master,Middle,Low
+Ishaan,Mehta,ishaan.mehta156@example.com,Other,20,Electrical,82.25,83.99,50.72,57.39,55.69,90.63,69.38,64.4,C,27,No,No,Bachelor,High,Medium
+Navya,Chatterjee,navya.chatterjee816@example.com,Male,24,Electrical,100.0,61.54,74.77,90.42,98.07,98.62,90.5,78.9,B,17,Yes,Yes,Diploma,Middle,High
+Vivaan,Malhotra,vivaan.malhotra761@example.com,Other,23,Electronics,90.24,78.89,83.68,69.49,64.18,77.97,73.96,77.14,B,33,No,No,PhD,Low,Low
+Navya,Chatterjee,navya.chatterjee613@example.com,Other,19,Electrical,75.47,80.45,86.33,75.88,91.73,66.58,73.68,81.58,B,22,Yes,No,Diploma,High,Low
+Anika,Banerjee,anika.banerjee616@example.com,Other,20,Data Science,72.83,42.0,70.76,73.78,92.16,84.31,63.71,66.14,C,34,Yes,Yes,Bachelor,High,High
+Siya,Iyer,siya.iyer528@example.com,Male,19,Computer Science,98.54,88.32,80.73,72.74,62.49,74.28,89.06,80.11,B,22,Yes,No,PhD,High,Medium
+Aarav,Yadav,aarav.yadav294@example.com,Female,20,Data Science,98.85,93.15,64.67,63.8,75.69,60.32,79.88,74.06,B,20,No,Yes,High School,High,High
+Anika,Gupta,anika.gupta138@example.com,Female,19,Computer Science,78.52,63.01,48.08,80.14,67.61,66.3,41.53,58.83,C,27,Yes,No,High School,Middle,Medium
+Saanvi,Kumar,saanvi.kumar323@example.com,Male,24,Electrical,79.72,96.58,96.92,70.43,66.77,82.69,64.02,85.85,A,15,No,Yes,Bachelor,High,Low
+Ishaan,Verma,ishaan.verma900@example.com,Female,25,Information Technology,83.02,81.49,90.4,74.0,71.56,69.22,66.08,80.34,B,25,No,No,Bachelor,Middle,Medium
+Diya,Banerjee,diya.banerjee230@example.com,Male,23,Mechanical,77.74,75.51,85.7,66.97,91.91,75.29,75.74,79.45,B,12,Yes,Yes,High School,High,High
+Arjun,Sharma,arjun.sharma135@example.com,Other,17,Electrical,72.53,33.64,85.26,82.37,70.62,78.67,82.19,69.82,C,16,Yes,Yes,Master,Low,Medium
+Sai,Chatterjee,sai.chatterjee152@example.com,Male,19,Data Science,64.37,62.06,83.91,62.46,77.52,64.43,81.6,73.39,B,15,Yes,No,Master,High,High
+Reyansh,Malhotra,reyansh.malhotra578@example.com,Male,18,Electrical,79.64,45.77,89.47,67.65,64.28,80.01,89.78,72.31,B,26,Yes,No,Diploma,Low,Low
+Anaya,Iyer,anaya.iyer391@example.com,Male,25,Data Science,69.84,70.93,78.43,81.93,76.12,74.33,66.07,75.41,B,17,Yes,Yes,Diploma,High,High
+Anika,Banerjee,anika.banerjee204@example.com,Female,24,Electrical,80.86,53.92,28.18,79.37,84.85,54.37,63.88,52.84,D,22,Yes,Yes,High School,Low,High
+Anaya,Sharma,anaya.sharma361@example.com,Male,22,Information Technology,86.19,100.0,72.31,67.72,71.81,91.75,68.25,79.06,B,21,Yes,No,High School,Low,Medium
+Navya,Gupta,navya.gupta548@example.com,Other,18,Electrical,72.01,62.76,57.7,76.23,93.5,81.23,72.97,68.03,C,33,No,Yes,Master,Low,Low
+Atharv,Verma,atharv.verma399@example.com,Other,21,Electrical,77.08,46.55,85.25,74.22,71.83,100.0,79.59,72.75,B,8,No,No,Bachelor,Low,Medium
+Anaya,Mehta,anaya.mehta691@example.com,Male,24,Civil,72.48,63.6,89.23,76.13,56.74,87.19,67.98,75.38,B,31,Yes,No,Diploma,High,High
+Pari,Patel,pari.patel471@example.com,Other,25,Information Technology,98.73,86.2,65.29,87.81,74.81,86.53,81.82,77.56,B,15,No,Yes,High School,High,Low
+Siya,Banerjee,siya.banerjee772@example.com,Other,21,Computer Science,71.54,60.35,87.45,71.65,69.16,68.45,81.08,74.89,B,12,No,Yes,PhD,Low,High
+Saanvi,Gupta,saanvi.gupta966@example.com,Male,24,Electronics,100.0,53.99,72.36,89.12,73.04,82.52,63.25,69.95,C,29,Yes,No,Diploma,Middle,Low
+Atharv,Verma,atharv.verma743@example.com,Other,23,Electronics,84.28,67.19,86.79,86.87,100.0,83.8,79.91,82.39,B,15,No,Yes,PhD,High,Medium
+Vivaan,Sharma,vivaan.sharma623@example.com,Other,24,Electrical,81.94,64.7,77.08,72.05,76.02,91.18,63.92,72.51,B,14,Yes,No,Bachelor,High,Medium
+Sai,Mehta,sai.mehta89@example.com,Male,18,Information Technology,91.4,89.76,70.23,53.78,66.71,90.97,75.73,73.88,B,18,No,No,Master,Low,Low
+Riya,Patel,riya.patel551@example.com,Female,17,Mechanical,70.01,62.43,84.61,80.47,71.13,74.33,71.3,75.25,B,16,Yes,No,Bachelor,Low,Low
+Vivaan,Mehta,vivaan.mehta299@example.com,Female,23,Computer Science,70.78,94.23,67.17,87.17,92.26,87.98,70.82,80.85,B,10,Yes,Yes,Master,High,Medium
+Anika,Saxena,anika.saxena917@example.com,Other,18,Data Science,84.04,69.64,58.44,78.24,59.85,89.88,70.42,67.12,C,23,Yes,No,Master,Low,Medium
+Aarav,Chatterjee,aarav.chatterjee31@example.com,Male,25,Electrical,82.01,74.25,68.12,80.87,68.3,86.71,59.85,71.68,B,11,No,No,PhD,High,Medium
+Krishna,Kumar,krishna.kumar248@example.com,Other,18,Data Science,81.26,99.08,57.0,68.22,80.17,79.8,80.21,74.98,B,28,Yes,No,Master,Low,High
+Navya,Verma,navya.verma601@example.com,Other,17,Civil,84.89,79.52,88.65,79.1,71.1,84.73,98.8,84.0,B,31,Yes,Yes,Diploma,High,Medium
+Vivaan,Singh,vivaan.singh255@example.com,Other,21,Mechanical,78.67,55.38,88.61,73.8,47.93,86.47,69.58,72.0,B,19,No,Yes,Bachelor,High,Low
+Vivaan,Malhotra,vivaan.malhotra433@example.com,Female,17,Mechanical,79.09,74.98,74.86,82.09,68.77,83.13,72.89,75.58,B,6,Yes,Yes,Diploma,Low,High
+Anika,Iyer,anika.iyer271@example.com,Other,21,Electronics,87.39,79.23,57.97,85.86,67.57,86.08,80.41,72.08,B,27,Yes,Yes,Master,Low,Medium
+Anika,Malhotra,anika.malhotra271@example.com,Other,25,Civil,98.38,66.65,66.76,74.81,70.36,86.0,56.6,68.25,C,33,Yes,Yes,Master,High,Medium
+Aadhya,Verma,aadhya.verma298@example.com,Female,21,Mechanical,69.46,53.98,86.25,92.11,72.75,76.31,76.84,76.28,B,23,No,Yes,High School,Low,Medium
+Saanvi,Singh,saanvi.singh662@example.com,Other,22,Mechanical,91.62,56.09,75.58,84.75,80.01,79.9,88.01,73.98,B,24,Yes,No,PhD,Low,Medium
+Anaya,Nair,anaya.nair440@example.com,Male,24,Information Technology,52.97,80.17,62.19,56.69,80.13,91.74,74.35,70.35,B,30,No,Yes,Master,Low,Medium
+Krishna,Pandey,krishna.pandey110@example.com,Male,21,Electronics,89.53,94.18,91.72,91.4,82.91,78.75,56.78,87.27,A,22,Yes,No,High School,Middle,High
+Saanvi,Chatterjee,saanvi.chatterjee752@example.com,Other,23,Electrical,77.54,57.35,100.0,73.24,75.48,83.51,76.52,79.7,B,35,Yes,Yes,Bachelor,Low,Low
+Aarav,Kumar,aarav.kumar4@example.com,Other,19,Mechanical,96.95,60.66,74.92,67.58,58.16,71.88,75.56,68.49,C,32,No,Yes,Diploma,High,Medium
+Reyansh,Joshi,reyansh.joshi782@example.com,Female,17,Electrical,75.71,59.61,50.91,74.17,55.94,85.6,76.99,61.42,C,24,No,No,Bachelor,Middle,Medium
+Reyansh,Reddy,reyansh.reddy534@example.com,Female,25,Electronics,65.42,65.36,60.72,78.19,90.09,59.25,77.38,69.03,C,22,No,No,Diploma,Middle,Low
+Aditya,Pandey,aditya.pandey177@example.com,Female,17,Electrical,78.4,80.07,75.2,67.48,70.17,70.04,88.91,75.87,B,26,No,No,Bachelor,High,High
+Aarav,Yadav,aarav.yadav904@example.com,Female,17,Electrical,80.21,98.52,71.09,67.92,55.84,59.97,56.99,73.98,B,5,Yes,Yes,Diploma,High,High
+Vivaan,Kapoor,vivaan.kapoor48@example.com,Female,20,Information Technology,82.67,77.63,48.28,83.95,68.2,79.47,95.35,69.23,C,14,Yes,Yes,High School,Low,Medium
+Ishaan,Verma,ishaan.verma606@example.com,Male,18,Data Science,88.97,65.97,58.63,53.48,65.37,75.89,64.15,61.78,C,25,Yes,No,Master,Middle,High
+Shaurya,Singh,shaurya.singh231@example.com,Other,25,Mechanical,78.69,71.15,68.63,68.5,76.02,82.42,62.92,70.1,B,27,No,No,Master,High,Medium
+Aadhya,Chatterjee,aadhya.chatterjee997@example.com,Female,17,Computer Science,94.11,68.52,72.28,82.08,76.8,87.53,79.45,74.74,B,10,No,Yes,High School,Low,Medium
+Aditya,Kapoor,aditya.kapoor796@example.com,Other,19,Electrical,73.88,75.42,54.84,76.09,73.6,75.92,74.46,68.07,C,24,Yes,No,PhD,Middle,Low
+Shaurya,Pandey,shaurya.pandey554@example.com,Female,21,Electrical,61.18,61.77,73.39,76.6,61.67,90.66,65.61,69.88,C,25,Yes,Yes,Diploma,High,Low
+Anika,Malhotra,anika.malhotra238@example.com,Other,23,Electronics,89.69,76.41,62.31,92.75,59.68,87.19,88.01,73.95,B,16,Yes,Yes,PhD,Middle,Low
+Siya,Singh,siya.singh104@example.com,Female,25,Information Technology,73.29,90.89,68.25,77.89,77.12,76.66,85.73,78.41,B,6,No,No,High School,Middle,Low
+Sai,Singh,sai.singh180@example.com,Female,22,Mechanical,87.93,43.77,91.57,58.38,86.39,89.27,62.91,71.14,B,10,No,No,PhD,High,Medium
+Riya,Sharma,riya.sharma923@example.com,Male,22,Data Science,75.89,53.41,68.78,71.92,83.36,91.1,92.75,70.38,B,7,No,Yes,Diploma,Middle,Low
+Navya,Tiwari,navya.tiwari169@example.com,Female,22,Data Science,74.38,66.86,46.75,66.94,85.58,94.16,61.19,62.5,C,33,No,No,PhD,Low,Medium
+Navya,Iyer,navya.iyer358@example.com,Other,25,Mechanical,74.08,69.6,76.2,66.9,79.09,73.26,75.83,73.26,B,9,Yes,Yes,Bachelor,High,Low
+Myra,Gupta,myra.gupta824@example.com,Male,19,Computer Science,85.46,70.1,65.45,73.9,72.94,74.3,72.89,69.82,C,31,No,Yes,High School,Middle,High
+Navya,Iyer,navya.iyer222@example.com,Male,24,Mechanical,95.99,78.41,67.57,81.97,69.99,89.73,80.44,75.08,B,29,No,No,PhD,High,Low
+Arjun,Banerjee,arjun.banerjee313@example.com,Female,18,Mechanical,78.93,76.72,48.44,63.73,59.67,79.43,96.79,65.31,C,7,No,Yes,Master,Low,Medium
+Anika,Patel,anika.patel340@example.com,Male,20,Civil,100.0,79.57,79.51,56.99,67.49,70.12,68.55,73.38,B,15,Yes,No,Diploma,Low,Low
+Sai,Tiwari,sai.tiwari58@example.com,Other,23,Electronics,78.32,62.92,42.31,82.48,61.13,80.39,100.0,63.04,C,23,No,Yes,High School,High,High
+Reyansh,Chatterjee,reyansh.chatterjee471@example.com,Male,23,Computer Science,70.81,32.05,67.71,86.01,97.5,65.7,81.96,65.84,C,27,No,Yes,Master,Middle,High
+Siya,Iyer,siya.iyer777@example.com,Other,17,Civil,75.35,68.41,100.0,59.97,77.04,82.68,89.03,81.84,B,19,No,Yes,PhD,High,High
+Sai,Gupta,sai.gupta365@example.com,Female,25,Electronics,80.98,74.62,66.13,77.69,69.88,84.22,71.56,71.81,B,18,Yes,No,Master,Low,Low
+Aadhya,Reddy,aadhya.reddy465@example.com,Other,19,Mechanical,83.77,69.56,88.89,74.49,52.72,90.62,65.13,75.99,B,11,No,Yes,Master,Middle,High
+Saanvi,Malhotra,saanvi.malhotra743@example.com,Other,24,Civil,73.46,61.07,92.62,53.64,100.0,88.56,78.68,78.02,B,32,No,No,Master,High,Low
+Aarav,Gupta,aarav.gupta55@example.com,Other,19,Data Science,79.45,74.28,79.82,81.45,80.67,78.9,73.63,78.1,B,5,No,Yes,PhD,Middle,Medium
+Arjun,Nair,arjun.nair790@example.com,Other,21,Computer Science,78.49,67.08,89.01,80.94,38.72,84.56,78.34,75.99,B,22,No,No,Diploma,High,High
+Aarav,Tiwari,aarav.tiwari445@example.com,Male,17,Electrical,79.81,64.17,88.86,84.48,64.73,82.07,64.34,76.83,B,16,Yes,No,Master,Low,High
+Siya,Saxena,siya.saxena43@example.com,Other,22,Electronics,66.2,60.6,84.94,84.53,80.16,85.25,82.19,78.05,B,19,No,No,Diploma,Low,High
+Aarav,Chatterjee,aarav.chatterjee714@example.com,Other,23,Computer Science,73.59,76.48,84.01,82.54,88.27,85.08,80.22,82.01,B,18,Yes,Yes,Master,Middle,High
+Aditya,Tiwari,aditya.tiwari65@example.com,Female,23,Computer Science,90.7,69.6,58.77,73.37,65.06,71.25,74.27,66.47,C,19,Yes,Yes,Diploma,Middle,High
+Vivaan,Gupta,vivaan.gupta22@example.com,Other,20,Mechanical,72.08,65.38,43.6,77.13,74.01,69.83,83.91,62.46,C,13,Yes,No,PhD,Middle,Medium
+Navya,Nair,navya.nair316@example.com,Male,18,Civil,89.38,45.89,60.56,67.31,62.72,86.29,73.67,60.72,C,10,No,No,Bachelor,Middle,Medium
+Aditya,Reddy,aditya.reddy74@example.com,Male,20,Computer Science,77.35,39.94,81.53,62.61,74.72,80.77,92.33,68.66,C,29,Yes,Yes,Diploma,Middle,Medium
+Riya,Tiwari,riya.tiwari506@example.com,Male,23,Information Technology,66.91,24.71,74.76,93.01,88.87,80.1,70.1,66.19,C,25,Yes,Yes,Diploma,Middle,High
+Anika,Mehta,anika.mehta372@example.com,Male,18,Electrical,88.07,55.4,79.15,80.05,86.72,100.0,80.71,75.3,B,30,No,Yes,High School,High,High
+Aadhya,Chatterjee,aadhya.chatterjee603@example.com,Other,21,Electronics,74.91,69.62,45.46,68.05,69.09,72.76,77.83,61.85,C,16,Yes,No,Bachelor,High,Low
+Sai,Gupta,sai.gupta806@example.com,Other,21,Data Science,71.78,86.82,72.0,74.91,70.07,79.55,85.9,77.72,B,33,No,Yes,Master,High,Medium
+Ishaan,Pandey,ishaan.pandey202@example.com,Male,21,Computer Science,71.33,60.13,67.44,61.54,64.17,73.24,86.49,66.6,C,29,Yes,No,Diploma,Low,Medium
+Anika,Banerjee,anika.banerjee567@example.com,Other,24,Computer Science,82.63,72.9,84.76,73.63,78.69,76.97,79.18,78.57,B,8,Yes,Yes,Bachelor,Low,Medium
+Shaurya,Chatterjee,shaurya.chatterjee200@example.com,Male,21,Civil,74.17,33.42,69.99,89.23,85.11,87.65,90.83,68.21,C,27,Yes,Yes,Master,High,High
+Ishaan,Iyer,ishaan.iyer806@example.com,Other,17,Information Technology,80.89,72.96,62.74,71.84,81.39,90.04,74.33,71.05,B,8,No,No,PhD,Low,High
+Myra,Malhotra,myra.malhotra835@example.com,Female,25,Mechanical,75.5,70.01,81.02,60.56,46.45,72.49,61.35,69.35,C,30,No,No,Diploma,High,Medium
+Aarav,Pandey,aarav.pandey172@example.com,Other,19,Electronics,74.92,67.78,65.2,89.52,77.92,81.0,83.47,73.38,B,7,No,No,Master,High,Low
+Shaurya,Singh,shaurya.singh448@example.com,Female,22,Civil,68.61,85.59,70.86,81.7,61.14,62.46,85.81,76.27,B,16,Yes,Yes,High School,Low,High
+Pari,Reddy,pari.reddy503@example.com,Female,22,Information Technology,83.76,56.47,58.96,86.25,59.73,94.43,65.19,64.9,C,24,No,Yes,High School,Middle,Low
+Siya,Iyer,siya.iyer958@example.com,Other,17,Mechanical,86.38,65.07,81.05,69.56,72.05,78.41,63.97,72.59,B,8,Yes,No,Master,High,High
+Anaya,Yadav,anaya.yadav650@example.com,Female,25,Electrical,87.41,62.3,68.57,65.06,43.25,76.09,100.0,67.46,C,25,Yes,No,Master,High,Medium
+Diya,Chatterjee,diya.chatterjee101@example.com,Other,19,Information Technology,87.85,69.71,68.06,75.22,80.57,66.19,89.37,72.83,B,27,No,Yes,Bachelor,Low,High
+Siya,Pandey,siya.pandey987@example.com,Male,20,Electronics,87.15,80.77,78.58,75.2,82.07,83.92,71.75,78.55,B,32,No,No,Diploma,High,Low
+Anika,Kapoor,anika.kapoor133@example.com,Other,25,Electronics,74.26,71.53,95.24,62.61,56.39,79.65,76.61,77.89,B,30,No,Yes,High School,Middle,Medium
+Aadhya,Saxena,aadhya.saxena193@example.com,Other,17,Civil,81.73,73.66,68.65,89.9,54.79,69.72,74.76,72.37,B,17,Yes,No,Master,Middle,Low
+Vivaan,Das,vivaan.das852@example.com,Male,24,Data Science,63.57,67.36,96.92,75.21,76.77,65.4,68.6,79.85,B,23,Yes,No,PhD,Middle,Medium
+Vivaan,Gupta,vivaan.gupta129@example.com,Male,22,Data Science,76.25,65.23,91.22,80.58,60.66,80.47,81.98,78.61,B,33,No,No,PhD,Middle,Medium
+Krishna,Chatterjee,krishna.chatterjee715@example.com,Other,18,Information Technology,91.4,93.71,56.77,66.89,58.91,75.66,81.6,71.17,B,15,Yes,Yes,PhD,Middle,Medium
+Siya,Kumar,siya.kumar904@example.com,Male,18,Civil,89.87,68.86,67.2,76.52,63.98,98.9,56.71,69.23,C,5,No,Yes,Diploma,Low,Low
+Aadhya,Singh,aadhya.singh453@example.com,Male,18,Data Science,81.85,100.0,72.1,73.1,69.71,76.2,92.47,81.23,B,15,Yes,Yes,Diploma,Low,Low
+Pari,Tiwari,pari.tiwari993@example.com,Other,25,Data Science,57.88,93.0,50.64,72.33,68.85,83.89,56.82,68.59,C,29,No,No,PhD,High,Low
+Saanvi,Kapoor,saanvi.kapoor501@example.com,Male,25,Electronics,84.62,100.0,51.55,76.9,66.06,82.26,76.23,72.92,B,28,No,No,Diploma,Low,High
+Pari,Malhotra,pari.malhotra393@example.com,Other,21,Data Science,73.59,77.32,99.07,73.09,82.64,65.07,64.52,82.94,B,13,No,Yes,Bachelor,Middle,Low
+Saanvi,Singh,saanvi.singh445@example.com,Male,17,Civil,84.72,92.26,77.33,71.87,73.99,65.5,83.25,79.91,B,19,No,No,Diploma,High,Medium
+Pari,Nair,pari.nair496@example.com,Male,19,Computer Science,88.82,63.22,64.95,77.66,68.76,77.34,100.0,70.93,B,9,No,No,High School,Low,Medium
+Myra,Sharma,myra.sharma493@example.com,Male,17,Mechanical,77.53,64.62,62.29,82.44,71.83,71.51,91.86,70.27,B,20,No,No,Diploma,Low,Medium
+Aarav,Mehta,aarav.mehta37@example.com,Male,18,Civil,94.2,60.99,44.0,85.08,65.78,85.91,52.36,59.52,C,23,No,Yes,High School,High,Medium
+Sai,Patel,sai.patel125@example.com,Female,23,Computer Science,88.93,51.83,82.96,75.14,62.55,73.93,84.24,71.64,B,34,Yes,Yes,Master,High,Medium
+Reyansh,Iyer,reyansh.iyer364@example.com,Male,25,Mechanical,81.06,78.77,100.0,59.36,93.41,79.04,65.21,83.41,B,34,No,No,High School,Middle,Medium
+Siya,Tiwari,siya.tiwari935@example.com,Female,22,Electrical,66.7,67.16,85.82,73.72,92.13,63.49,75.85,77.86,B,17,No,No,Master,Low,Low
+Anaya,Kumar,anaya.kumar109@example.com,Female,18,Electrical,67.48,75.45,85.3,70.79,42.75,79.99,81.24,75.74,B,26,No,Yes,High School,Low,Low
+Reyansh,Banerjee,reyansh.banerjee233@example.com,Male,24,Computer Science,84.04,88.54,55.93,81.8,88.31,60.21,79.84,73.81,B,10,No,Yes,High School,Middle,Low
+Myra,Kumar,myra.kumar373@example.com,Other,17,Electronics,74.96,68.78,77.22,70.13,65.89,78.34,62.95,71.54,B,32,Yes,Yes,Diploma,Low,Low
+Aadhya,Kumar,aadhya.kumar366@example.com,Female,19,Data Science,69.14,80.19,54.77,81.66,79.55,60.74,67.87,69.25,C,35,No,No,Master,Low,High
+Aditya,Tiwari,aditya.tiwari714@example.com,Male,25,Mechanical,91.94,55.28,65.03,79.62,83.4,75.48,68.83,67.52,C,10,Yes,No,Bachelor,Middle,Medium
+Pari,Pandey,pari.pandey602@example.com,Male,25,Information Technology,94.22,96.08,86.68,75.85,64.3,69.7,82.27,83.88,B,25,No,Yes,Diploma,Low,Medium
+Navya,Verma,navya.verma808@example.com,Female,25,Civil,84.18,91.02,81.76,59.97,86.62,68.02,71.39,79.57,B,31,No,No,Diploma,Middle,Medium
+Aarav,Patel,aarav.patel205@example.com,Male,22,Information Technology,82.5,99.94,100.0,81.07,71.8,83.35,86.65,92.16,A,32,No,Yes,High School,Middle,Low
+Pari,Sharma,pari.sharma279@example.com,Female,19,Computer Science,76.79,96.93,75.45,79.98,81.99,82.22,86.07,83.55,B,7,No,No,Master,Low,Medium
+Anika,Nair,anika.nair911@example.com,Other,20,Electronics,73.83,61.63,55.5,79.4,83.35,82.58,96.09,68.81,C,24,Yes,Yes,Master,Middle,Low
+Saanvi,Kapoor,saanvi.kapoor843@example.com,Other,17,Mechanical,79.94,80.03,55.62,71.13,82.35,86.49,72.47,69.95,C,22,Yes,No,Diploma,Middle,High
+Siya,Gupta,siya.gupta594@example.com,Male,19,Computer Science,79.28,47.23,66.64,83.9,80.9,83.01,76.6,67.62,C,7,Yes,Yes,Diploma,Low,High
+Saanvi,Gupta,saanvi.gupta271@example.com,Other,18,Data Science,80.07,60.1,82.48,79.21,79.9,72.74,50.16,72.42,B,17,Yes,No,Master,High,Medium
+Diya,Patel,diya.patel180@example.com,Other,18,Civil,90.97,62.82,59.06,81.93,69.3,88.6,83.4,68.36,C,26,No,Yes,High School,Low,Low
+Anaya,Reddy,anaya.reddy582@example.com,Other,20,Civil,86.84,49.51,90.18,77.61,69.57,79.43,54.69,71.98,B,14,No,Yes,PhD,Middle,Low
+Pari,Saxena,pari.saxena570@example.com,Female,17,Information Technology,84.09,54.56,51.71,59.78,87.35,71.71,94.4,62.47,C,35,Yes,No,Bachelor,Middle,Medium
+Sai,Sharma,sai.sharma411@example.com,Male,24,Computer Science,74.64,44.39,55.25,87.36,72.13,72.52,77.92,62.17,C,32,No,Yes,PhD,High,Medium
+Atharv,Iyer,atharv.iyer439@example.com,Other,23,Computer Science,85.02,86.76,93.73,71.4,58.09,73.87,79.12,82.62,B,13,Yes,No,Bachelor,Middle,High
+Aadhya,Malhotra,aadhya.malhotra30@example.com,Other,20,Mechanical,70.36,55.64,77.16,74.51,74.39,70.42,73.24,70.38,B,16,Yes,Yes,Bachelor,Low,High
+Sai,Singh,sai.singh491@example.com,Female,17,Electrical,70.76,83.35,87.53,56.54,62.85,63.03,68.2,76.21,B,11,Yes,Yes,Diploma,High,Low
+Arjun,Pandey,arjun.pandey344@example.com,Male,20,Electronics,79.17,48.26,58.17,64.96,76.49,78.69,67.34,60.49,C,6,No,Yes,PhD,High,Medium
+Atharv,Banerjee,atharv.banerjee34@example.com,Other,21,Computer Science,81.77,61.8,67.93,91.73,90.09,65.0,85.96,73.84,B,6,Yes,No,PhD,Low,High
+Aarav,Iyer,aarav.iyer472@example.com,Female,24,Computer Science,88.11,52.78,84.28,90.38,60.53,68.82,88.21,74.56,B,18,No,No,Diploma,High,Low
+Myra,Das,myra.das4@example.com,Female,25,Civil,82.71,78.27,77.11,78.91,58.08,88.47,90.04,77.63,B,29,No,Yes,Master,Middle,Medium
+Krishna,Tiwari,krishna.tiwari924@example.com,Other,17,Information Technology,77.71,69.35,49.03,80.14,80.86,77.38,89.49,67.42,C,28,No,Yes,Master,Low,High
+Reyansh,Reddy,reyansh.reddy765@example.com,Female,25,Mechanical,76.66,78.47,56.71,74.76,71.91,80.25,71.57,69.04,C,26,Yes,No,Diploma,Low,Medium
+Reyansh,Kapoor,reyansh.kapoor501@example.com,Male,25,Mechanical,78.69,82.39,65.45,58.93,95.0,91.81,60.49,72.48,B,9,No,No,PhD,Middle,Medium
+Krishna,Saxena,krishna.saxena49@example.com,Male,20,Mechanical,86.9,62.46,75.95,77.94,71.19,70.16,67.71,71.29,B,10,No,No,Bachelor,High,Medium
+Saanvi,Mehta,saanvi.mehta370@example.com,Other,21,Information Technology,70.84,57.52,70.99,67.84,82.18,92.87,69.04,69.17,C,8,No,Yes,Master,Middle,High
+Vivaan,Chatterjee,vivaan.chatterjee705@example.com,Other,21,Information Technology,82.39,77.5,79.08,75.76,82.91,82.82,61.15,76.96,B,35,Yes,Yes,High School,High,High
+Ishaan,Singh,ishaan.singh459@example.com,Other,18,Mechanical,88.69,83.31,60.55,75.38,82.2,75.91,88.88,74.23,B,25,No,Yes,Diploma,High,High
+Riya,Gupta,riya.gupta202@example.com,Other,22,Electrical,100.0,58.21,51.28,78.04,82.66,75.69,93.44,65.6,C,13,No,No,Bachelor,Low,High
+Reyansh,Patel,reyansh.patel727@example.com,Other,18,Electrical,66.61,80.39,62.91,92.19,97.91,70.33,69.41,76.19,B,24,No,Yes,PhD,Low,Low
+Aditya,Malhotra,aditya.malhotra339@example.com,Female,17,Data Science,88.6,64.19,71.32,75.25,50.96,77.86,67.72,68.06,C,25,Yes,No,Master,Low,High
+Myra,Das,myra.das690@example.com,Other,21,Computer Science,75.07,91.65,53.15,83.13,70.65,75.2,85.48,73.36,B,10,Yes,No,Diploma,High,Medium
+Aditya,Kumar,aditya.kumar901@example.com,Male,19,Data Science,83.4,78.56,86.52,71.69,66.65,67.15,66.1,77.31,B,21,Yes,Yes,High School,Low,Low
+Arjun,Nair,arjun.nair278@example.com,Male,22,Data Science,100.0,88.67,51.73,61.78,79.78,83.47,82.59,69.95,C,28,Yes,Yes,Diploma,High,Low
+Sai,Gupta,sai.gupta269@example.com,Other,18,Civil,77.45,68.12,76.92,75.86,47.37,75.7,65.78,70.43,B,26,No,Yes,High School,High,Low
+Sai,Chatterjee,sai.chatterjee761@example.com,Other,21,Electrical,81.75,100.0,77.51,71.86,85.06,82.83,81.04,83.66,B,19,No,No,PhD,Low,High
+Pari,Das,pari.das876@example.com,Other,23,Civil,86.07,100.0,55.04,79.74,62.88,83.56,64.98,73.19,B,19,Yes,No,PhD,Middle,High
+Myra,Sharma,myra.sharma752@example.com,Female,17,Computer Science,75.83,65.57,86.64,84.18,59.05,78.55,67.49,75.93,B,27,No,Yes,High School,Middle,High
+Aditya,Yadav,aditya.yadav564@example.com,Male,18,Electrical,67.41,66.74,67.37,99.27,79.2,64.22,69.22,73.21,B,11,Yes,Yes,PhD,Low,High
+Siya,Gupta,siya.gupta672@example.com,Female,23,Civil,90.21,100.0,48.21,56.2,96.45,81.9,65.58,70.6,B,22,Yes,No,Diploma,Middle,Medium
+Krishna,Pandey,krishna.pandey298@example.com,Other,22,Electronics,85.35,30.46,72.05,78.28,85.09,67.86,77.03,64.18,C,32,Yes,Yes,Bachelor,High,Medium
+Navya,Reddy,navya.reddy600@example.com,Other,23,Information Technology,70.75,73.83,58.57,70.92,62.05,84.51,86.3,68.66,C,26,No,No,Master,Low,Medium
+Pari,Chatterjee,pari.chatterjee122@example.com,Other,22,Mechanical,77.65,70.57,50.27,72.0,73.4,100.0,62.66,64.64,C,20,No,No,PhD,Low,Medium
+Reyansh,Saxena,reyansh.saxena189@example.com,Female,25,Mechanical,94.64,84.95,76.21,92.59,78.47,81.89,75.36,81.28,B,25,Yes,Yes,Diploma,High,High
+Saanvi,Kapoor,saanvi.kapoor670@example.com,Other,24,Mechanical,92.24,86.45,62.61,61.81,71.56,70.0,75.24,70.98,B,8,Yes,No,Diploma,Middle,High
+Vivaan,Das,vivaan.das926@example.com,Male,17,Mechanical,92.37,63.14,71.36,75.58,84.18,55.53,68.72,70.16,B,8,Yes,Yes,Bachelor,Middle,Medium
+Sai,Singh,sai.singh435@example.com,Female,19,Civil,82.11,88.0,64.62,56.23,81.44,71.65,61.72,70.95,B,26,No,Yes,PhD,Middle,Medium
+Siya,Pandey,siya.pandey914@example.com,Other,20,Electrical,73.76,67.23,62.93,52.94,84.76,90.75,83.82,68.17,C,24,No,Yes,Master,High,Medium
+Anaya,Gupta,anaya.gupta590@example.com,Other,22,Computer Science,68.62,66.98,71.9,80.99,82.02,70.66,76.98,73.49,B,31,No,No,Bachelor,High,Low
+Vivaan,Singh,vivaan.singh645@example.com,Female,21,Data Science,84.57,91.84,82.57,82.89,75.01,92.1,80.92,84.49,B,34,Yes,No,Diploma,Low,Medium
+Saanvi,Kumar,saanvi.kumar797@example.com,Female,21,Data Science,71.39,91.05,82.47,70.57,68.25,80.97,81.56,81.24,B,32,No,Yes,PhD,High,Low
+Sai,Iyer,sai.iyer534@example.com,Other,18,Computer Science,81.97,74.67,97.5,85.72,76.29,87.41,63.61,84.01,B,25,No,No,Diploma,High,High
+Siya,Verma,siya.verma604@example.com,Other,21,Electronics,83.98,97.14,68.73,66.52,66.17,67.1,66.58,74.95,B,7,Yes,Yes,Bachelor,High,High
+Shaurya,Reddy,shaurya.reddy439@example.com,Female,19,Electrical,76.29,48.92,72.23,84.02,63.11,93.19,82.13,69.3,C,22,Yes,No,Bachelor,High,High
+Shaurya,Verma,shaurya.verma11@example.com,Other,18,Computer Science,90.31,60.13,84.82,64.08,84.68,79.72,82.64,75.05,B,26,No,No,High School,Middle,Medium
+Arjun,Gupta,arjun.gupta374@example.com,Female,21,Computer Science,68.24,56.57,80.96,65.52,79.56,64.33,86.18,72.1,B,16,No,Yes,High School,Low,Medium
+Atharv,Reddy,atharv.reddy463@example.com,Female,24,Information Technology,67.67,78.28,81.38,68.03,80.98,80.6,69.53,77.34,B,9,Yes,No,Master,High,High
+Atharv,Nair,atharv.nair403@example.com,Other,20,Electrical,69.91,40.56,77.24,59.35,75.14,75.37,84.15,65.78,C,32,Yes,Yes,Diploma,Middle,Low
+Krishna,Iyer,krishna.iyer268@example.com,Other,18,Electrical,76.98,65.06,82.98,78.35,77.79,82.69,57.57,74.73,B,9,Yes,No,PhD,Low,High
+Aadhya,Saxena,aadhya.saxena752@example.com,Other,22,Civil,87.57,79.19,56.75,72.56,73.53,76.66,80.01,69.73,C,16,No,Yes,PhD,Low,Low
+Aditya,Das,aditya.das105@example.com,Female,22,Mechanical,94.31,86.23,52.32,81.22,89.95,81.87,89.09,74.05,B,34,Yes,Yes,High School,High,High
+Aarav,Kapoor,aarav.kapoor90@example.com,Other,17,Electronics,100.0,85.36,75.74,85.45,75.74,78.24,71.78,79.33,B,23,No,No,High School,Low,High
+Aadhya,Nair,aadhya.nair641@example.com,Other,22,Civil,95.63,57.72,94.99,80.0,57.21,81.68,50.8,74.56,B,26,No,Yes,Master,High,High
+Shaurya,Joshi,shaurya.joshi548@example.com,Other,18,Information Technology,86.26,83.28,63.11,76.24,97.45,72.94,63.29,74.07,B,12,Yes,Yes,Bachelor,Middle,Low
+Atharv,Yadav,atharv.yadav975@example.com,Other,24,Data Science,94.82,99.44,72.06,85.11,90.1,70.58,70.18,82.4,B,5,Yes,Yes,Master,Middle,Medium
+Saanvi,Kumar,saanvi.kumar462@example.com,Male,18,Electrical,92.31,95.28,80.44,66.2,97.84,72.69,71.98,82.52,B,20,Yes,Yes,High School,Middle,Medium
+Reyansh,Nair,reyansh.nair319@example.com,Other,19,Information Technology,83.42,93.31,84.81,79.15,79.56,78.44,82.7,85.03,A,7,Yes,No,PhD,High,Low
+Riya,Yadav,riya.yadav299@example.com,Female,24,Computer Science,54.7,65.55,75.62,63.49,78.64,75.96,97.07,73.75,B,30,No,No,Diploma,Low,Low
+Saanvi,Yadav,saanvi.yadav503@example.com,Other,20,Mechanical,95.73,63.01,69.74,74.26,68.58,79.95,66.9,68.85,C,10,Yes,Yes,PhD,High,Medium
+Myra,Nair,myra.nair487@example.com,Female,17,Mechanical,68.69,79.34,81.44,66.96,84.74,71.68,79.04,78.35,B,17,No,Yes,Diploma,Middle,High
+Saanvi,Malhotra,saanvi.malhotra353@example.com,Other,22,Information Technology,88.2,69.5,78.82,69.84,71.64,75.94,67.04,73.1,B,7,No,No,High School,High,Low
+Navya,Yadav,navya.yadav100@example.com,Female,20,Civil,78.23,46.77,64.63,72.15,70.93,75.59,75.26,63.53,C,8,No,No,High School,Middle,Low
+Ishaan,Pandey,ishaan.pandey299@example.com,Other,25,Electrical,84.79,83.12,62.25,62.97,61.5,73.13,71.78,69.0,C,35,No,Yes,High School,Middle,Low
+Sai,Kumar,sai.kumar10@example.com,Other,22,Electrical,72.3,50.56,65.16,76.81,81.14,72.43,71.04,65.81,C,17,Yes,No,Bachelor,Low,Medium
+Myra,Kapoor,myra.kapoor559@example.com,Other,24,Electronics,70.73,69.53,59.27,80.73,52.57,74.4,79.61,67.18,C,30,Yes,Yes,Bachelor,Middle,Low
+Shaurya,Nair,shaurya.nair917@example.com,Female,21,Data Science,81.84,100.0,77.25,64.96,72.85,60.24,75.03,79.58,B,21,No,Yes,PhD,Low,Medium
+Riya,Saxena,riya.saxena621@example.com,Male,24,Computer Science,71.67,83.73,63.76,73.83,66.37,95.39,72.15,72.94,B,35,No,No,PhD,Middle,Medium
+Saanvi,Das,saanvi.das980@example.com,Female,22,Computer Science,98.33,82.21,79.23,78.69,78.73,58.72,72.65,78.16,B,29,Yes,No,Bachelor,Low,High
+Anika,Chatterjee,anika.chatterjee501@example.com,Female,22,Computer Science,88.45,69.27,50.92,74.48,94.45,90.47,75.26,67.8,C,29,Yes,Yes,High School,Middle,Medium
+Ishaan,Gupta,ishaan.gupta512@example.com,Male,17,Mechanical,89.51,64.5,46.44,65.76,92.75,75.26,73.08,62.59,C,30,Yes,No,Master,Low,Medium
+Pari,Saxena,pari.saxena979@example.com,Other,25,Electrical,77.0,98.56,96.39,97.19,72.09,80.96,57.8,89.99,A,11,Yes,No,Master,Middle,Medium
+Shaurya,Reddy,shaurya.reddy79@example.com,Male,18,Data Science,94.77,52.48,75.25,64.03,66.93,69.63,68.71,66.11,C,31,No,Yes,Diploma,Middle,Low
+Krishna,Yadav,krishna.yadav636@example.com,Female,20,Computer Science,74.61,61.78,84.5,63.95,76.65,90.18,69.84,73.77,B,12,Yes,Yes,PhD,Low,Low
+Shaurya,Singh,shaurya.singh81@example.com,Other,20,Electrical,72.82,66.54,89.7,76.94,67.63,82.84,62.77,76.75,B,32,Yes,No,Bachelor,Middle,Low
+Ishaan,Gupta,ishaan.gupta742@example.com,Other,21,Computer Science,86.81,76.13,67.38,66.61,63.36,83.35,90.75,72.19,B,8,Yes,Yes,Diploma,High,High
+Saanvi,Gupta,saanvi.gupta98@example.com,Female,25,Data Science,73.63,76.88,40.69,69.15,73.63,68.9,64.76,61.12,C,32,No,No,PhD,Low,Medium
+Arjun,Das,arjun.das945@example.com,Other,19,Computer Science,73.32,74.38,69.19,52.62,48.55,71.93,81.49,67.31,C,33,Yes,No,High School,Low,High
+Reyansh,Patel,reyansh.patel769@example.com,Other,17,Civil,52.52,62.5,64.11,88.88,69.38,81.83,77.7,70.19,B,33,No,Yes,Master,High,Medium
+Ishaan,Iyer,ishaan.iyer506@example.com,Other,18,Electrical,58.69,81.52,75.23,80.08,100.0,57.16,96.7,81.25,B,7,No,Yes,Master,Middle,Low
+Reyansh,Reddy,reyansh.reddy874@example.com,Female,19,Data Science,77.13,74.31,71.32,70.76,67.16,81.3,57.79,70.71,B,13,Yes,No,Bachelor,High,High
+Arjun,Singh,arjun.singh199@example.com,Other,23,Mechanical,87.51,63.76,55.05,70.5,89.09,72.65,80.3,66.35,C,8,Yes,No,PhD,Middle,High
+Ishaan,Verma,ishaan.verma398@example.com,Male,24,Information Technology,72.69,81.37,82.28,93.49,71.89,84.69,77.18,82.31,B,19,Yes,No,Bachelor,High,Low
+Aadhya,Mehta,aadhya.mehta464@example.com,Male,18,Computer Science,92.96,59.22,83.18,73.05,73.23,78.92,79.03,74.05,B,34,Yes,No,High School,Low,High
+Anaya,Yadav,anaya.yadav444@example.com,Other,18,Information Technology,78.84,73.22,95.67,84.85,84.43,73.44,65.33,83.17,B,35,No,Yes,Diploma,Low,Low
+Pari,Verma,pari.verma571@example.com,Other,19,Computer Science,89.55,83.14,94.09,68.96,71.25,61.61,71.29,81.39,B,30,No,Yes,Bachelor,Low,High
+Aditya,Nair,aditya.nair11@example.com,Female,25,Information Technology,89.97,63.0,81.61,73.09,77.89,66.52,77.02,74.09,B,18,Yes,Yes,High School,Low,High
+Aarav,Joshi,aarav.joshi751@example.com,Male,18,Civil,50.09,67.2,47.54,87.06,83.33,82.67,94.25,68.39,C,10,No,Yes,Diploma,High,Low
+Sai,Patel,sai.patel433@example.com,Female,17,Electrical,70.51,96.21,85.98,72.63,87.63,66.94,66.11,83.76,B,8,Yes,Yes,Diploma,Low,High
+Diya,Tiwari,diya.tiwari124@example.com,Female,20,Electronics,73.91,62.07,56.15,87.23,70.89,81.53,69.16,66.34,C,16,No,Yes,High School,Low,Low
+Aarav,Gupta,aarav.gupta939@example.com,Other,24,Electronics,61.79,74.05,43.32,74.31,57.58,97.87,86.94,64.17,C,30,No,No,Diploma,Low,High
+Shaurya,Das,shaurya.das831@example.com,Male,20,Information Technology,81.06,88.96,59.31,80.43,76.4,80.64,91.27,75.86,B,12,No,No,High School,Low,High
+Atharv,Yadav,atharv.yadav506@example.com,Female,22,Data Science,87.32,74.33,47.18,65.4,72.53,78.93,62.44,62.35,C,11,Yes,Yes,High School,Middle,High
+Pari,Sharma,pari.sharma142@example.com,Male,18,Electrical,100.0,92.75,81.03,75.72,71.45,68.48,76.93,81.17,B,22,Yes,No,Bachelor,High,Medium
+Navya,Saxena,navya.saxena307@example.com,Other,23,Mechanical,82.58,51.37,77.01,73.45,51.11,69.4,71.04,66.5,C,18,Yes,No,Diploma,High,Medium
+Ishaan,Das,ishaan.das778@example.com,Female,24,Information Technology,98.88,78.35,51.97,79.86,55.43,88.83,70.35,66.77,C,9,No,Yes,Diploma,Middle,Medium
+Atharv,Reddy,atharv.reddy782@example.com,Female,21,Computer Science,79.06,89.89,52.69,61.03,67.0,88.38,57.77,66.96,C,18,Yes,Yes,High School,High,Low
+Sai,Tiwari,sai.tiwari563@example.com,Other,18,Civil,51.68,63.23,80.28,87.0,68.44,73.89,89.85,76.48,B,5,No,No,Master,High,Medium
+Anaya,Yadav,anaya.yadav196@example.com,Female,18,Information Technology,61.3,64.17,74.86,79.49,67.88,78.34,46.14,69.49,C,20,No,Yes,Diploma,Low,High
+Siya,Das,siya.das483@example.com,Female,23,Electronics,73.42,76.8,57.27,75.59,79.36,74.57,78.05,70.05,B,21,No,No,PhD,Middle,Low
+Siya,Patel,siya.patel681@example.com,Other,19,Computer Science,70.37,66.9,81.15,76.57,66.96,80.24,84.58,75.78,B,17,Yes,No,Diploma,Middle,Low
+Shaurya,Reddy,shaurya.reddy841@example.com,Female,17,Computer Science,59.5,87.39,66.96,79.25,88.37,64.28,67.49,75.97,B,17,Yes,Yes,Diploma,High,Low
+Diya,Verma,diya.verma856@example.com,Other,20,Information Technology,77.11,58.24,98.02,66.43,67.33,80.04,61.57,75.73,B,18,No,Yes,High School,High,High
+Shaurya,Nair,shaurya.nair947@example.com,Female,19,Data Science,76.04,74.76,67.01,74.07,67.65,62.86,79.86,71.15,B,6,No,Yes,Bachelor,Middle,High
+Myra,Joshi,myra.joshi10@example.com,Female,23,Computer Science,97.55,70.28,75.38,81.93,58.77,95.03,78.43,74.71,B,8,No,No,Master,Low,Low
+Siya,Tiwari,siya.tiwari90@example.com,Male,17,Mechanical,96.32,59.0,99.27,82.75,80.64,80.34,73.02,81.29,B,20,No,Yes,Diploma,Middle,Low
+Siya,Sharma,siya.sharma780@example.com,Other,17,Information Technology,92.01,72.11,42.49,63.83,71.77,81.1,75.32,61.24,C,20,No,Yes,Diploma,High,High
+Anaya,Kapoor,anaya.kapoor505@example.com,Female,17,Civil,92.19,40.73,74.15,56.82,83.12,77.06,81.04,64.93,C,14,No,No,Master,Low,High
+Atharv,Kumar,atharv.kumar830@example.com,Other,20,Information Technology,71.36,89.19,87.63,80.84,72.45,83.8,67.52,83.28,B,17,Yes,No,PhD,Middle,Medium
+Pari,Joshi,pari.joshi10@example.com,Female,18,Mechanical,88.56,94.74,88.06,67.7,78.34,65.07,82.87,84.04,B,8,No,No,Bachelor,Low,Low
+Diya,Banerjee,diya.banerjee805@example.com,Male,23,Information Technology,84.51,41.95,54.57,72.17,70.39,65.91,80.67,58.82,C,30,No,No,High School,High,Medium
+Shaurya,Joshi,shaurya.joshi134@example.com,Male,24,Computer Science,82.51,67.09,60.66,85.49,93.86,73.16,68.65,70.74,B,33,Yes,Yes,PhD,Low,Medium
+Navya,Mehta,navya.mehta453@example.com,Female,24,Electrical,84.91,64.63,69.91,82.4,51.09,91.18,76.87,70.34,B,8,No,No,PhD,Middle,Low
+Pari,Tiwari,pari.tiwari530@example.com,Other,21,Civil,75.89,68.66,71.44,57.69,91.94,78.41,81.32,72.07,B,34,Yes,No,Bachelor,High,High
+Shaurya,Sharma,shaurya.sharma797@example.com,Other,22,Mechanical,89.52,54.68,79.1,72.32,84.16,56.73,74.81,70.94,B,13,Yes,Yes,Master,Middle,Low
+Anika,Banerjee,anika.banerjee956@example.com,Female,19,Civil,73.97,76.48,79.05,67.92,65.45,76.89,65.24,73.89,B,12,No,Yes,Diploma,Low,Low
+Aditya,Pandey,aditya.pandey645@example.com,Male,24,Electrical,88.42,64.46,28.4,71.25,61.54,61.69,61.15,52.09,D,13,Yes,No,Bachelor,Middle,Low
+Anika,Das,anika.das25@example.com,Other,19,Electronics,81.09,89.93,76.7,68.93,79.47,73.41,67.66,78.05,B,33,No,No,PhD,High,Medium
+Aditya,Das,aditya.das445@example.com,Other,19,Civil,68.46,43.72,66.15,76.58,72.84,73.84,64.65,63.01,C,23,No,No,High School,Middle,High
+Krishna,Sharma,krishna.sharma860@example.com,Other,19,Information Technology,86.08,50.24,83.64,64.98,64.97,63.33,69.98,68.24,C,30,No,Yes,Master,Low,Medium
+Reyansh,Saxena,reyansh.saxena85@example.com,Male,20,Electrical,89.75,77.73,86.68,80.22,60.76,74.69,66.64,78.28,B,22,Yes,Yes,Master,High,Medium
+Sai,Sharma,sai.sharma997@example.com,Other,19,Data Science,93.31,52.05,85.41,83.93,95.96,73.9,84.55,77.24,B,6,Yes,Yes,Master,High,Medium
+Riya,Mehta,riya.mehta726@example.com,Female,21,Civil,100.0,60.74,48.97,56.2,82.55,59.17,71.53,59.12,C,18,No,No,High School,High,Low
+Pari,Kapoor,pari.kapoor685@example.com,Male,24,Mechanical,84.37,72.78,78.38,77.22,89.35,68.48,67.88,76.36,B,25,Yes,Yes,Bachelor,Middle,Medium
+Aditya,Malhotra,aditya.malhotra131@example.com,Male,25,Electronics,72.27,82.45,85.51,79.51,88.2,66.22,96.01,84.2,B,9,Yes,Yes,Diploma,High,Medium
+Diya,Kumar,diya.kumar259@example.com,Male,18,Information Technology,95.23,81.03,98.73,58.43,67.71,70.65,84.66,82.35,B,35,Yes,No,Master,High,Medium
+Arjun,Chatterjee,arjun.chatterjee448@example.com,Male,22,Computer Science,69.5,81.36,92.56,81.95,77.41,68.12,65.84,82.76,B,23,Yes,No,PhD,High,Low
+Arjun,Kumar,arjun.kumar819@example.com,Female,23,Mechanical,92.5,81.69,71.41,70.82,49.69,67.29,98.94,74.27,B,18,No,No,Bachelor,Middle,Low
+Atharv,Chatterjee,atharv.chatterjee249@example.com,Male,21,Electronics,67.2,72.84,87.11,62.45,76.22,87.38,76.15,77.67,B,28,Yes,No,Diploma,High,Medium
+Anika,Joshi,anika.joshi550@example.com,Male,18,Computer Science,100.0,44.97,87.88,73.27,83.26,82.41,67.2,72.16,B,15,Yes,Yes,PhD,High,High
+Aarav,Singh,aarav.singh276@example.com,Male,25,Data Science,82.29,42.13,81.05,77.98,81.66,88.58,80.41,71.23,B,27,Yes,Yes,Bachelor,High,Medium
+Riya,Patel,riya.patel657@example.com,Other,23,Computer Science,81.48,56.78,61.32,86.87,91.24,75.62,76.55,69.25,C,21,Yes,Yes,High School,Middle,Medium
+Navya,Nair,navya.nair211@example.com,Female,23,Civil,70.95,87.59,81.98,94.41,63.46,74.22,78.78,82.69,B,26,No,Yes,Diploma,Middle,High
+Anaya,Yadav,anaya.yadav520@example.com,Other,24,Electrical,86.46,66.76,58.91,83.81,82.65,68.84,92.27,70.81,B,22,Yes,No,Diploma,High,Medium
+Myra,Das,myra.das130@example.com,Male,23,Data Science,91.7,72.01,73.19,80.54,63.66,78.3,50.17,71.0,B,24,Yes,Yes,Bachelor,High,Low
+Krishna,Patel,krishna.patel226@example.com,Male,25,Data Science,88.76,46.58,94.55,71.7,71.46,71.72,72.54,73.48,B,35,Yes,Yes,Bachelor,Middle,High
+Navya,Pandey,navya.pandey840@example.com,Male,18,Information Technology,94.19,32.68,91.15,78.38,59.52,67.25,96.12,70.76,B,31,Yes,Yes,High School,Low,Low
+Ishaan,Pandey,ishaan.pandey799@example.com,Female,19,Civil,70.54,52.7,89.06,78.39,62.74,80.17,63.69,72.76,B,15,Yes,Yes,Master,High,High
+Aarav,Joshi,aarav.joshi117@example.com,Female,22,Electrical,91.01,85.92,79.98,78.62,95.13,78.0,61.82,80.86,B,31,Yes,No,Master,Middle,High
+Aditya,Sharma,aditya.sharma846@example.com,Male,22,Mechanical,84.49,100.0,56.78,71.39,79.0,77.46,64.21,73.77,B,18,Yes,Yes,Diploma,Low,Medium
+Shaurya,Mehta,shaurya.mehta760@example.com,Female,18,Electronics,91.22,100.0,74.94,65.96,55.41,80.58,89.25,79.62,B,18,No,Yes,High School,Low,Medium
+Sai,Sharma,sai.sharma576@example.com,Female,23,Electrical,84.75,69.96,63.16,64.08,84.02,87.14,57.45,67.71,C,22,Yes,No,Bachelor,Low,Medium
+Anika,Mehta,anika.mehta688@example.com,Male,25,Mechanical,95.9,78.61,92.99,61.58,57.61,76.51,82.03,79.23,B,30,No,No,High School,Low,Medium
+Sai,Kumar,sai.kumar238@example.com,Other,21,Civil,97.96,80.59,68.36,64.74,88.76,68.35,95.54,75.63,B,9,Yes,Yes,High School,High,Medium
+Anika,Banerjee,anika.banerjee705@example.com,Male,21,Information Technology,77.16,93.86,82.18,73.63,67.77,74.59,81.14,81.89,B,34,Yes,No,PhD,Low,Low
+Anika,Singh,anika.singh44@example.com,Other,21,Computer Science,80.77,61.09,69.52,75.79,48.46,82.58,64.24,66.37,C,17,No,Yes,Master,Middle,High
+Arjun,Chatterjee,arjun.chatterjee794@example.com,Female,24,Civil,68.47,44.69,45.09,61.45,65.49,97.53,69.69,54.57,D,33,Yes,No,Bachelor,High,High
+Vivaan,Reddy,vivaan.reddy6@example.com,Female,23,Information Technology,81.78,76.01,73.97,74.23,59.66,92.51,97.69,76.38,B,17,Yes,Yes,PhD,Middle,High
+Arjun,Gupta,arjun.gupta674@example.com,Other,25,Data Science,63.17,54.64,67.8,65.35,80.07,70.72,100.0,68.74,C,17,Yes,No,PhD,Middle,High
+Navya,Das,navya.das562@example.com,Female,19,Computer Science,91.91,73.19,87.4,86.06,67.23,69.84,76.94,79.71,B,32,No,Yes,High School,High,Low
+Aadhya,Reddy,aadhya.reddy222@example.com,Female,21,Electrical,88.62,72.09,48.35,66.97,73.11,77.24,99.67,66.13,C,31,Yes,Yes,Master,Low,Low
+Riya,Banerjee,riya.banerjee913@example.com,Other,25,Data Science,66.14,77.58,94.34,97.71,69.15,82.91,82.84,86.42,A,24,No,Yes,Bachelor,Middle,Medium
+Anika,Singh,anika.singh7@example.com,Female,21,Data Science,81.95,68.52,78.54,49.68,82.18,79.26,73.33,71.58,B,20,No,Yes,Bachelor,Middle,High
+Anaya,Nair,anaya.nair155@example.com,Other,21,Mechanical,100.0,59.88,65.95,94.92,64.02,72.5,74.24,69.74,C,26,No,No,Master,Middle,Low
+Reyansh,Gupta,reyansh.gupta823@example.com,Female,24,Civil,88.41,73.12,52.61,69.68,66.71,77.23,81.11,65.79,C,14,No,Yes,PhD,Low,Medium
+Riya,Das,riya.das978@example.com,Other,25,Civil,84.18,43.36,87.96,77.53,90.61,82.44,89.22,75.36,B,10,Yes,No,High School,High,High
+Saanvi,Gupta,saanvi.gupta217@example.com,Other,22,Civil,84.67,90.19,79.83,74.02,100.0,86.89,82.88,84.23,B,21,No,Yes,Master,High,High
+Ishaan,Yadav,ishaan.yadav789@example.com,Other,17,Computer Science,67.24,50.68,76.39,76.46,66.63,79.41,95.06,71.01,B,32,Yes,No,Bachelor,Middle,High
+Saanvi,Iyer,saanvi.iyer686@example.com,Other,19,Information Technology,86.95,52.88,70.33,66.95,69.35,73.86,70.27,65.53,C,34,Yes,No,High School,High,Medium
+Aarav,Reddy,aarav.reddy333@example.com,Other,22,Information Technology,67.45,68.09,63.59,45.71,98.64,88.89,71.48,67.59,C,13,No,No,High School,Middle,High
+Aarav,Patel,aarav.patel871@example.com,Male,20,Civil,80.19,52.43,97.44,93.97,75.88,88.24,78.1,81.11,B,32,Yes,No,PhD,Middle,High
+Krishna,Nair,krishna.nair969@example.com,Female,24,Information Technology,66.63,63.82,73.98,70.45,71.38,77.09,75.03,70.91,B,6,No,No,High School,High,High
+Aditya,Tiwari,aditya.tiwari422@example.com,Male,20,Information Technology,80.52,54.09,61.24,62.15,85.73,56.94,89.84,64.69,C,28,Yes,No,PhD,Middle,Low
+Navya,Saxena,navya.saxena538@example.com,Female,17,Data Science,93.86,65.47,32.95,71.39,73.23,67.89,69.82,56.31,C,23,Yes,No,Diploma,High,Low
+Aarav,Joshi,aarav.joshi656@example.com,Female,25,Civil,95.3,79.97,58.13,59.02,70.08,75.87,81.95,68.19,C,28,Yes,No,PhD,Low,Medium
+Reyansh,Saxena,reyansh.saxena223@example.com,Female,23,Data Science,74.65,77.67,100.0,83.16,73.42,76.17,71.72,85.21,A,27,No,No,PhD,Low,Medium
+Anika,Malhotra,anika.malhotra582@example.com,Other,21,Civil,91.81,60.59,72.68,75.51,67.98,64.28,79.88,69.91,C,26,Yes,Yes,Diploma,High,Low
+Sai,Kapoor,sai.kapoor951@example.com,Female,20,Mechanical,79.39,77.5,64.0,87.21,63.48,95.12,55.03,71.46,B,13,No,No,Master,Middle,Low
+Sai,Banerjee,sai.banerjee990@example.com,Male,22,Electronics,84.35,77.13,60.07,79.24,89.35,55.83,82.03,72.12,B,22,Yes,No,Master,Middle,Medium
+Anaya,Patel,anaya.patel37@example.com,Male,17,Mechanical,55.07,55.52,96.44,69.18,59.91,76.02,100.0,77.8,B,35,Yes,Yes,PhD,Low,High
+Aarav,Yadav,aarav.yadav863@example.com,Male,21,Civil,61.68,54.23,94.46,93.58,72.76,65.61,100.0,81.21,B,34,No,Yes,Diploma,High,High
+Shaurya,Yadav,shaurya.yadav760@example.com,Other,18,Computer Science,95.94,80.18,59.81,74.51,72.08,81.31,93.41,72.77,B,31,Yes,No,Master,Low,High
+Riya,Kapoor,riya.kapoor39@example.com,Female,25,Electrical,88.79,53.84,92.65,78.13,82.24,92.67,62.66,76.73,B,32,Yes,No,Diploma,High,High
+Arjun,Tiwari,arjun.tiwari156@example.com,Other,20,Electrical,79.64,62.03,48.48,78.47,100.0,59.6,75.61,64.79,C,24,No,No,Bachelor,High,Medium
+Atharv,Kumar,atharv.kumar514@example.com,Other,25,Electronics,86.41,71.85,70.3,62.01,76.79,70.43,49.72,68.04,C,16,Yes,No,Bachelor,Low,Medium
+Ishaan,Tiwari,ishaan.tiwari495@example.com,Other,23,Information Technology,91.95,84.38,72.77,77.29,86.89,80.24,86.85,79.54,B,22,No,No,PhD,High,Medium
+Sai,Sharma,sai.sharma817@example.com,Other,18,Mechanical,77.03,89.68,76.81,76.94,58.76,80.87,66.02,77.37,B,13,No,Yes,Master,High,High
+Anaya,Nair,anaya.nair545@example.com,Male,19,Electronics,73.62,57.77,56.01,96.25,89.98,97.2,61.33,68.47,C,35,No,Yes,Master,High,High
+Arjun,Chatterjee,arjun.chatterjee715@example.com,Male,25,Information Technology,80.71,50.6,61.56,65.82,88.88,74.04,88.82,65.54,C,20,Yes,Yes,Diploma,High,Low
+Ishaan,Patel,ishaan.patel53@example.com,Female,18,Information Technology,86.04,100.0,49.81,87.59,87.76,68.27,88.09,76.57,B,21,Yes,Yes,Bachelor,Low,Low
+Myra,Yadav,myra.yadav629@example.com,Other,18,Computer Science,83.36,66.59,59.64,67.81,98.6,78.01,85.39,69.99,C,19,No,No,High School,High,High
+Krishna,Chatterjee,krishna.chatterjee132@example.com,Other,23,Electronics,72.09,58.3,88.23,61.5,69.02,78.34,77.34,73.23,B,19,No,Yes,Bachelor,Low,Low
+Atharv,Chatterjee,atharv.chatterjee397@example.com,Female,25,Electronics,78.21,75.94,82.39,82.35,62.17,75.16,90.34,79.18,B,12,No,Yes,PhD,Low,Medium
+Diya,Mehta,diya.mehta945@example.com,Male,21,Civil,88.95,49.41,77.27,55.22,74.56,96.98,64.63,66.45,C,6,No,Yes,High School,Low,High
+Atharv,Kumar,atharv.kumar871@example.com,Female,20,Electronics,71.66,81.46,48.86,68.67,81.16,71.66,73.17,66.78,C,30,No,Yes,Bachelor,Low,Low
+Myra,Gupta,myra.gupta430@example.com,Male,18,Civil,87.44,76.32,76.0,71.61,78.44,76.76,81.49,76.25,B,28,Yes,No,Master,High,High
+Myra,Sharma,myra.sharma270@example.com,Other,17,Mechanical,75.03,67.26,57.15,74.65,64.27,66.86,79.1,65.7,C,25,No,Yes,Bachelor,Low,Low
+Pari,Sharma,pari.sharma131@example.com,Other,24,Civil,82.13,81.74,65.53,79.08,80.61,82.45,66.09,74.03,B,31,Yes,No,Master,High,High
+Ishaan,Das,ishaan.das888@example.com,Male,18,Computer Science,81.49,75.46,72.11,54.14,75.93,100.0,71.68,71.98,B,18,Yes,Yes,Bachelor,Middle,Medium
+Krishna,Verma,krishna.verma648@example.com,Other,18,Computer Science,72.72,75.6,76.69,86.93,58.91,85.31,83.09,77.24,B,21,No,Yes,PhD,Middle,High
+Arjun,Kumar,arjun.kumar441@example.com,Male,22,Electronics,78.58,75.08,87.44,83.72,60.28,86.2,75.22,79.79,B,8,No,No,Master,Low,High
+Vivaan,Pandey,vivaan.pandey334@example.com,Other,23,Civil,80.73,71.1,69.75,86.92,73.0,66.8,71.28,72.99,B,34,No,Yes,PhD,High,High
+Navya,Verma,navya.verma990@example.com,Female,19,Civil,81.79,88.44,81.05,66.49,100.0,80.65,91.3,83.61,B,20,No,No,High School,High,Medium
+Krishna,Mehta,krishna.mehta114@example.com,Female,18,Mechanical,78.48,78.0,84.59,87.18,86.69,86.72,72.22,82.41,B,17,Yes,No,Diploma,High,Low
+Vivaan,Sharma,vivaan.sharma225@example.com,Female,21,Civil,74.28,74.99,86.0,72.77,86.78,92.53,65.0,79.57,B,17,Yes,Yes,High School,Low,Low
+Arjun,Joshi,arjun.joshi20@example.com,Female,20,Civil,71.63,67.89,76.61,69.75,90.23,82.24,76.47,75.03,B,6,No,Yes,Master,Middle,Low
+Arjun,Das,arjun.das165@example.com,Other,17,Information Technology,65.64,50.26,76.22,53.67,86.15,76.42,100.0,69.73,C,17,Yes,Yes,Master,High,Low
+Aadhya,Tiwari,aadhya.tiwari453@example.com,Other,21,Data Science,100.0,67.28,70.4,84.96,94.44,61.62,54.56,72.19,B,29,No,No,Master,High,Medium
+Aditya,Patel,aditya.patel411@example.com,Male,19,Information Technology,73.78,78.74,79.45,85.7,59.6,54.84,86.3,77.68,B,22,No,Yes,Bachelor,Low,Low
+Diya,Kumar,diya.kumar815@example.com,Male,21,Computer Science,71.72,39.72,74.18,82.93,72.54,73.42,74.09,66.67,C,14,No,No,High School,Low,Low
+Myra,Tiwari,myra.tiwari954@example.com,Other,24,Civil,76.29,49.78,61.28,80.21,77.86,79.68,64.06,64.1,C,23,Yes,No,Bachelor,High,High
+Atharv,Verma,atharv.verma197@example.com,Male,25,Data Science,78.18,37.34,74.68,89.29,56.31,72.14,79.95,66.1,C,20,No,No,Bachelor,Middle,Low
+Shaurya,Mehta,shaurya.mehta939@example.com,Other,21,Information Technology,92.53,63.28,61.62,55.31,75.24,98.42,79.33,66.06,C,26,Yes,No,Diploma,Low,Medium
+Navya,Joshi,navya.joshi532@example.com,Female,25,Computer Science,79.78,74.83,71.83,66.87,83.88,80.26,76.21,73.9,B,31,Yes,Yes,Diploma,Middle,Low
+Arjun,Tiwari,arjun.tiwari902@example.com,Female,24,Electronics,70.25,89.55,81.97,69.47,86.02,73.02,66.62,80.41,B,23,No,No,PhD,Low,Low
+Aadhya,Banerjee,aadhya.banerjee105@example.com,Male,19,Electronics,72.4,43.43,79.07,56.69,59.26,57.24,74.97,63.32,C,25,Yes,Yes,Master,Low,Low
+Ishaan,Singh,ishaan.singh491@example.com,Other,22,Computer Science,78.5,65.1,56.36,63.28,79.57,72.49,79.8,65.05,C,27,No,Yes,Master,High,Low
+Shaurya,Kapoor,shaurya.kapoor620@example.com,Female,22,Civil,71.15,72.72,91.55,80.86,69.05,80.57,73.11,80.6,B,22,No,No,High School,Middle,Low
+Aarav,Malhotra,aarav.malhotra64@example.com,Other,21,Mechanical,80.08,65.12,69.53,77.12,62.08,67.84,59.34,67.72,C,33,No,No,Diploma,Low,Low
+Arjun,Malhotra,arjun.malhotra804@example.com,Other,17,Information Technology,64.0,51.74,74.39,66.07,80.16,78.35,52.38,66.05,C,33,Yes,No,High School,Middle,Medium
+Vivaan,Kapoor,vivaan.kapoor465@example.com,Other,18,Computer Science,86.55,82.16,57.09,79.2,63.72,78.98,60.83,68.81,C,34,Yes,Yes,Master,Middle,Medium
+Riya,Yadav,riya.yadav293@example.com,Female,20,Mechanical,62.07,64.26,70.14,71.02,59.79,74.0,79.23,68.87,C,14,Yes,Yes,High School,Low,Low
+Anika,Joshi,anika.joshi210@example.com,Male,20,Mechanical,79.55,72.74,61.95,86.72,59.89,82.88,90.18,72.02,B,8,No,No,Diploma,High,High
+Aadhya,Nair,aadhya.nair663@example.com,Male,19,Information Technology,84.81,66.96,64.08,85.36,56.92,68.3,71.23,68.2,C,8,No,No,PhD,Low,Medium
+Vivaan,Patel,vivaan.patel833@example.com,Male,17,Computer Science,92.38,75.7,57.48,71.9,66.63,70.9,87.75,68.81,C,24,No,No,High School,High,High
+Siya,Joshi,siya.joshi319@example.com,Other,18,Computer Science,66.28,94.13,84.42,85.91,68.44,76.5,58.8,82.52,B,9,Yes,Yes,PhD,Middle,High
+Navya,Yadav,navya.yadav219@example.com,Female,23,Computer Science,74.75,77.4,91.44,63.93,69.61,76.49,59.25,77.66,B,26,Yes,Yes,PhD,High,Low
+Anika,Nair,anika.nair930@example.com,Male,18,Mechanical,85.91,59.14,69.07,70.48,64.53,77.93,73.41,67.22,C,26,No,No,Bachelor,Middle,High
+Atharv,Reddy,atharv.reddy379@example.com,Female,24,Civil,76.28,59.07,76.79,91.54,75.68,87.96,59.32,73.27,B,28,Yes,No,High School,Middle,Medium
+Navya,Singh,navya.singh257@example.com,Other,24,Information Technology,81.58,53.54,49.85,67.61,88.3,87.5,78.92,62.07,C,27,No,No,PhD,Middle,Low
+Ishaan,Saxena,ishaan.saxena885@example.com,Male,21,Civil,64.67,67.06,76.53,76.76,51.87,69.1,75.23,71.23,B,31,No,No,Diploma,High,Low
+Saanvi,Chatterjee,saanvi.chatterjee199@example.com,Female,18,Computer Science,85.36,37.06,69.57,76.43,84.2,84.93,82.99,66.04,C,34,No,Yes,High School,Middle,Low
+Navya,Gupta,navya.gupta663@example.com,Female,23,Data Science,72.0,41.38,66.1,85.02,90.72,85.11,81.15,67.68,C,24,Yes,Yes,Bachelor,High,Medium
+Ishaan,Sharma,ishaan.sharma88@example.com,Female,19,Civil,83.8,61.66,70.05,91.69,62.69,94.15,72.14,71.88,B,6,No,No,High School,Middle,High
+Vivaan,Mehta,vivaan.mehta755@example.com,Female,25,Mechanical,93.25,48.9,80.79,67.63,57.02,80.19,88.11,69.17,C,18,No,Yes,High School,Low,Medium
+Shaurya,Das,shaurya.das728@example.com,Female,17,Information Technology,71.55,47.51,70.62,74.13,80.58,87.5,75.29,67.68,C,11,Yes,Yes,Master,Low,Low
+Sai,Malhotra,sai.malhotra204@example.com,Male,22,Information Technology,98.56,73.36,66.8,58.88,70.85,74.64,87.52,70.12,B,26,Yes,Yes,Diploma,Middle,Low
+Anaya,Nair,anaya.nair829@example.com,Male,22,Electronics,84.62,52.31,74.58,81.72,92.34,86.88,85.13,73.53,B,10,Yes,Yes,PhD,Low,High
+Aditya,Yadav,aditya.yadav538@example.com,Other,22,Electrical,80.6,75.82,90.74,61.67,69.81,70.27,80.55,78.52,B,34,No,Yes,High School,High,Medium
+Myra,Yadav,myra.yadav219@example.com,Male,24,Electrical,92.3,61.05,36.15,70.88,84.96,83.38,81.14,59.32,C,21,Yes,No,Bachelor,Middle,High
+Saanvi,Malhotra,saanvi.malhotra512@example.com,Other,24,Electrical,77.2,50.81,79.73,66.66,100.0,83.71,69.03,71.7,B,19,No,Yes,Diploma,High,Medium
+Atharv,Reddy,atharv.reddy579@example.com,Male,25,Civil,73.89,68.61,68.41,86.17,76.24,70.68,98.69,75.05,B,13,Yes,No,PhD,High,Low
+Siya,Patel,siya.patel951@example.com,Other,19,Information Technology,80.49,81.53,62.88,78.63,77.73,59.1,100.0,74.91,B,24,Yes,No,Master,High,Low
+Anaya,Mehta,anaya.mehta293@example.com,Other,25,Mechanical,92.91,64.04,55.47,78.48,75.04,81.56,78.3,66.61,C,13,Yes,No,Master,High,Medium
+Sai,Yadav,sai.yadav124@example.com,Other,19,Information Technology,85.06,91.71,80.52,64.5,90.35,94.41,100.0,84.54,B,26,No,Yes,PhD,Middle,High
+Atharv,Iyer,atharv.iyer574@example.com,Female,21,Mechanical,68.77,73.64,40.77,80.53,67.42,97.23,66.7,63.03,C,31,Yes,No,PhD,Middle,Low
+Anika,Verma,anika.verma713@example.com,Other,21,Mechanical,63.11,62.93,42.37,82.51,49.22,78.28,51.07,56.88,C,17,No,No,Bachelor,Low,Low
+Aarav,Reddy,aarav.reddy425@example.com,Other,19,Data Science,76.8,94.65,77.41,66.37,73.63,78.18,81.67,80.15,B,27,No,No,Master,Low,High
+Vivaan,Das,vivaan.das772@example.com,Female,21,Civil,66.33,78.89,31.43,68.7,68.14,84.33,76.27,59.69,C,27,No,No,High School,Middle,Low
+Riya,Das,riya.das945@example.com,Male,20,Information Technology,65.94,55.23,74.98,74.21,67.05,73.19,84.35,69.98,C,14,Yes,Yes,PhD,High,Medium
+Krishna,Sharma,krishna.sharma511@example.com,Male,19,Mechanical,74.82,68.68,100.0,60.76,51.78,85.84,67.86,77.54,B,17,Yes,Yes,High School,Middle,High
+Sai,Saxena,sai.saxena527@example.com,Male,17,Electronics,76.82,58.28,68.1,90.99,83.63,86.62,59.01,70.65,B,19,Yes,No,Master,High,Low
+Diya,Verma,diya.verma206@example.com,Male,23,Information Technology,68.49,27.41,59.86,84.57,80.2,75.78,75.73,59.87,C,22,Yes,No,Diploma,Middle,High
+Navya,Mehta,navya.mehta712@example.com,Male,25,Computer Science,73.11,73.07,83.49,58.84,77.6,87.32,71.02,75.54,B,28,Yes,No,PhD,High,Medium
+Riya,Reddy,riya.reddy74@example.com,Other,25,Computer Science,87.01,100.0,70.43,78.93,65.14,79.81,81.52,80.15,B,19,Yes,No,High School,Low,Low
+Sai,Saxena,sai.saxena822@example.com,Other,25,Civil,81.95,54.7,75.1,89.62,79.38,87.62,73.16,73.04,B,22,Yes,Yes,PhD,Low,Low
+Anika,Chatterjee,anika.chatterjee998@example.com,Other,19,Electrical,87.5,74.19,57.74,78.19,62.1,71.67,78.27,68.1,C,28,No,No,High School,Low,High
+Sai,Singh,sai.singh928@example.com,Male,25,Civil,82.97,52.16,87.81,80.72,65.54,62.62,74.26,72.99,B,23,Yes,Yes,Diploma,Middle,Low
+Pari,Banerjee,pari.banerjee947@example.com,Female,22,Data Science,75.54,71.7,66.55,54.93,69.34,74.94,83.6,68.5,C,10,Yes,No,High School,Low,High
+Vivaan,Nair,vivaan.nair465@example.com,Female,21,Electrical,73.02,95.18,43.33,88.11,71.31,86.6,76.96,71.33,B,28,No,Yes,High School,High,High
+Atharv,Banerjee,atharv.banerjee571@example.com,Other,17,Computer Science,91.4,64.19,55.52,89.21,72.64,80.22,90.82,69.22,C,22,No,No,High School,High,High
+Saanvi,Iyer,saanvi.iyer387@example.com,Other,23,Civil,69.68,78.93,63.15,73.68,74.87,63.0,66.65,70.19,B,13,No,No,Master,High,High
+Myra,Malhotra,myra.malhotra679@example.com,Other,22,Civil,93.51,83.29,71.06,77.43,70.47,91.57,73.6,76.29,B,26,Yes,Yes,Bachelor,Low,High
+Anaya,Yadav,anaya.yadav194@example.com,Female,24,Mechanical,82.32,87.19,60.34,90.59,55.63,94.3,71.53,73.94,B,27,Yes,Yes,Master,Middle,Medium
+Myra,Singh,myra.singh457@example.com,Female,20,Mechanical,77.57,41.65,65.18,64.6,66.71,76.63,87.49,62.17,C,11,No,Yes,Bachelor,Low,Low
+Riya,Gupta,riya.gupta126@example.com,Female,18,Electrical,82.08,74.62,55.57,66.19,95.58,70.65,95.87,70.71,B,13,Yes,No,Bachelor,Middle,Medium
+Anaya,Nair,anaya.nair540@example.com,Male,25,Mechanical,77.57,70.03,88.06,87.72,72.67,74.12,75.33,79.99,B,26,No,Yes,High School,Middle,Medium
+Myra,Verma,myra.verma851@example.com,Male,23,Computer Science,83.38,83.37,72.06,81.19,93.66,81.81,79.74,79.67,B,15,No,No,Diploma,Middle,High
+Navya,Das,navya.das149@example.com,Female,23,Electronics,64.81,30.54,77.83,74.05,67.82,80.44,75.28,64.31,C,6,No,Yes,High School,Low,High
+Reyansh,Kapoor,reyansh.kapoor36@example.com,Female,21,Civil,91.28,71.29,60.8,84.9,71.39,83.27,70.27,70.17,B,25,No,No,Bachelor,Low,Medium
+Anaya,Malhotra,anaya.malhotra427@example.com,Male,21,Electrical,73.5,71.26,72.19,79.8,70.78,59.64,70.81,72.19,B,23,No,Yes,Diploma,High,High
+Arjun,Malhotra,arjun.malhotra37@example.com,Other,19,Data Science,87.94,65.54,68.3,84.86,65.46,62.57,74.07,70.1,B,13,Yes,Yes,PhD,Low,Medium
+Krishna,Mehta,krishna.mehta530@example.com,Male,17,Electrical,75.16,55.51,69.37,79.92,73.89,81.07,97.76,71.36,B,33,Yes,No,Bachelor,Low,Medium
+Aarav,Pandey,aarav.pandey841@example.com,Male,25,Electronics,76.57,74.18,64.36,66.54,66.98,73.21,80.31,69.44,C,15,Yes,Yes,Master,Middle,Low
+Aditya,Chatterjee,aditya.chatterjee570@example.com,Male,17,Data Science,100.0,59.26,65.75,74.37,78.75,80.64,91.41,70.03,B,24,Yes,No,Bachelor,Middle,Medium
+Vivaan,Chatterjee,vivaan.chatterjee439@example.com,Male,25,Mechanical,55.74,34.2,64.56,85.97,55.21,47.92,82.85,60.24,C,31,Yes,Yes,High School,Middle,Low
+Atharv,Banerjee,atharv.banerjee382@example.com,Male,21,Electronics,82.44,53.65,57.22,65.3,75.33,71.74,81.93,62.55,C,13,No,No,Bachelor,Middle,Medium
+Saanvi,Nair,saanvi.nair599@example.com,Female,24,Mechanical,51.45,57.15,55.11,72.44,67.54,85.98,53.69,60.86,C,32,Yes,Yes,PhD,High,Medium
+Sai,Patel,sai.patel374@example.com,Other,18,Mechanical,80.45,78.38,99.85,70.18,77.89,59.96,47.3,80.59,B,22,No,No,PhD,Middle,Low
+Vivaan,Verma,vivaan.verma277@example.com,Male,19,Information Technology,88.45,69.92,89.68,61.27,80.24,96.69,81.04,79.02,B,22,Yes,Yes,High School,High,Low
+Ishaan,Verma,ishaan.verma778@example.com,Female,22,Computer Science,82.77,70.13,48.44,88.56,66.67,83.04,57.24,64.31,C,13,No,No,Diploma,High,Medium
+Riya,Das,riya.das516@example.com,Other,20,Computer Science,68.21,91.53,66.79,89.53,73.06,59.58,86.7,78.64,B,33,Yes,Yes,High School,Middle,Low
+Anika,Singh,anika.singh725@example.com,Female,19,Information Technology,74.1,80.48,72.38,59.57,75.97,99.96,81.92,75.17,B,16,No,Yes,Diploma,Low,High
+Aadhya,Banerjee,aadhya.banerjee822@example.com,Other,20,Computer Science,79.42,86.13,75.16,77.1,60.9,80.34,88.43,78.35,B,18,Yes,No,Bachelor,High,High
+Riya,Tiwari,riya.tiwari60@example.com,Other,23,Mechanical,71.64,91.37,70.62,66.12,85.97,75.13,85.11,78.34,B,15,Yes,Yes,PhD,Middle,Medium
+Aditya,Nair,aditya.nair229@example.com,Male,24,Data Science,77.08,69.1,79.4,77.91,50.05,66.79,87.15,73.81,B,19,No,Yes,PhD,Middle,Medium
+Aadhya,Das,aadhya.das443@example.com,Female,25,Electronics,78.68,62.14,51.62,64.2,49.74,76.99,68.82,58.94,C,11,No,No,Master,Low,High
+Reyansh,Pandey,reyansh.pandey602@example.com,Male,19,Electronics,70.33,68.98,77.46,95.93,55.86,89.59,87.68,77.58,B,30,Yes,No,Master,High,Medium
+Aarav,Sharma,aarav.sharma472@example.com,Female,18,Information Technology,72.21,73.05,65.14,76.86,92.11,84.06,82.1,74.21,B,26,Yes,No,Bachelor,Low,Low
+Diya,Chatterjee,diya.chatterjee803@example.com,Female,23,Computer Science,75.7,47.74,68.87,87.07,55.67,67.45,77.52,65.79,C,30,No,No,Master,Low,Low
+Krishna,Yadav,krishna.yadav679@example.com,Male,21,Electrical,70.15,58.11,65.65,61.34,62.31,85.03,60.31,63.22,C,28,No,No,High School,Low,Low
+Atharv,Yadav,atharv.yadav34@example.com,Other,17,Data Science,64.02,60.55,82.98,73.03,68.43,78.44,55.05,71.4,B,34,No,No,Diploma,High,Low
+Reyansh,Joshi,reyansh.joshi520@example.com,Other,23,Electrical,84.95,75.75,65.86,85.06,60.47,89.28,77.85,73.04,B,33,Yes,No,Master,Middle,Medium
+Aditya,Joshi,aditya.joshi850@example.com,Male,25,Computer Science,76.63,69.7,70.39,87.2,61.08,70.37,88.44,73.61,B,9,Yes,No,Bachelor,Low,Medium
+Aadhya,Singh,aadhya.singh603@example.com,Male,18,Mechanical,74.04,83.51,97.49,70.98,82.18,66.46,85.06,85.69,A,24,No,No,PhD,Low,Low
+Diya,Kumar,diya.kumar283@example.com,Other,24,Electrical,81.99,77.1,62.32,58.39,80.04,57.37,72.19,67.93,C,29,No,No,PhD,Low,Low
+Krishna,Pandey,krishna.pandey473@example.com,Other,19,Computer Science,89.41,72.88,100.0,85.25,66.15,78.27,75.43,84.08,B,10,No,Yes,High School,Middle,Medium
+Ishaan,Saxena,ishaan.saxena933@example.com,Male,23,Information Technology,64.18,55.89,63.59,54.64,74.57,75.51,55.93,61.25,C,18,No,No,PhD,Middle,High
+Arjun,Kapoor,arjun.kapoor205@example.com,Other,18,Civil,84.04,80.74,75.41,71.76,81.1,84.8,79.69,77.66,B,15,Yes,No,Master,High,Medium
+Vivaan,Chatterjee,vivaan.chatterjee895@example.com,Male,23,Mechanical,71.75,74.15,89.93,69.03,99.18,72.74,76.39,81.56,B,33,No,Yes,Bachelor,Low,Medium
+Pari,Yadav,pari.yadav360@example.com,Male,19,Electronics,73.28,73.35,45.87,69.54,60.89,79.35,87.93,63.67,C,32,No,No,Diploma,Low,Medium
+Sai,Sharma,sai.sharma949@example.com,Female,24,Information Technology,86.46,34.43,100.0,77.95,64.68,79.57,78.11,73.56,B,26,No,Yes,Bachelor,High,Low
+Reyansh,Yadav,reyansh.yadav692@example.com,Other,17,Electronics,73.33,72.97,62.89,70.96,65.76,63.67,77.75,68.43,C,34,No,No,Bachelor,Middle,High
+Reyansh,Nair,reyansh.nair10@example.com,Female,19,Information Technology,85.85,77.72,84.3,78.24,67.61,86.4,59.71,77.72,B,5,No,No,PhD,High,High
+Diya,Kumar,diya.kumar202@example.com,Other,21,Information Technology,70.99,55.54,88.2,84.43,79.85,88.72,65.45,76.38,B,6,No,Yes,Diploma,Middle,High
+Myra,Kapoor,myra.kapoor767@example.com,Female,25,Mechanical,83.49,68.12,84.7,73.85,69.38,83.41,86.51,77.51,B,21,Yes,Yes,High School,Middle,Low
+Aditya,Mehta,aditya.mehta958@example.com,Female,22,Mechanical,73.32,69.08,56.12,50.02,76.41,84.09,79.14,64.18,C,35,No,Yes,Master,High,Low
+Ishaan,Yadav,ishaan.yadav441@example.com,Other,25,Computer Science,60.5,64.74,38.72,88.7,60.97,90.55,87.35,62.4,C,9,No,Yes,Diploma,Middle,Medium
+Aadhya,Joshi,aadhya.joshi414@example.com,Other,24,Mechanical,70.99,53.01,77.26,66.56,75.23,73.17,54.63,66.92,C,28,No,No,Bachelor,Middle,Medium
+Pari,Banerjee,pari.banerjee614@example.com,Other,24,Information Technology,57.7,73.4,63.58,69.47,82.35,89.73,72.73,71.02,B,25,No,No,PhD,High,High
+Shaurya,Gupta,shaurya.gupta414@example.com,Female,19,Information Technology,76.59,77.5,51.65,77.23,80.62,84.8,52.76,66.61,C,12,Yes,Yes,Master,Low,Low
+Reyansh,Kapoor,reyansh.kapoor56@example.com,Male,21,Electrical,72.39,56.83,73.5,79.81,91.96,73.05,70.03,71.75,B,9,No,No,Diploma,Middle,Low
+Ishaan,Verma,ishaan.verma580@example.com,Male,20,Information Technology,91.5,74.45,91.01,77.89,60.11,64.67,57.38,77.13,B,14,Yes,No,High School,Middle,High
+Diya,Tiwari,diya.tiwari129@example.com,Male,22,Civil,86.62,87.83,99.74,83.43,87.95,72.2,62.12,88.0,A,12,Yes,Yes,Master,High,Medium
+Anaya,Sharma,anaya.sharma672@example.com,Male,17,Mechanical,88.5,76.27,73.61,78.87,77.88,90.84,91.54,78.15,B,12,No,No,Diploma,High,Medium
+Aarav,Joshi,aarav.joshi831@example.com,Male,25,Computer Science,85.44,82.69,79.71,70.39,83.08,64.06,88.65,79.5,B,5,Yes,No,Master,Middle,Medium
+Reyansh,Iyer,reyansh.iyer194@example.com,Other,23,Mechanical,68.05,74.29,59.32,80.53,73.59,62.05,81.05,69.98,C,7,No,No,PhD,Low,Medium
+Anaya,Gupta,anaya.gupta730@example.com,Female,21,Mechanical,74.22,83.22,72.02,78.95,62.51,72.11,70.5,74.76,B,9,No,Yes,Bachelor,Middle,Low
+Siya,Saxena,siya.saxena600@example.com,Male,18,Electrical,88.57,95.16,59.92,85.77,47.96,66.06,64.49,72.18,B,11,No,Yes,High School,Low,Low
+Sai,Patel,sai.patel977@example.com,Female,24,Civil,66.47,46.25,78.19,72.86,78.55,84.9,79.19,69.88,C,13,No,No,High School,Low,Medium
+Arjun,Das,arjun.das365@example.com,Other,24,Mechanical,86.58,68.96,54.2,85.58,66.93,68.64,73.86,66.56,C,34,Yes,Yes,Bachelor,Low,High
+Atharv,Pandey,atharv.pandey177@example.com,Female,22,Information Technology,70.87,63.74,77.16,78.48,63.23,73.12,88.89,73.58,B,17,No,Yes,Bachelor,High,Medium
+Pari,Singh,pari.singh954@example.com,Other,18,Information Technology,84.96,100.0,89.7,86.44,57.35,85.64,75.36,86.91,A,20,No,Yes,Master,Low,Medium
+Aarav,Kapoor,aarav.kapoor916@example.com,Male,21,Electrical,74.49,72.52,86.18,80.01,63.46,85.42,68.35,77.75,B,14,Yes,No,Diploma,Middle,Low
+Aditya,Banerjee,aditya.banerjee748@example.com,Other,20,Mechanical,82.17,65.45,68.72,82.66,61.52,97.45,54.15,69.25,C,6,Yes,No,Bachelor,Middle,Low
+Ishaan,Das,ishaan.das63@example.com,Female,22,Electronics,74.02,75.55,80.76,74.0,73.31,82.11,73.23,77.01,B,25,No,Yes,Bachelor,High,Medium
+Sai,Iyer,sai.iyer118@example.com,Other,25,Electrical,93.93,82.59,85.09,65.34,73.05,75.0,63.93,77.68,B,26,No,Yes,Master,Middle,Medium
+Krishna,Nair,krishna.nair13@example.com,Male,25,Civil,83.6,61.94,81.83,64.3,94.63,69.04,78.63,74.55,B,35,Yes,No,PhD,Low,Low
+Aarav,Nair,aarav.nair669@example.com,Other,19,Electronics,87.92,61.44,84.79,62.71,91.43,78.14,68.84,74.38,B,11,No,Yes,Master,High,Medium
+Saanvi,Tiwari,saanvi.tiwari513@example.com,Other,23,Electrical,77.01,82.13,63.23,67.51,71.34,66.23,97.85,73.02,B,14,No,Yes,Master,Middle,High
+Anaya,Kapoor,anaya.kapoor992@example.com,Male,20,Information Technology,74.34,82.47,75.14,65.15,73.93,85.84,73.74,75.75,B,15,No,No,Master,High,High
+Saanvi,Tiwari,saanvi.tiwari585@example.com,Male,21,Electrical,91.93,85.32,85.78,70.4,61.04,71.86,78.35,79.45,B,29,Yes,Yes,Bachelor,High,High
+Aditya,Saxena,aditya.saxena763@example.com,Male,25,Mechanical,85.46,37.43,71.88,76.58,70.67,90.91,81.06,65.72,C,19,Yes,No,High School,Middle,Low
+Anika,Verma,anika.verma248@example.com,Female,18,Civil,93.1,66.76,86.06,91.35,89.74,67.08,72.96,80.14,B,23,Yes,Yes,Diploma,High,High
+Diya,Chatterjee,diya.chatterjee378@example.com,Male,19,Civil,76.55,77.34,82.3,66.61,74.81,57.8,93.3,77.83,B,29,No,Yes,Master,High,Low
+Diya,Patel,diya.patel497@example.com,Female,23,Information Technology,74.88,70.84,67.36,86.46,39.95,77.83,74.73,69.61,C,6,Yes,No,Diploma,High,Low
+Shaurya,Malhotra,shaurya.malhotra704@example.com,Male,22,Electrical,75.46,95.89,58.69,82.72,78.28,90.62,67.99,76.08,B,19,Yes,Yes,Diploma,High,High
+Ishaan,Das,ishaan.das929@example.com,Male,17,Data Science,72.67,86.44,78.38,59.55,67.53,81.86,86.05,77.43,B,15,No,No,Diploma,Middle,High
+Sai,Verma,sai.verma588@example.com,Other,19,Data Science,73.21,26.29,79.85,62.8,49.79,49.68,85.77,59.98,C,30,Yes,No,Master,Middle,Low
+Aarav,Iyer,aarav.iyer147@example.com,Other,22,Mechanical,81.29,66.62,92.84,81.37,93.4,64.07,75.59,81.45,B,15,Yes,No,Bachelor,High,High
+Krishna,Joshi,krishna.joshi276@example.com,Other,19,Computer Science,63.83,66.56,68.27,81.27,74.55,84.23,84.44,72.84,B,25,Yes,No,Bachelor,High,High
+Saanvi,Patel,saanvi.patel988@example.com,Other,23,Information Technology,100.0,65.27,57.88,77.46,64.37,92.82,72.6,66.53,C,20,Yes,Yes,Diploma,Low,High
+Anika,Patel,anika.patel740@example.com,Male,18,Computer Science,74.34,62.93,82.78,73.42,66.3,94.65,65.73,73.65,B,35,No,Yes,PhD,High,Low
+Diya,Reddy,diya.reddy568@example.com,Female,25,Mechanical,80.36,79.78,47.53,79.8,61.34,86.23,64.45,65.44,C,24,Yes,No,Diploma,Low,Low
+Siya,Banerjee,siya.banerjee333@example.com,Other,24,Information Technology,86.93,86.59,84.92,77.51,71.22,72.24,93.65,83.1,B,33,Yes,Yes,High School,High,Medium
+Reyansh,Pandey,reyansh.pandey375@example.com,Male,24,Data Science,73.01,54.44,81.98,67.04,62.6,63.56,70.21,68.82,C,14,Yes,No,Master,High,Medium
+Vivaan,Kapoor,vivaan.kapoor88@example.com,Male,22,Mechanical,79.17,73.65,86.27,80.27,71.71,76.02,82.12,79.83,B,27,Yes,No,High School,High,Medium
+Ishaan,Sharma,ishaan.sharma635@example.com,Other,23,Data Science,92.73,71.89,64.96,65.07,56.66,84.66,82.94,68.66,C,20,No,Yes,Diploma,High,Low
+Reyansh,Pandey,reyansh.pandey591@example.com,Other,20,Computer Science,85.77,68.07,93.1,70.16,85.46,77.61,68.7,79.42,B,27,No,No,PhD,Middle,Medium
+Krishna,Kumar,krishna.kumar765@example.com,Female,21,Computer Science,85.93,76.14,77.35,75.81,73.55,100.0,90.21,78.86,B,24,Yes,Yes,Master,Middle,Low
+Anika,Chatterjee,anika.chatterjee850@example.com,Other,24,Electronics,87.23,71.68,87.11,80.18,74.31,74.96,75.03,79.12,B,14,No,No,Master,Low,High
+Siya,Sharma,siya.sharma186@example.com,Male,24,Civil,48.3,73.16,64.67,90.93,74.23,66.11,75.4,72.83,B,18,Yes,Yes,PhD,Low,Low
+Atharv,Tiwari,atharv.tiwari137@example.com,Other,19,Electrical,69.54,77.1,76.36,84.58,64.51,78.34,59.62,75.02,B,20,Yes,No,PhD,Low,Low
+Navya,Mehta,navya.mehta778@example.com,Other,22,Information Technology,87.01,77.78,79.44,75.02,78.98,94.04,72.58,78.36,B,16,No,Yes,Bachelor,Low,Low
+Aditya,Kumar,aditya.kumar124@example.com,Female,21,Data Science,81.39,53.71,58.98,75.98,87.25,75.44,73.17,65.28,C,19,Yes,Yes,Master,Middle,Low
+Sai,Mehta,sai.mehta649@example.com,Other,24,Electrical,75.93,61.98,76.42,60.03,89.37,71.35,84.66,72.22,B,17,No,No,Diploma,High,Low
+Aarav,Kapoor,aarav.kapoor151@example.com,Male,20,Mechanical,67.3,80.03,82.08,78.84,62.07,80.5,61.8,76.97,B,17,No,Yes,Diploma,Low,Low
+Aditya,Nair,aditya.nair111@example.com,Male,19,Data Science,77.47,85.44,83.95,75.15,62.3,84.46,76.23,80.09,B,6,Yes,No,Master,Low,Medium
+Diya,Kapoor,diya.kapoor931@example.com,Male,23,Computer Science,56.8,81.74,71.64,87.02,60.86,46.23,79.35,74.89,B,9,No,Yes,High School,Middle,Medium
+Anaya,Das,anaya.das391@example.com,Other,20,Computer Science,82.92,44.64,57.32,100.0,70.33,85.31,68.19,64.34,C,29,No,Yes,High School,Low,High
+Reyansh,Reddy,reyansh.reddy41@example.com,Female,21,Information Technology,59.1,67.45,68.02,71.0,72.62,80.64,74.2,70.03,B,28,No,No,High School,High,Low
+Reyansh,Kumar,reyansh.kumar394@example.com,Male,17,Electrical,67.36,77.29,42.76,54.5,82.87,83.07,75.31,62.44,C,11,Yes,No,Master,Low,Low
+Myra,Verma,myra.verma869@example.com,Other,17,Data Science,66.05,59.38,68.06,59.04,65.13,84.52,93.13,67.57,C,28,Yes,No,Bachelor,High,Medium
+Atharv,Tiwari,atharv.tiwari718@example.com,Male,24,Civil,75.81,81.35,43.29,81.59,64.35,81.07,73.03,65.52,C,21,Yes,Yes,PhD,Low,Low
+Anika,Malhotra,anika.malhotra120@example.com,Male,17,Electrical,93.2,56.88,81.41,72.2,72.1,76.16,65.85,71.15,B,28,No,Yes,Bachelor,Low,Low
+Aditya,Mehta,aditya.mehta772@example.com,Male,18,Data Science,79.86,69.06,75.62,75.85,83.58,87.24,63.39,74.17,B,14,Yes,Yes,PhD,Low,High
+Reyansh,Banerjee,reyansh.banerjee371@example.com,Other,17,Data Science,88.69,52.2,80.82,81.2,51.06,78.93,70.38,69.61,C,7,No,No,Diploma,High,Low
+Aditya,Chatterjee,aditya.chatterjee632@example.com,Male,18,Data Science,72.41,90.26,62.19,66.94,74.91,84.86,74.3,73.54,B,6,Yes,No,Master,High,High
+Krishna,Verma,krishna.verma81@example.com,Female,22,Computer Science,91.66,77.96,39.33,69.71,67.26,82.79,44.5,59.03,C,9,Yes,Yes,PhD,Middle,Medium
+Pari,Mehta,pari.mehta598@example.com,Male,24,Information Technology,100.0,77.97,74.23,86.82,100.0,86.71,87.39,81.57,B,12,Yes,Yes,Bachelor,High,High
+Sai,Mehta,sai.mehta125@example.com,Female,22,Data Science,81.31,67.88,64.86,66.74,65.76,64.49,75.09,66.99,C,11,No,No,Master,Middle,Medium
+Siya,Reddy,siya.reddy603@example.com,Other,21,Electrical,63.15,72.86,71.46,76.47,67.73,100.0,92.32,75.7,B,17,No,Yes,Diploma,Middle,Low
+Riya,Verma,riya.verma294@example.com,Female,18,Computer Science,67.55,73.49,62.88,64.86,57.92,82.32,67.82,66.8,C,30,No,Yes,High School,Low,Low
+Riya,Yadav,riya.yadav285@example.com,Other,19,Mechanical,89.68,84.91,92.61,66.48,79.7,84.32,70.31,82.83,B,19,Yes,Yes,Master,Middle,Medium
+Sai,Sharma,sai.sharma25@example.com,Female,21,Electrical,72.28,94.14,75.41,81.36,64.14,65.81,69.17,78.75,B,32,No,Yes,Master,Middle,Low
+Pari,Joshi,pari.joshi276@example.com,Male,24,Electrical,78.76,54.04,71.85,58.11,60.56,84.71,83.25,65.99,C,17,Yes,No,High School,High,Low
+Anika,Banerjee,anika.banerjee580@example.com,Female,22,Electronics,76.08,54.73,56.59,71.27,81.73,87.28,70.04,63.72,C,10,No,Yes,High School,High,Low
+Diya,Kapoor,diya.kapoor662@example.com,Other,17,Mechanical,68.47,74.02,59.65,69.82,89.9,86.27,77.9,70.95,B,24,No,No,Master,Low,Low
+Myra,Verma,myra.verma408@example.com,Other,24,Computer Science,67.28,73.17,87.94,71.24,90.21,90.93,95.96,82.92,B,20,Yes,Yes,PhD,High,Low
+Aditya,Yadav,aditya.yadav352@example.com,Other,19,Information Technology,83.05,78.81,93.21,79.47,67.99,73.51,78.86,82.61,B,21,Yes,Yes,Diploma,High,Medium
+Reyansh,Patel,reyansh.patel653@example.com,Male,23,Electronics,67.09,67.85,88.45,53.09,92.41,89.22,70.48,76.63,B,7,Yes,No,PhD,High,Low
+Aarav,Patel,aarav.patel623@example.com,Other,21,Civil,85.43,70.05,90.45,84.83,57.2,83.87,73.53,79.16,B,26,Yes,No,Master,High,Medium
+Riya,Pandey,riya.pandey676@example.com,Female,24,Electronics,80.83,59.08,98.22,85.4,65.12,64.65,71.37,78.84,B,17,Yes,No,Diploma,Middle,High
+Vivaan,Pandey,vivaan.pandey25@example.com,Male,22,Information Technology,84.35,73.6,90.8,82.9,85.63,81.27,59.33,81.17,B,13,Yes,No,PhD,Middle,Low
+Siya,Reddy,siya.reddy335@example.com,Female,19,Civil,78.04,85.9,71.23,80.03,70.18,67.7,74.52,76.26,B,15,Yes,Yes,High School,High,High
+Riya,Verma,riya.verma774@example.com,Other,22,Electronics,83.09,60.16,68.46,65.61,87.43,75.06,93.43,70.68,B,21,No,No,PhD,Low,Medium
+Atharv,Sharma,atharv.sharma553@example.com,Male,22,Information Technology,95.29,68.78,56.87,54.14,56.34,64.26,92.54,63.32,C,5,Yes,Yes,Bachelor,Middle,Medium
+Riya,Das,riya.das862@example.com,Male,19,Computer Science,81.16,75.84,38.69,63.02,84.64,80.87,74.23,61.89,C,29,Yes,Yes,High School,Middle,Low
+Ishaan,Malhotra,ishaan.malhotra419@example.com,Other,23,Computer Science,85.65,94.54,68.68,75.69,76.31,100.0,50.81,76.74,B,7,No,Yes,PhD,Middle,High
+Anaya,Tiwari,anaya.tiwari688@example.com,Female,17,Data Science,86.83,68.28,80.5,68.43,73.41,85.11,100.0,77.11,B,16,Yes,No,High School,Low,High
+Shaurya,Patel,shaurya.patel665@example.com,Male,24,Information Technology,88.08,57.28,65.64,70.47,52.45,74.7,84.79,65.32,C,12,No,No,High School,High,Medium
+Siya,Saxena,siya.saxena856@example.com,Female,20,Electronics,67.26,85.73,79.32,67.66,72.3,93.98,84.8,79.75,B,22,Yes,No,Bachelor,Low,High
+Vivaan,Sharma,vivaan.sharma469@example.com,Female,18,Electrical,80.09,66.43,73.15,69.88,48.74,98.42,77.86,70.28,B,17,No,Yes,Master,Low,High
+Sai,Mehta,sai.mehta93@example.com,Female,19,Mechanical,83.98,69.13,60.97,73.14,54.81,100.0,61.19,66.19,C,31,Yes,No,PhD,High,Low
+Anika,Yadav,anika.yadav568@example.com,Female,22,Civil,69.68,63.4,91.32,75.15,59.17,90.54,84.77,78.0,B,28,No,No,Bachelor,High,Low
+Saanvi,Kapoor,saanvi.kapoor590@example.com,Female,19,Civil,85.38,80.74,100.0,96.85,65.76,94.24,80.6,89.06,A,32,No,No,Master,Middle,Low
+Reyansh,Tiwari,reyansh.tiwari346@example.com,Male,18,Civil,84.99,44.62,69.44,66.87,83.94,88.71,51.11,63.43,C,22,Yes,Yes,PhD,Low,Low
+Myra,Chatterjee,myra.chatterjee60@example.com,Male,17,Mechanical,79.78,86.83,69.2,82.29,78.21,81.42,72.74,77.44,B,10,No,No,High School,High,Medium
+Arjun,Banerjee,arjun.banerjee17@example.com,Female,24,Electrical,67.83,53.18,82.64,75.19,72.34,73.76,72.34,71.65,B,26,No,Yes,PhD,High,Low
+Diya,Yadav,diya.yadav581@example.com,Other,18,Information Technology,90.47,64.97,51.88,82.44,71.54,78.31,95.29,67.37,C,30,Yes,Yes,High School,Low,High
+Saanvi,Patel,saanvi.patel772@example.com,Female,20,Data Science,79.79,74.34,54.32,72.8,81.31,62.45,78.41,67.61,C,27,Yes,No,Bachelor,Middle,Low
+Ishaan,Kumar,ishaan.kumar535@example.com,Female,19,Electrical,81.01,70.62,87.56,78.34,91.74,68.06,77.63,80.39,B,16,No,Yes,Diploma,Middle,High
+Pari,Reddy,pari.reddy975@example.com,Other,22,Electronics,80.84,53.96,86.34,98.25,73.8,83.05,77.01,77.68,B,12,No,Yes,Bachelor,Low,Medium
+Aarav,Joshi,aarav.joshi591@example.com,Male,17,Mechanical,72.86,42.69,61.41,61.08,94.45,76.85,71.85,61.8,C,22,No,Yes,Diploma,High,Medium
+Atharv,Malhotra,atharv.malhotra418@example.com,Male,19,Civil,88.89,53.17,60.5,75.68,86.35,83.02,78.98,66.5,C,32,Yes,No,Diploma,High,Low
+Saanvi,Kumar,saanvi.kumar641@example.com,Male,17,Data Science,80.78,76.0,75.02,64.7,74.55,67.26,76.97,73.48,B,14,Yes,No,Diploma,Low,Medium
+Atharv,Banerjee,atharv.banerjee811@example.com,Other,18,Data Science,75.19,100.0,71.4,60.96,72.39,83.19,96.08,80.14,B,30,No,Yes,Master,Low,High
+Siya,Iyer,siya.iyer808@example.com,Female,23,Data Science,74.11,46.26,84.25,61.19,68.77,75.42,75.16,68.4,C,10,No,No,PhD,High,Low
+Diya,Kapoor,diya.kapoor734@example.com,Female,18,Civil,86.89,59.75,67.89,74.86,75.8,78.98,81.23,69.58,C,6,No,No,Bachelor,Low,Medium
+Sai,Sharma,sai.sharma85@example.com,Male,23,Data Science,88.44,75.89,78.8,59.18,74.6,82.8,84.75,75.51,B,26,No,No,High School,Middle,High
+Anika,Reddy,anika.reddy399@example.com,Female,17,Electrical,73.08,60.11,63.39,80.36,86.41,73.93,86.9,70.3,B,33,No,Yes,Diploma,Low,Medium
+Vivaan,Saxena,vivaan.saxena817@example.com,Other,25,Electrical,81.23,68.14,68.83,82.47,77.91,100.0,65.77,72.86,B,21,Yes,Yes,Bachelor,Middle,Medium
+Shaurya,Mehta,shaurya.mehta800@example.com,Female,18,Electronics,85.18,62.06,58.96,74.89,75.65,100.0,73.79,67.33,C,35,Yes,No,PhD,High,Low
+Reyansh,Banerjee,reyansh.banerjee95@example.com,Other,23,Information Technology,68.7,74.1,40.88,74.08,74.19,85.95,87.68,64.43,C,23,No,Yes,Bachelor,Low,Low
+Aadhya,Tiwari,aadhya.tiwari25@example.com,Male,20,Data Science,74.96,67.74,60.51,63.72,77.72,65.26,71.02,65.81,C,24,No,Yes,PhD,Low,Medium
+Shaurya,Kumar,shaurya.kumar985@example.com,Other,20,Electronics,70.05,78.25,99.02,61.98,51.76,76.75,76.19,80.15,B,18,Yes,No,High School,Middle,Medium
+Sai,Sharma,sai.sharma4@example.com,Female,19,Computer Science,82.19,63.31,68.99,78.68,86.49,58.45,71.57,70.5,B,6,Yes,No,High School,Middle,High
+Ishaan,Kapoor,ishaan.kapoor429@example.com,Female,18,Electronics,82.14,56.23,97.97,68.65,73.5,83.56,68.9,77.06,B,20,Yes,No,Diploma,High,High
+Arjun,Patel,arjun.patel714@example.com,Male,25,Data Science,61.53,63.57,87.44,71.63,63.84,87.26,72.03,75.19,B,18,No,No,High School,Low,High
+Anaya,Patel,anaya.patel660@example.com,Female,25,Civil,74.9,72.24,83.56,98.82,83.93,89.6,69.93,81.99,B,20,Yes,No,Bachelor,Middle,Low
+Shaurya,Nair,shaurya.nair917@example.com,Other,24,Computer Science,69.74,70.93,73.61,64.21,71.9,81.99,80.32,72.45,B,21,No,No,Master,High,High
+Siya,Joshi,siya.joshi964@example.com,Female,18,Electronics,85.04,74.36,64.39,69.86,59.61,95.85,76.16,69.98,C,23,No,Yes,High School,High,Low
+Diya,Patel,diya.patel381@example.com,Male,24,Mechanical,77.75,56.07,100.0,64.27,68.85,82.16,83.2,77.97,B,18,Yes,Yes,High School,Low,Medium
+Navya,Pandey,navya.pandey595@example.com,Other,24,Electrical,89.58,97.11,79.59,64.44,70.92,81.08,100.0,82.95,B,17,Yes,Yes,PhD,High,High
+Atharv,Gupta,atharv.gupta458@example.com,Male,19,Electrical,66.02,88.04,74.7,83.38,72.78,69.58,85.01,79.92,B,12,No,No,Diploma,Low,Medium
+Myra,Das,myra.das401@example.com,Other,24,Electronics,86.54,84.58,71.8,69.0,55.29,86.19,81.09,74.57,B,34,Yes,Yes,Master,Middle,High
+Krishna,Kapoor,krishna.kapoor821@example.com,Female,21,Electrical,70.34,61.92,65.0,60.17,64.19,66.66,71.05,64.11,C,24,No,No,PhD,High,High
+Arjun,Malhotra,arjun.malhotra237@example.com,Male,21,Mechanical,72.61,45.59,100.0,87.53,64.65,80.72,81.01,78.13,B,16,Yes,No,Master,Middle,High
+Anika,Pandey,anika.pandey1@example.com,Female,17,Electrical,91.91,57.72,88.38,69.52,57.97,85.24,91.49,75.0,B,20,No,Yes,Master,Low,Medium
+Anaya,Verma,anaya.verma218@example.com,Male,21,Information Technology,100.0,52.0,82.48,70.9,83.4,63.3,60.85,70.1,B,8,Yes,No,Bachelor,High,Medium
+Myra,Kumar,myra.kumar976@example.com,Male,17,Electronics,72.24,71.18,62.38,81.59,86.32,84.0,95.43,74.24,B,27,No,Yes,High School,High,High
+Saanvi,Pandey,saanvi.pandey911@example.com,Female,25,Electronics,84.16,51.75,92.45,68.95,84.93,93.74,81.48,76.96,B,8,Yes,No,Master,Middle,Low
+Aditya,Yadav,aditya.yadav773@example.com,Other,25,Electronics,65.04,56.23,91.84,73.31,74.95,85.59,84.36,77.41,B,11,No,Yes,High School,Low,Medium
+Saanvi,Patel,saanvi.patel812@example.com,Male,23,Electrical,82.79,66.87,67.31,83.58,80.64,75.43,88.99,73.55,B,32,No,No,Diploma,High,Medium
+Siya,Banerjee,siya.banerjee356@example.com,Other,20,Information Technology,78.71,57.23,60.62,65.21,70.73,90.34,66.34,63.53,C,5,Yes,Yes,Bachelor,High,Low
+Diya,Kapoor,diya.kapoor727@example.com,Other,18,Information Technology,81.88,60.15,68.1,59.9,71.35,76.06,82.48,67.04,C,10,Yes,No,Bachelor,Middle,Low
+Shaurya,Patel,shaurya.patel7@example.com,Other,17,Electronics,82.23,52.02,88.26,77.1,76.38,77.91,69.79,73.98,B,34,Yes,No,High School,Middle,Medium
+Reyansh,Mehta,reyansh.mehta657@example.com,Male,22,Civil,82.18,77.13,45.8,69.61,70.94,80.56,90.32,65.91,C,30,Yes,No,High School,Middle,Medium
+Reyansh,Tiwari,reyansh.tiwari518@example.com,Female,21,Information Technology,72.28,62.53,64.31,66.98,69.83,85.71,63.35,65.79,C,29,Yes,No,PhD,Low,Low
+Pari,Iyer,pari.iyer293@example.com,Other,19,Information Technology,84.28,44.47,63.58,71.71,94.1,75.25,49.59,62.26,C,11,No,Yes,PhD,High,High
+Ishaan,Chatterjee,ishaan.chatterjee678@example.com,Male,19,Electrical,60.01,70.51,81.21,78.75,76.01,89.62,69.52,76.9,B,27,No,No,High School,High,Low
+Vivaan,Verma,vivaan.verma970@example.com,Other,18,Mechanical,88.95,45.52,58.43,56.93,70.7,77.54,77.37,59.05,C,13,Yes,Yes,Bachelor,High,Low
+Vivaan,Kapoor,vivaan.kapoor528@example.com,Male,23,Civil,80.62,56.09,69.15,60.03,90.36,74.96,70.13,67.02,C,17,Yes,No,Diploma,High,Low
+Anaya,Iyer,anaya.iyer952@example.com,Other,20,Information Technology,95.89,51.37,55.12,64.04,73.19,82.32,84.88,61.66,C,24,Yes,No,High School,Low,High
+Saanvi,Singh,saanvi.singh558@example.com,Male,24,Mechanical,100.0,36.26,81.13,69.43,66.96,71.8,65.09,64.67,C,33,Yes,Yes,Master,High,Low
+Aditya,Gupta,aditya.gupta162@example.com,Other,18,Electronics,96.85,82.63,72.35,88.51,55.85,64.69,49.86,73.06,B,8,No,Yes,Diploma,Middle,Low
+Shaurya,Nair,shaurya.nair430@example.com,Male,22,Mechanical,73.01,72.43,73.54,76.49,57.07,86.03,78.88,73.22,B,25,Yes,Yes,Bachelor,High,High
+Riya,Singh,riya.singh158@example.com,Female,19,Electrical,87.33,41.61,76.67,63.12,69.23,83.34,77.09,65.51,C,27,No,No,PhD,Low,Medium
+Ishaan,Yadav,ishaan.yadav218@example.com,Other,25,Computer Science,71.48,70.09,49.03,86.5,71.54,89.19,69.68,66.24,C,32,Yes,No,Diploma,High,High
+Atharv,Tiwari,atharv.tiwari836@example.com,Other,24,Electrical,74.76,58.54,85.14,67.91,81.74,74.18,52.29,71.73,B,30,No,Yes,Diploma,Low,High
+Aarav,Pandey,aarav.pandey347@example.com,Female,21,Computer Science,74.3,52.31,72.51,63.1,85.11,77.09,73.87,67.67,C,7,No,Yes,PhD,High,High
+Aditya,Yadav,aditya.yadav591@example.com,Other,19,Information Technology,86.56,84.46,71.7,67.29,52.71,71.14,68.59,71.99,B,23,Yes,Yes,Bachelor,High,Medium
+Riya,Chatterjee,riya.chatterjee872@example.com,Other,18,Data Science,81.07,64.82,82.32,68.87,73.32,89.84,80.1,75.18,B,6,No,No,PhD,High,High
+Ishaan,Yadav,ishaan.yadav187@example.com,Other,18,Electronics,79.4,60.97,62.5,66.49,67.51,85.56,73.34,65.45,C,18,No,Yes,PhD,Low,Low
+Aditya,Saxena,aditya.saxena815@example.com,Female,23,Electrical,66.5,96.52,76.8,60.93,68.7,79.11,96.46,80.62,B,35,Yes,No,Diploma,Low,Low
+Vivaan,Malhotra,vivaan.malhotra510@example.com,Male,18,Computer Science,68.92,84.64,92.99,68.71,70.67,67.64,73.56,81.82,B,16,Yes,No,Master,High,Medium
+Shaurya,Chatterjee,shaurya.chatterjee583@example.com,Male,25,Electrical,79.63,79.89,88.35,67.52,50.39,77.79,79.52,77.91,B,21,No,No,Diploma,Low,High
+Reyansh,Reddy,reyansh.reddy108@example.com,Female,24,Computer Science,82.49,65.1,73.87,90.15,78.58,74.27,70.0,74.22,B,19,Yes,No,Diploma,Middle,Low
+Aditya,Singh,aditya.singh926@example.com,Other,24,Electrical,78.3,94.55,69.25,74.8,68.21,88.99,99.52,80.32,B,13,No,Yes,Diploma,Middle,Medium
+Navya,Iyer,navya.iyer127@example.com,Other,18,Electronics,84.51,71.24,72.55,51.16,82.94,79.34,81.14,71.25,B,35,Yes,Yes,Master,Low,High
+Atharv,Iyer,atharv.iyer46@example.com,Other,24,Civil,72.89,64.23,65.83,85.22,69.45,98.83,81.17,71.89,B,16,No,Yes,High School,Low,High
+Riya,Kumar,riya.kumar865@example.com,Male,22,Mechanical,67.24,68.07,62.22,53.06,93.19,85.03,82.4,68.57,C,16,Yes,Yes,Diploma,Low,Low
+Siya,Malhotra,siya.malhotra206@example.com,Female,19,Information Technology,81.65,49.27,64.75,83.42,61.39,52.68,73.27,63.59,C,30,Yes,Yes,Master,Middle,Low
+Anaya,Tiwari,anaya.tiwari291@example.com,Male,20,Data Science,78.58,72.03,82.93,81.38,77.11,89.96,57.77,77.23,B,26,Yes,No,High School,Middle,Medium
+Sai,Patel,sai.patel896@example.com,Male,23,Information Technology,85.05,79.4,53.41,59.97,65.05,71.38,85.04,66.12,C,17,Yes,Yes,Diploma,Low,Low
+Navya,Banerjee,navya.banerjee729@example.com,Male,17,Computer Science,73.85,57.15,62.83,86.19,74.16,76.21,74.68,67.9,C,20,No,Yes,PhD,Low,Medium
+Ishaan,Patel,ishaan.patel492@example.com,Male,17,Information Technology,92.92,58.76,91.73,77.1,72.07,100.0,63.33,76.9,B,24,Yes,No,Diploma,High,High
+Aadhya,Yadav,aadhya.yadav544@example.com,Other,17,Electrical,76.46,51.51,86.29,91.89,94.04,90.24,73.63,78.14,B,27,No,No,PhD,Low,Low
+Anaya,Nair,anaya.nair72@example.com,Female,23,Electronics,76.35,44.93,100.0,79.69,68.1,91.28,64.33,75.99,B,10,No,No,Master,Low,Medium
+Navya,Kapoor,navya.kapoor989@example.com,Female,19,Electrical,84.07,67.41,81.58,74.36,56.59,78.76,88.59,75.02,B,17,Yes,Yes,Bachelor,High,Medium
+Atharv,Sharma,atharv.sharma749@example.com,Female,18,Civil,79.71,81.63,56.32,74.74,66.51,85.47,76.38,69.89,C,29,Yes,Yes,High School,Middle,Low
+Aditya,Kumar,aditya.kumar430@example.com,Male,20,Computer Science,86.9,86.32,82.37,77.73,62.02,77.97,69.6,79.13,B,6,Yes,Yes,PhD,High,Low
+Sai,Kumar,sai.kumar766@example.com,Female,21,Information Technology,76.56,64.38,57.3,55.43,65.98,79.93,59.82,61.04,C,15,No,No,High School,Middle,High
+Anaya,Saxena,anaya.saxena969@example.com,Male,19,Civil,80.16,98.5,87.35,91.44,78.69,89.68,67.31,88.0,A,17,Yes,No,High School,Low,Low
+Ishaan,Pandey,ishaan.pandey726@example.com,Male,21,Data Science,73.56,28.91,89.79,90.4,67.36,75.46,66.95,69.42,C,7,No,No,PhD,High,Medium
+Ishaan,Iyer,ishaan.iyer672@example.com,Other,23,Computer Science,83.83,86.87,45.86,79.09,70.68,79.13,81.51,68.81,C,12,No,No,Bachelor,High,Low
+Saanvi,Gupta,saanvi.gupta869@example.com,Other,22,Electrical,78.12,68.45,68.79,84.7,79.03,80.21,60.75,71.88,B,29,No,No,High School,High,Low
+Anika,Pandey,anika.pandey693@example.com,Male,18,Computer Science,76.21,83.48,72.57,81.6,95.2,88.39,77.12,80.16,B,33,No,Yes,Diploma,Low,High
+Reyansh,Banerjee,reyansh.banerjee625@example.com,Other,22,Civil,74.89,31.7,69.47,71.74,78.68,76.46,72.16,61.91,C,25,Yes,No,Diploma,High,Low
+Navya,Singh,navya.singh409@example.com,Female,20,Information Technology,62.21,55.9,79.15,92.16,72.83,81.28,87.43,75.59,B,14,Yes,Yes,Diploma,Low,Low
+Navya,Malhotra,navya.malhotra520@example.com,Other,22,Civil,71.89,75.5,60.89,83.65,75.82,80.98,66.61,71.03,B,18,Yes,Yes,High School,High,Medium
+Navya,Iyer,navya.iyer8@example.com,Female,20,Civil,87.07,100.0,56.88,71.6,76.78,85.86,69.29,74.55,B,15,Yes,Yes,Master,High,Medium
+Shaurya,Singh,shaurya.singh39@example.com,Female,21,Electrical,51.67,90.39,83.41,57.57,66.71,93.68,93.37,81.12,B,31,No,Yes,High School,Middle,Medium
+Siya,Kumar,siya.kumar572@example.com,Female,18,Information Technology,89.39,67.36,73.24,73.69,87.54,69.24,66.33,72.38,B,6,Yes,Yes,High School,Low,Low
+Pari,Saxena,pari.saxena404@example.com,Male,22,Civil,90.1,69.33,92.68,68.28,73.34,68.78,76.09,78.4,B,20,No,Yes,PhD,Middle,High
+Saanvi,Patel,saanvi.patel425@example.com,Male,18,Electronics,65.21,62.69,50.46,81.94,82.6,60.7,92.01,66.12,C,25,Yes,No,PhD,Low,Low
+Aarav,Verma,aarav.verma590@example.com,Female,25,Electronics,100.0,70.69,62.38,100.0,58.17,78.2,78.16,72.05,B,26,No,Yes,Master,Low,High
+Arjun,Kumar,arjun.kumar54@example.com,Male,18,Electronics,93.45,75.4,64.52,65.49,69.9,67.93,76.57,69.3,C,27,No,Yes,PhD,High,Low
+Aditya,Banerjee,aditya.banerjee511@example.com,Female,24,Computer Science,74.36,47.59,90.83,70.02,58.78,76.32,76.82,71.57,B,6,Yes,Yes,High School,Low,Low
+Pari,Joshi,pari.joshi199@example.com,Male,24,Electrical,62.54,74.97,56.29,92.11,80.29,74.0,67.06,70.7,B,24,Yes,No,Diploma,Middle,Medium
+Diya,Pandey,diya.pandey67@example.com,Other,17,Data Science,78.95,79.19,71.62,72.83,74.7,71.96,71.88,74.04,B,26,Yes,No,Diploma,Low,Low
+Shaurya,Yadav,shaurya.yadav588@example.com,Female,18,Electrical,59.14,84.61,76.48,67.27,96.78,78.87,63.57,77.99,B,28,Yes,No,High School,Middle,Medium
+Ishaan,Iyer,ishaan.iyer89@example.com,Male,19,Mechanical,88.57,75.97,77.92,70.74,79.41,75.38,82.67,76.85,B,34,No,Yes,Master,Low,Low
+Siya,Chatterjee,siya.chatterjee30@example.com,Male,23,Data Science,60.95,63.49,97.83,67.33,66.75,73.52,61.42,76.71,B,34,Yes,Yes,High School,Low,High
+Shaurya,Banerjee,shaurya.banerjee529@example.com,Other,18,Computer Science,57.92,66.54,74.04,74.47,72.26,78.43,88.27,73.69,B,34,No,Yes,PhD,Low,Low
+Siya,Joshi,siya.joshi915@example.com,Female,18,Data Science,78.1,61.39,67.78,80.79,90.94,71.72,77.19,71.59,B,14,No,Yes,Bachelor,Low,High
+Reyansh,Gupta,reyansh.gupta986@example.com,Female,25,Computer Science,83.38,55.11,72.31,60.34,52.77,81.67,71.39,64.64,C,33,No,No,Master,Middle,Medium
+Aadhya,Gupta,aadhya.gupta55@example.com,Male,22,Civil,82.02,69.73,57.35,74.55,59.2,91.91,59.73,65.18,C,19,No,Yes,PhD,Low,Medium
+Atharv,Iyer,atharv.iyer266@example.com,Female,19,Data Science,78.04,54.37,80.56,71.69,67.78,86.53,76.35,71.28,B,18,Yes,No,PhD,Middle,Low
+Aadhya,Saxena,aadhya.saxena958@example.com,Female,23,Civil,85.17,55.28,50.93,76.07,70.17,84.26,75.04,61.79,C,26,No,No,Bachelor,High,Low
+Shaurya,Tiwari,shaurya.tiwari130@example.com,Other,17,Mechanical,82.05,45.65,100.0,73.36,82.37,69.64,79.7,77.1,B,9,Yes,No,PhD,High,Low
+Arjun,Patel,arjun.patel826@example.com,Female,19,Mechanical,66.97,76.78,66.66,75.29,82.38,65.67,67.79,72.12,B,23,Yes,Yes,High School,Middle,Low
+Arjun,Chatterjee,arjun.chatterjee397@example.com,Male,17,Electrical,84.57,100.0,69.93,80.91,72.72,97.42,55.03,79.26,B,6,No,Yes,Diploma,Low,Medium
+Diya,Reddy,diya.reddy871@example.com,Other,21,Mechanical,80.95,45.62,34.4,77.97,75.67,75.15,74.73,53.94,D,7,Yes,Yes,Master,Low,High
+Riya,Gupta,riya.gupta802@example.com,Other,25,Data Science,100.0,66.13,79.65,68.51,77.54,75.62,71.07,73.33,B,11,No,Yes,High School,Middle,Medium
+Riya,Gupta,riya.gupta86@example.com,Female,19,Mechanical,98.19,87.66,74.05,51.96,69.67,100.0,73.23,74.92,B,12,Yes,No,PhD,Low,High
+Aarav,Malhotra,aarav.malhotra192@example.com,Other,20,Computer Science,91.03,91.63,75.28,66.58,44.78,84.84,66.22,74.59,B,22,Yes,No,PhD,Low,Low
+Aadhya,Saxena,aadhya.saxena467@example.com,Female,22,Mechanical,81.76,51.25,68.02,75.34,77.22,66.85,90.36,68.02,C,19,Yes,No,PhD,Middle,Medium
+Siya,Mehta,siya.mehta985@example.com,Male,19,Data Science,74.03,44.88,70.36,75.34,75.93,91.62,73.16,66.64,C,20,Yes,Yes,PhD,Middle,Medium
+Siya,Gupta,siya.gupta832@example.com,Other,23,Data Science,78.8,53.45,84.31,76.84,68.96,58.95,93.33,73.57,B,33,No,No,Master,Low,Low
+Aditya,Saxena,aditya.saxena572@example.com,Other,17,Civil,67.72,61.13,77.38,63.03,56.08,56.76,84.65,68.73,C,20,Yes,No,High School,Low,Medium
+Pari,Nair,pari.nair374@example.com,Female,21,Electrical,74.55,100.0,57.08,65.79,67.22,80.43,70.36,72.63,B,33,No,Yes,Master,High,Medium
+Navya,Verma,navya.verma222@example.com,Other,19,Electrical,86.12,55.32,51.28,57.02,47.32,72.82,72.39,55.94,C,18,No,No,PhD,Low,Low
+Saanvi,Chatterjee,saanvi.chatterjee234@example.com,Other,22,Electrical,73.69,88.65,90.42,71.65,52.47,72.33,68.8,80.3,B,32,No,No,Bachelor,High,Low
+Riya,Chatterjee,riya.chatterjee430@example.com,Other,17,Mechanical,73.43,59.53,62.2,71.13,66.37,80.08,80.32,66.0,C,20,No,Yes,Master,High,Low
+Krishna,Kapoor,krishna.kapoor805@example.com,Other,25,Computer Science,70.89,89.07,57.3,58.82,78.57,69.83,79.86,70.48,B,5,Yes,No,Diploma,High,High
+Diya,Saxena,diya.saxena155@example.com,Male,19,Computer Science,55.96,90.89,82.08,60.0,56.25,94.72,67.15,77.53,B,30,Yes,No,Diploma,Middle,Medium
+Myra,Nair,myra.nair284@example.com,Female,24,Civil,71.66,36.01,66.74,72.72,82.59,64.01,57.76,60.5,C,32,No,Yes,High School,Middle,Low
+Reyansh,Yadav,reyansh.yadav494@example.com,Female,24,Civil,84.51,85.1,48.43,85.82,74.45,88.92,75.16,70.51,B,22,Yes,No,Diploma,High,Medium
+Arjun,Saxena,arjun.saxena899@example.com,Other,23,Electrical,54.78,67.72,87.9,66.06,69.34,76.24,41.21,72.47,B,33,Yes,Yes,Master,Low,Low
+Navya,Singh,navya.singh104@example.com,Other,24,Electronics,96.71,56.48,79.59,74.13,89.09,82.06,73.18,73.43,B,14,No,No,PhD,Low,Medium
+Vivaan,Nair,vivaan.nair1@example.com,Male,21,Electronics,71.06,81.97,43.9,81.46,60.81,90.52,77.94,66.48,C,31,No,Yes,PhD,Low,High
+Reyansh,Singh,reyansh.singh392@example.com,Other,25,Data Science,86.44,71.23,45.71,66.39,82.07,79.67,90.17,64.97,C,11,No,Yes,High School,High,High
+Ishaan,Pandey,ishaan.pandey670@example.com,Other,20,Electronics,84.03,55.5,60.06,76.03,46.23,94.73,81.3,63.79,C,18,No,Yes,Master,High,Low
+Aarav,Chatterjee,aarav.chatterjee172@example.com,Male,22,Electrical,92.27,46.29,90.67,97.31,58.15,85.71,76.01,75.61,B,26,Yes,No,Master,Low,High
+Atharv,Kumar,atharv.kumar113@example.com,Other,18,Mechanical,64.56,77.39,84.5,68.99,87.99,61.33,58.06,76.95,B,17,No,Yes,PhD,Middle,Medium
+Pari,Gupta,pari.gupta703@example.com,Female,24,Electronics,81.37,70.38,61.25,83.1,80.37,86.58,74.52,71.32,B,19,No,Yes,Diploma,High,High
+Navya,Singh,navya.singh935@example.com,Female,23,Computer Science,86.03,63.32,100.0,66.87,99.26,78.35,59.49,80.65,B,34,No,No,Master,High,Medium
+Arjun,Pandey,arjun.pandey22@example.com,Other,18,Computer Science,93.68,71.89,84.77,87.24,78.06,72.08,87.71,80.91,B,27,Yes,Yes,PhD,High,Low
+Saanvi,Das,saanvi.das80@example.com,Other,18,Electronics,80.01,80.29,39.69,79.47,66.34,94.53,83.48,65.59,C,27,Yes,No,Master,Low,Low
+Diya,Kapoor,diya.kapoor106@example.com,Female,22,Data Science,82.4,77.29,57.02,91.23,97.9,81.93,95.08,76.36,B,33,No,Yes,Diploma,Low,Medium
+Siya,Verma,siya.verma400@example.com,Male,20,Electrical,74.31,58.04,72.61,79.35,69.27,83.38,79.68,70.89,B,9,Yes,Yes,PhD,Low,Low
+Saanvi,Banerjee,saanvi.banerjee241@example.com,Other,23,Computer Science,70.02,77.78,84.95,76.71,87.83,65.83,81.62,80.92,B,21,Yes,No,Diploma,Low,Low
+Siya,Patel,siya.patel400@example.com,Other,23,Mechanical,68.3,53.29,62.54,65.58,67.42,75.86,86.05,64.19,C,22,Yes,No,PhD,Middle,Low
+Navya,Tiwari,navya.tiwari37@example.com,Female,20,Electrical,76.79,46.22,89.1,66.63,73.3,82.47,78.4,72.03,B,26,No,No,Bachelor,Middle,Medium
+Aadhya,Kapoor,aadhya.kapoor616@example.com,Other,21,Mechanical,90.94,77.19,59.08,96.79,76.33,76.53,87.57,74.71,B,17,No,No,Bachelor,Low,Medium
+Siya,Gupta,siya.gupta143@example.com,Male,19,Mechanical,82.49,75.99,100.0,72.25,70.19,79.17,88.86,84.7,B,8,No,Yes,Bachelor,High,Low
+Pari,Yadav,pari.yadav669@example.com,Male,18,Data Science,64.93,40.52,63.19,58.66,68.9,83.02,65.31,58.62,C,34,No,No,PhD,Low,High
+Sai,Malhotra,sai.malhotra830@example.com,Other,21,Data Science,65.73,71.04,84.94,58.05,83.84,86.17,87.45,77.63,B,26,Yes,Yes,PhD,High,High
+Shaurya,Patel,shaurya.patel986@example.com,Female,23,Computer Science,92.18,100.0,66.66,76.1,69.0,78.02,94.39,79.99,B,25,Yes,No,PhD,High,Medium
+Anaya,Reddy,anaya.reddy13@example.com,Male,21,Civil,66.55,57.08,92.66,85.2,69.64,86.54,80.09,78.78,B,21,No,No,Diploma,Low,Medium
+Aarav,Gupta,aarav.gupta113@example.com,Other,20,Information Technology,95.0,71.12,87.38,100.0,81.18,78.49,84.67,83.87,B,16,Yes,No,High School,Middle,High
+Aditya,Malhotra,aditya.malhotra535@example.com,Female,17,Computer Science,76.35,100.0,74.7,72.27,63.97,88.97,86.41,81.47,B,19,Yes,Yes,Diploma,Low,Low
+Sai,Joshi,sai.joshi345@example.com,Other,17,Data Science,75.03,78.65,49.37,76.85,79.43,95.07,66.75,67.84,C,20,No,No,Master,Middle,Low
+Sai,Kumar,sai.kumar276@example.com,Female,22,Mechanical,67.22,56.57,51.95,88.37,92.58,81.2,90.66,67.96,C,10,No,Yes,High School,Low,Medium
+Aadhya,Tiwari,aadhya.tiwari473@example.com,Female,21,Electrical,81.34,68.57,67.0,71.9,55.43,80.64,75.52,68.51,C,20,No,Yes,High School,Low,High
+Diya,Singh,diya.singh849@example.com,Male,25,Electronics,87.45,71.4,69.56,66.29,74.87,85.38,62.28,70.12,B,16,Yes,Yes,Master,Middle,Medium
+Anika,Malhotra,anika.malhotra662@example.com,Female,24,Computer Science,80.87,73.5,61.23,69.12,76.77,66.67,80.2,69.2,C,10,No,Yes,Diploma,High,Low
+Navya,Kapoor,navya.kapoor644@example.com,Other,20,Information Technology,71.05,85.94,100.0,66.39,80.41,70.73,88.49,86.87,A,18,No,No,PhD,High,Low
+Aarav,Verma,aarav.verma478@example.com,Male,21,Electrical,67.35,77.21,58.91,72.93,61.63,86.22,65.96,67.93,C,13,No,No,PhD,High,Medium
+Saanvi,Reddy,saanvi.reddy861@example.com,Male,22,Electronics,85.52,64.84,70.28,76.48,64.86,80.1,94.36,72.21,B,29,No,Yes,Bachelor,Low,Low
+Reyansh,Banerjee,reyansh.banerjee369@example.com,Male,20,Electrical,72.22,87.58,94.47,66.84,56.54,81.02,69.43,81.63,B,33,No,Yes,High School,Middle,Medium
+Diya,Reddy,diya.reddy421@example.com,Female,21,Information Technology,98.69,70.52,59.97,63.53,87.08,72.29,76.53,68.12,C,13,No,No,PhD,Low,Medium
+Shaurya,Singh,shaurya.singh329@example.com,Male,22,Computer Science,89.56,62.74,71.31,74.83,82.2,83.91,73.36,71.62,B,30,Yes,Yes,Diploma,Low,High
+Myra,Kumar,myra.kumar191@example.com,Male,23,Information Technology,80.64,64.42,49.84,77.58,96.71,69.16,66.72,64.99,C,17,Yes,Yes,Master,Low,Low
+Riya,Kumar,riya.kumar449@example.com,Other,19,Information Technology,71.29,80.87,78.73,73.41,62.98,78.92,57.22,74.75,B,32,No,No,Bachelor,Middle,Medium
+Aditya,Verma,aditya.verma34@example.com,Other,18,Electronics,81.43,83.07,53.23,59.67,92.95,71.88,89.63,70.2,B,32,Yes,Yes,Diploma,Low,Medium
+Atharv,Pandey,atharv.pandey829@example.com,Other,18,Data Science,78.46,67.57,78.58,66.16,75.59,74.19,60.15,71.6,B,6,Yes,Yes,High School,Low,High
+Arjun,Malhotra,arjun.malhotra489@example.com,Other,25,Data Science,83.37,66.05,69.64,62.9,93.1,86.77,87.57,72.73,B,32,No,No,Bachelor,Low,High
+Diya,Patel,diya.patel975@example.com,Female,23,Electrical,76.95,44.06,100.0,74.39,65.01,82.17,90.01,76.78,B,16,Yes,Yes,High School,High,High
+Krishna,Patel,krishna.patel689@example.com,Male,22,Information Technology,79.77,89.18,88.24,64.24,65.91,87.58,43.45,78.13,B,29,Yes,Yes,Bachelor,Middle,Low
+Riya,Banerjee,riya.banerjee412@example.com,Male,19,Computer Science,78.51,48.54,64.85,72.01,69.7,72.48,62.83,62.51,C,26,Yes,Yes,Diploma,Middle,Low
+Krishna,Kapoor,krishna.kapoor638@example.com,Female,17,Mechanical,100.0,98.01,54.57,90.82,69.21,79.29,75.24,75.63,B,11,Yes,No,Bachelor,High,High
+Navya,Kumar,navya.kumar356@example.com,Female,21,Electronics,73.4,84.76,73.89,70.23,58.34,69.06,56.3,72.5,B,30,No,No,Diploma,High,Medium
+Pari,Saxena,pari.saxena686@example.com,Female,17,Civil,80.12,52.05,68.02,88.7,88.39,77.68,74.95,70.34,B,13,Yes,Yes,PhD,Middle,High
+Vivaan,Reddy,vivaan.reddy188@example.com,Male,20,Civil,98.8,77.81,67.08,60.74,78.73,86.29,68.42,71.07,B,33,Yes,No,High School,Low,Medium
+Sai,Joshi,sai.joshi158@example.com,Other,24,Civil,82.91,64.55,69.24,50.12,71.34,87.69,68.42,66.25,C,7,No,Yes,High School,Middle,High
+Riya,Kumar,riya.kumar320@example.com,Female,25,Information Technology,80.53,58.66,77.41,72.83,62.73,91.33,87.15,72.24,B,33,Yes,No,PhD,High,High
+Myra,Yadav,myra.yadav380@example.com,Other,20,Electronics,73.95,77.47,80.06,81.42,53.67,88.07,69.16,76.29,B,22,Yes,Yes,Diploma,Low,High
+Pari,Singh,pari.singh275@example.com,Other,21,Computer Science,76.42,100.0,76.53,71.14,47.54,91.9,59.86,77.79,B,32,No,No,Bachelor,Middle,High
+Ishaan,Verma,ishaan.verma800@example.com,Female,18,Information Technology,69.97,65.03,93.25,82.73,72.11,81.08,68.8,79.45,B,18,No,No,Bachelor,Middle,High
+Riya,Mehta,riya.mehta329@example.com,Female,20,Electrical,81.4,71.1,86.53,84.67,79.93,74.38,84.9,80.96,B,27,Yes,No,Diploma,High,Medium
+Anika,Mehta,anika.mehta216@example.com,Male,20,Electronics,79.08,53.77,65.95,75.85,84.92,76.16,61.49,66.35,C,9,No,No,Diploma,High,Medium
+Aadhya,Singh,aadhya.singh32@example.com,Female,23,Electrical,80.57,71.7,74.79,84.2,86.23,72.06,68.61,75.82,B,31,Yes,Yes,Master,Low,High
+Aditya,Yadav,aditya.yadav90@example.com,Other,18,Civil,69.6,80.48,93.73,71.85,71.1,92.67,82.07,83.65,B,14,No,Yes,Bachelor,Middle,High
+Navya,Chatterjee,navya.chatterjee24@example.com,Male,23,Electrical,84.36,52.14,82.18,65.71,60.39,74.53,68.97,68.32,C,11,Yes,Yes,Diploma,High,Medium
+Riya,Joshi,riya.joshi961@example.com,Female,18,Electronics,77.78,48.39,86.38,86.28,50.63,87.78,66.27,71.35,B,15,Yes,No,Bachelor,High,High
+Aarav,Das,aarav.das229@example.com,Male,17,Electrical,88.57,68.97,72.43,73.15,88.55,65.6,83.29,74.03,B,17,No,No,Master,High,Low
+Aadhya,Nair,aadhya.nair126@example.com,Male,20,Electronics,91.01,80.75,100.0,69.71,85.49,76.94,90.8,87.12,A,20,Yes,No,High School,High,Medium
+Ishaan,Gupta,ishaan.gupta690@example.com,Other,25,Electronics,79.92,64.18,91.59,70.08,57.05,72.83,83.43,76.3,B,10,Yes,Yes,High School,High,Low
+Aarav,Gupta,aarav.gupta98@example.com,Female,24,Information Technology,93.92,71.67,91.77,61.42,68.68,75.11,74.63,77.34,B,14,No,Yes,High School,Low,High
+Sai,Pandey,sai.pandey571@example.com,Female,25,Electronics,80.84,80.36,65.33,76.39,73.46,68.74,74.64,72.66,B,11,Yes,Yes,High School,Low,Medium
+Aditya,Chatterjee,aditya.chatterjee35@example.com,Male,25,Civil,78.56,67.52,72.48,75.76,68.81,90.73,61.97,71.23,B,30,No,No,PhD,Middle,High
+Shaurya,Singh,shaurya.singh790@example.com,Female,24,Mechanical,72.79,100.0,56.43,61.46,82.81,57.23,73.18,72.43,B,22,No,No,PhD,Middle,Medium
+Aditya,Reddy,aditya.reddy927@example.com,Other,22,Computer Science,100.0,46.83,42.27,60.01,84.78,89.25,69.85,55.43,C,21,Yes,No,High School,Low,Medium
+Myra,Singh,myra.singh582@example.com,Other,21,Electrical,86.83,90.85,98.81,72.54,46.38,69.79,70.88,83.39,B,18,Yes,Yes,Diploma,High,High
+Aadhya,Malhotra,aadhya.malhotra316@example.com,Other,19,Electrical,77.41,67.18,88.78,87.74,71.94,88.98,80.29,80.7,B,10,Yes,No,Master,Low,High
+Anaya,Pandey,anaya.pandey606@example.com,Female,17,Electrical,80.65,83.6,73.08,95.58,56.74,72.85,74.48,77.58,B,12,Yes,No,Diploma,High,Medium
+Saanvi,Iyer,saanvi.iyer274@example.com,Other,18,Electronics,84.39,89.02,71.63,60.78,84.11,85.55,52.7,74.4,B,15,Yes,No,High School,Low,High
+Aditya,Yadav,aditya.yadav803@example.com,Male,22,Mechanical,79.96,46.15,62.03,65.97,83.71,79.17,60.57,61.53,C,29,No,Yes,Diploma,Middle,Medium
+Arjun,Patel,arjun.patel702@example.com,Male,17,Electrical,88.8,48.49,76.95,66.86,69.61,83.04,82.26,68.42,C,27,No,No,Diploma,Middle,Medium
+Myra,Nair,myra.nair971@example.com,Other,17,Civil,93.37,68.77,76.6,70.62,76.18,82.39,74.82,73.81,B,35,No,Yes,High School,High,Medium
+Riya,Joshi,riya.joshi338@example.com,Male,23,Computer Science,61.96,74.97,77.47,68.2,58.59,92.76,81.9,74.77,B,10,No,No,Master,Low,High
+Anika,Saxena,anika.saxena534@example.com,Female,25,Information Technology,77.71,52.94,59.67,88.03,75.65,72.49,82.12,66.73,C,9,No,Yes,PhD,Middle,Medium
+Aarav,Banerjee,aarav.banerjee460@example.com,Female,24,Electronics,71.86,92.51,92.29,70.33,66.46,51.82,58.22,81.04,B,26,Yes,No,Master,High,Low
+Shaurya,Joshi,shaurya.joshi979@example.com,Male,21,Mechanical,66.61,72.03,67.11,61.55,70.63,83.05,82.33,70.17,B,11,Yes,Yes,Master,High,Low
+Riya,Gupta,riya.gupta280@example.com,Other,23,Computer Science,61.0,68.08,51.25,84.02,83.41,69.02,66.81,66.03,C,18,No,No,Bachelor,Low,Low
+Myra,Verma,myra.verma150@example.com,Other,24,Electronics,75.39,36.21,77.04,72.27,85.64,67.02,68.57,65.63,C,15,No,No,Master,High,High
+Shaurya,Mehta,shaurya.mehta570@example.com,Male,17,Electrical,64.93,54.94,54.27,84.96,65.62,79.24,71.43,63.14,C,10,No,No,Master,High,Low
+Reyansh,Mehta,reyansh.mehta402@example.com,Other,20,Computer Science,67.31,67.48,80.99,62.92,83.71,69.5,70.2,73.52,B,14,No,Yes,PhD,High,Low
+Atharv,Malhotra,atharv.malhotra520@example.com,Male,23,Electrical,85.31,60.05,72.56,71.85,75.55,54.19,54.04,66.86,C,19,Yes,Yes,PhD,High,Medium
+Aditya,Iyer,aditya.iyer575@example.com,Female,24,Electrical,86.16,85.56,58.34,72.56,77.54,84.93,51.67,69.86,C,31,No,No,High School,Low,Low
+Myra,Yadav,myra.yadav758@example.com,Male,23,Computer Science,71.14,65.01,82.55,99.98,71.26,63.93,80.83,78.55,B,13,Yes,No,Bachelor,Middle,Low
+Siya,Das,siya.das544@example.com,Male,21,Information Technology,93.21,71.62,58.4,84.58,81.96,67.74,80.58,70.67,B,5,No,Yes,PhD,Low,High
+Aadhya,Banerjee,aadhya.banerjee707@example.com,Male,22,Computer Science,89.97,87.73,71.0,71.42,88.73,65.9,81.26,77.79,B,23,No,Yes,High School,Low,Medium
+Aadhya,Gupta,aadhya.gupta742@example.com,Female,19,Data Science,66.3,85.98,68.13,87.69,79.9,65.77,93.1,79.08,B,32,No,Yes,Bachelor,Middle,Medium
+Vivaan,Iyer,vivaan.iyer439@example.com,Male,24,Electronics,95.51,83.23,60.58,71.94,75.75,70.96,96.31,73.55,B,10,No,No,High School,High,Medium
+Anika,Nair,anika.nair371@example.com,Female,18,Electrical,81.44,29.45,77.09,71.52,73.1,74.31,85.68,64.67,C,16,No,Yes,Diploma,Middle,Low
+Diya,Kumar,diya.kumar19@example.com,Female,20,Electronics,91.2,74.25,66.91,74.59,74.24,69.98,82.95,72.39,B,29,No,No,PhD,High,Medium
+Aadhya,Verma,aadhya.verma650@example.com,Other,20,Mechanical,84.6,93.11,90.83,68.14,83.84,68.49,84.35,85.53,A,9,Yes,No,Bachelor,Low,Low
+Anika,Verma,anika.verma99@example.com,Other,25,Computer Science,74.83,54.65,76.2,48.25,52.99,76.23,76.99,64.38,C,16,Yes,No,Bachelor,Middle,High
+Arjun,Saxena,arjun.saxena471@example.com,Other,20,Data Science,76.31,46.31,59.73,78.91,80.98,77.84,89.88,65.3,C,25,No,Yes,Diploma,Middle,High
+Pari,Saxena,pari.saxena211@example.com,Other,17,Civil,83.97,58.79,67.79,60.97,72.7,89.12,84.22,67.72,C,25,No,Yes,Master,Low,Medium
+Saanvi,Saxena,saanvi.saxena45@example.com,Other,23,Electrical,94.02,65.46,92.19,73.07,91.66,77.78,84.49,81.09,B,20,No,No,Master,High,Low
+Aarav,Mehta,aarav.mehta17@example.com,Female,21,Electrical,94.75,67.1,75.28,87.89,72.4,64.79,100.0,76.78,B,32,No,Yes,Diploma,High,Medium
+Siya,Reddy,siya.reddy318@example.com,Male,22,Civil,75.3,72.38,89.34,68.92,61.91,80.54,54.48,75.37,B,25,Yes,Yes,Diploma,High,High
+Anaya,Singh,anaya.singh751@example.com,Male,18,Electronics,77.12,73.68,67.95,59.57,93.13,79.04,93.17,73.72,B,7,Yes,No,Master,High,Low
+Anika,Gupta,anika.gupta477@example.com,Female,18,Mechanical,77.4,56.8,76.04,72.84,59.87,92.7,68.53,69.21,C,16,No,No,High School,Low,High
+Arjun,Iyer,arjun.iyer410@example.com,Other,18,Mechanical,61.6,89.92,64.44,68.92,52.82,95.41,60.53,71.48,B,33,No,Yes,Bachelor,Middle,High
+Saanvi,Chatterjee,saanvi.chatterjee330@example.com,Male,22,Electronics,80.58,83.69,78.33,74.4,53.58,69.9,78.25,76.18,B,14,No,Yes,PhD,Middle,High
+Siya,Gupta,siya.gupta568@example.com,Other,20,Computer Science,72.13,73.05,82.23,84.63,59.29,99.97,85.21,79.18,B,34,Yes,Yes,High School,High,Low
+Anika,Chatterjee,anika.chatterjee331@example.com,Female,21,Electronics,79.98,86.34,100.0,60.61,71.3,54.22,78.31,83.35,B,15,No,No,High School,High,High
+Anika,Verma,anika.verma675@example.com,Male,24,Electronics,83.65,69.41,62.18,54.5,78.48,92.55,68.91,66.66,C,17,Yes,No,Diploma,Low,Medium
+Ishaan,Mehta,ishaan.mehta852@example.com,Male,25,Electrical,84.4,46.48,78.86,71.07,64.85,70.4,71.28,67.01,C,17,No,Yes,Master,Low,High
+Reyansh,Das,reyansh.das955@example.com,Female,21,Electrical,83.82,50.32,66.04,74.59,60.81,95.97,65.76,64.34,C,13,Yes,Yes,Master,High,Medium
+Diya,Singh,diya.singh249@example.com,Other,18,Civil,73.31,55.33,98.98,80.53,62.76,89.06,78.41,79.12,B,32,Yes,No,PhD,Low,Medium
+Atharv,Reddy,atharv.reddy466@example.com,Male,19,Data Science,82.57,64.83,60.76,78.38,67.46,96.17,60.77,66.86,C,14,No,No,Master,Low,Low
+Navya,Kumar,navya.kumar389@example.com,Other,24,Information Technology,95.36,68.33,76.49,83.33,66.44,86.64,43.51,71.68,B,20,No,No,Bachelor,Low,Low
+Myra,Chatterjee,myra.chatterjee842@example.com,Other,21,Information Technology,72.8,56.14,53.2,72.85,78.63,85.03,78.89,63.58,C,16,No,No,Master,High,Medium
+Saanvi,Kapoor,saanvi.kapoor499@example.com,Other,24,Electronics,73.34,75.54,73.86,84.36,83.32,78.3,65.23,76.16,B,22,Yes,No,Master,High,Low
+Saanvi,Singh,saanvi.singh200@example.com,Male,24,Computer Science,73.47,61.75,67.27,77.68,82.58,77.49,76.19,70.39,B,24,Yes,Yes,High School,Low,Low
+Riya,Tiwari,riya.tiwari192@example.com,Male,22,Data Science,81.43,62.26,58.12,57.45,65.66,82.73,67.57,61.98,C,13,Yes,Yes,Diploma,Low,Low
+Shaurya,Chatterjee,shaurya.chatterjee144@example.com,Other,23,Data Science,77.62,77.0,79.81,64.2,85.96,89.27,62.44,76.12,B,20,No,No,Master,Low,Low
+Krishna,Patel,krishna.patel310@example.com,Male,23,Information Technology,71.76,87.87,69.8,52.8,57.2,75.51,62.04,70.02,B,7,No,Yes,PhD,High,Medium
+Aadhya,Singh,aadhya.singh794@example.com,Male,25,Data Science,75.87,70.49,93.93,72.1,86.87,92.29,93.21,83.94,B,6,Yes,No,PhD,Middle,High
+Reyansh,Verma,reyansh.verma104@example.com,Female,18,Computer Science,82.85,40.55,78.91,85.48,73.03,95.45,86.32,71.29,B,11,Yes,Yes,Master,Low,Medium
+Shaurya,Chatterjee,shaurya.chatterjee617@example.com,Female,21,Mechanical,85.68,86.3,77.0,50.07,68.01,89.97,66.31,73.97,B,6,Yes,No,Diploma,Middle,High
+Arjun,Verma,arjun.verma233@example.com,Female,22,Data Science,77.77,54.33,98.76,91.81,63.39,79.47,67.83,79.02,B,5,No,Yes,Bachelor,Middle,Low
+Vivaan,Patel,vivaan.patel99@example.com,Other,19,Electronics,86.15,77.65,84.18,78.32,100.0,67.72,55.47,79.55,B,16,No,No,PhD,High,High
+Riya,Nair,riya.nair439@example.com,Female,25,Data Science,76.07,46.48,49.61,64.99,62.93,68.45,82.22,56.67,C,12,Yes,Yes,High School,High,Low
+Ishaan,Das,ishaan.das451@example.com,Male,23,Computer Science,74.94,67.31,85.41,67.34,70.83,81.66,52.7,73.26,B,35,Yes,Yes,Master,Low,Medium
+Aarav,Das,aarav.das4@example.com,Female,22,Electronics,56.15,75.19,79.38,95.64,75.9,86.2,73.65,80.19,B,30,No,Yes,Master,High,High
+Saanvi,Banerjee,saanvi.banerjee479@example.com,Male,25,Mechanical,82.97,95.01,40.14,79.14,99.63,80.82,95.81,73.26,B,20,Yes,Yes,Bachelor,Middle,Medium
+Diya,Yadav,diya.yadav945@example.com,Other,25,Computer Science,73.71,69.52,72.5,52.82,59.98,67.03,85.86,68.62,C,16,No,Yes,Bachelor,High,High
+Sai,Saxena,sai.saxena896@example.com,Female,20,Electrical,88.72,74.86,84.36,73.36,88.42,78.09,76.69,79.66,B,28,Yes,No,PhD,Middle,Low
+Navya,Iyer,navya.iyer526@example.com,Other,18,Mechanical,77.34,80.27,65.68,84.76,60.41,67.01,84.25,73.59,B,25,Yes,Yes,Diploma,Low,High
+Sai,Sharma,sai.sharma691@example.com,Other,25,Electrical,79.11,63.19,85.35,68.93,71.6,91.99,94.47,77.22,B,22,Yes,No,PhD,Low,Medium
+Navya,Gupta,navya.gupta350@example.com,Other,18,Electrical,95.72,65.77,90.46,65.51,63.12,54.5,96.07,76.57,B,25,No,Yes,Master,Middle,Medium
+Aarav,Chatterjee,aarav.chatterjee436@example.com,Female,17,Electrical,71.36,68.1,58.35,81.95,69.49,64.95,81.3,68.07,C,17,No,Yes,High School,Low,High
+Reyansh,Mehta,reyansh.mehta727@example.com,Female,22,Electronics,65.66,57.44,40.4,60.76,76.14,58.35,58.23,53.97,D,13,Yes,No,Master,Low,Low
+Aadhya,Chatterjee,aadhya.chatterjee521@example.com,Male,20,Electronics,79.98,61.85,100.0,93.34,63.58,83.57,84.99,83.5,B,31,Yes,No,High School,High,High
+Arjun,Iyer,arjun.iyer475@example.com,Female,23,Civil,74.03,47.57,71.82,73.27,68.77,82.42,66.99,65.72,C,27,No,No,Master,Middle,High
+Aditya,Kapoor,aditya.kapoor571@example.com,Male,18,Data Science,68.48,71.64,77.79,63.23,85.14,60.3,69.06,73.06,B,11,Yes,No,Bachelor,Middle,High
+Krishna,Reddy,krishna.reddy802@example.com,Other,24,Electronics,77.42,60.46,63.52,93.71,63.79,100.0,81.25,70.91,B,20,No,No,High School,Low,Low
+Saanvi,Gupta,saanvi.gupta37@example.com,Other,23,Electronics,80.92,77.14,100.0,65.06,60.55,70.45,76.39,81.26,B,29,Yes,Yes,Bachelor,Middle,Medium
+Aadhya,Patel,aadhya.patel207@example.com,Female,22,Computer Science,62.74,70.34,97.4,76.51,70.49,71.82,86.78,82.47,B,33,Yes,Yes,High School,Low,Low
+Atharv,Verma,atharv.verma472@example.com,Other,24,Mechanical,71.74,97.7,100.0,77.57,73.86,88.31,89.14,91.77,A,19,Yes,Yes,Bachelor,Middle,Low
+Anika,Gupta,anika.gupta537@example.com,Male,21,Electronics,71.94,62.1,52.16,79.09,82.0,64.5,70.54,64.13,C,8,No,Yes,Bachelor,High,High
+Atharv,Pandey,atharv.pandey277@example.com,Male,21,Computer Science,66.53,56.52,80.27,67.67,70.39,61.73,78.24,70.32,B,32,Yes,Yes,High School,Middle,High
+Saanvi,Mehta,saanvi.mehta998@example.com,Male,24,Civil,79.56,59.07,69.16,76.8,64.22,63.24,97.67,69.85,C,11,No,Yes,Master,Middle,Low
+Diya,Verma,diya.verma707@example.com,Female,17,Data Science,73.67,68.55,87.16,100.0,59.07,82.5,67.51,79.43,B,7,Yes,Yes,Diploma,Low,High
+Siya,Saxena,siya.saxena538@example.com,Other,20,Data Science,74.61,59.2,55.12,74.59,56.31,87.47,76.66,62.95,C,17,No,No,High School,High,High
+Krishna,Patel,krishna.patel478@example.com,Other,18,Data Science,84.22,63.01,66.49,77.88,60.03,74.42,65.68,67.0,C,31,No,Yes,Diploma,Middle,High
+Sai,Mehta,sai.mehta135@example.com,Male,24,Mechanical,71.09,38.35,92.09,68.13,87.96,88.69,60.57,71.33,B,6,No,Yes,Bachelor,Middle,High
+Siya,Kumar,siya.kumar722@example.com,Male,21,Data Science,69.12,100.0,98.26,74.68,77.09,71.69,81.19,90.01,A,19,Yes,Yes,High School,High,High
+Reyansh,Joshi,reyansh.joshi813@example.com,Male,19,Civil,72.83,39.51,52.18,75.21,60.43,77.33,63.1,55.64,C,17,Yes,No,PhD,Low,Medium
+Aditya,Das,aditya.das106@example.com,Male,25,Electronics,72.18,82.8,75.71,74.9,84.55,82.81,93.36,80.37,B,13,No,Yes,Diploma,Low,High
+Navya,Patel,navya.patel365@example.com,Other,22,Electrical,75.4,63.56,52.48,70.71,85.58,91.0,87.52,66.72,C,13,Yes,Yes,PhD,High,High
+Diya,Sharma,diya.sharma479@example.com,Male,23,Electrical,62.06,86.25,44.42,83.98,69.59,85.03,60.01,66.92,C,31,No,No,Master,High,Low
+Aadhya,Malhotra,aadhya.malhotra948@example.com,Female,25,Data Science,91.71,48.03,61.97,65.02,52.95,78.95,97.67,62.46,C,17,No,Yes,PhD,Middle,Medium
+Anika,Nair,anika.nair884@example.com,Male,25,Information Technology,100.0,71.46,88.75,77.32,79.99,74.58,78.34,80.09,B,22,Yes,No,High School,High,High
+Anika,Reddy,anika.reddy863@example.com,Male,19,Computer Science,85.37,61.32,70.84,74.42,83.92,67.34,75.38,70.58,B,24,No,No,PhD,High,Low
+Anika,Das,anika.das64@example.com,Male,17,Mechanical,99.12,87.46,92.24,75.24,77.85,88.02,94.72,87.09,A,20,No,No,Bachelor,Low,Medium
+Atharv,Gupta,atharv.gupta19@example.com,Other,23,Electronics,60.48,50.27,91.64,72.23,65.94,65.46,69.34,72.28,B,34,Yes,No,PhD,Low,Low
+Shaurya,Gupta,shaurya.gupta881@example.com,Female,22,Mechanical,65.98,100.0,71.66,74.42,81.06,87.62,87.35,82.47,B,10,No,No,Bachelor,Low,High
+Pari,Sharma,pari.sharma137@example.com,Male,25,Electrical,90.74,60.54,67.53,82.69,67.67,77.95,80.79,69.92,C,27,Yes,No,Diploma,High,Low
